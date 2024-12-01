@@ -1,9 +1,9 @@
 {
     "Japan": [
         [
-            31.80321656258743,
-            130.2805347822029,
-            "VSCEHO4b5bk7UcL2l6bEIA"
+            43.81299626844464,
+            144.5011382387445,
+            "D1f3Gi2McjEJi567uC5RlA"
         ],
         [
             39.89900895153243,
@@ -11,14 +11,14 @@
             "R2scBvp71WwfOLNLd_-lSA"
         ],
         [
-            34.52825805577375,
-            134.2262969989072,
-            "la7ixFOOYSLS19TCuqyUbw"
+            34.6202632154976,
+            129.624645284919,
+            "CAoSLEFGMVFpcE9MaWtsSlNDYTRXTzN5QjlBRkdhdjhrS3MtQzRWTUhGWHdodS1v"
         ],
         [
-            39.00130139771257,
-            141.5461272977707,
-            "AmUsRyfnTJVU12UjY4YnBQ"
+            39.48193099416647,
+            140.2689724452471,
+            "CAoSLEFGMVFpcE5oS1lLZ00za3M2Nmt3OE9WR0xoX1NaTVNKT0ZCTGlxYWdkWC1f"
         ],
         [
             33.56219306089895,
@@ -26,16 +26,51 @@
             "qGDpeyJCZg_EFG8tVDYIoA"
         ],
         [
-            34.6202632154976,
-            129.624645284919,
-            "CAoSLEFGMVFpcE9MaWtsSlNDYTRXTzN5QjlBRkdhdjhrS3MtQzRWTUhGWHdodS1v"
+            34.19795600353395,
+            135.5229599547739,
+            "bL7Bdw1D44wgApEhuEorvA"
+        ],
+        [
+            31.80321656258743,
+            130.2805347822029,
+            "VSCEHO4b5bk7UcL2l6bEIA"
+        ],
+        [
+            34.52825805577375,
+            134.2262969989072,
+            "la7ixFOOYSLS19TCuqyUbw"
+        ],
+        [
+            34.07694568551815,
+            134.1066327037207,
+            "d3o84sDs8YePP5mZJPJJhg"
+        ],
+        [
+            39.00130139771257,
+            141.5461272977707,
+            "AmUsRyfnTJVU12UjY4YnBQ"
         ]
     ],
     "korea": [
         [
-            35.78088181242829,
-            126.498619235428,
-            "CAoSLEFGMVFpcE5jTzR1dWJtaVlhREZ0Y2pEZktiMU55TFNyUk40dEhUUnk2Z3dX"
+            37.10301186498921,
+            128.6406911710722,
+            "OCizTnmJZD5Y_GQJucO6lQ"
+        ],
+        [
+            36.09283815093257,
+            129.2145750749822,
+            "3GK-J0rRC8T92H8NxyaM6A"
+        ],
+        [
+            35.05967303281732,
+            127.5994364399556,
+            "7rM7t-93XtfvDUDhR0bM4w"
+        ],
+        [
+            37.60663143539239,
+            128.1028517752964,
+            "HIQ6GioTEZfRrfgFI_3wPw"
         ],
         [
             35.42024451938012,
@@ -43,24 +78,24 @@
             "CAoSLEFGMVFpcE9XNFpobUFPMVR1YWpvTTNTQklyMkpPUWw5TnpPSXQ1a0xwTkth"
         ],
         [
-            35.30529837688098,
-            126.774441777019,
-            "CAoSLEFGMVFpcFAwV0FacWRISTZLbEhSc3hOakZrbUd0UC10ZGZWZUZmZTN5Z2lU"
-        ],
-        [
-            37.35088789191942,
-            128.7909715003922,
-            "CAoSLEFGMVFpcE5aOG15bEs1NEJpUlVaeEM4TjhES1hnSHdwNTNoZ1ptclA5aWVW"
-        ],
-        [
             34.8733392729421,
             126.6455448223772,
             "0rbpQduSoe9yFA8qBJ7nAw"
         ],
         [
-            36.09283815093257,
-            129.2145750749822,
-            "3GK-J0rRC8T92H8NxyaM6A"
+            35.30529837688098,
+            126.774441777019,
+            "CAoSLEFGMVFpcFAwV0FacWRISTZLbEhSc3hOakZrbUd0UC10ZGZWZUZmZTN5Z2lU"
+        ],
+        [
+            36.35046109529101,
+            129.0859592394496,
+            "iCPM0vVUn9q__UGyFwareg"
+        ],
+        [
+            37.35088789191942,
+            128.7909715003922,
+            "CAoSLEFGMVFpcE5aOG15bEs1NEJpUlVaeEM4TjhES1hnSHdwNTNoZ1ptclA5aWVW"
         ],
         [
             36.6235189832795,
@@ -71,13 +106,33 @@
             34.48770489803732,
             126.2777809358803,
             "CAoSLEFGMVFpcE5yM29TSE5yOVUyZmVlZ1RTaE4tZlpXLUtVSzNoR0J5dnpmd1lT"
+        ],
+        [
+            35.78088181242829,
+            126.498619235428,
+            "CAoSLEFGMVFpcE5jTzR1dWJtaVlhREZ0Y2pEZktiMU55TFNyUk40dEhUUnk2Z3dX"
+        ],
+        [
+            36.53744159113135,
+            126.3280939780801,
+            "0VF2jWVMHkp2am7ow0lfDA"
+        ],
+        [
+            36.88727392209287,
+            127.857624374101,
+            "CAoSLEFGMVFpcE9hdjFibkQ3MUc4T3g5S2JDWjlCNWllVmhlbXFHN2M2TmEzVFhu"
         ]
     ],
     "Thailand": [
         [
-            16.33735717447588,
-            100.2424371469786,
-            "g3lnWArc74HqytBVC-fl1A"
+            17.69309189846481,
+            104.3833643174755,
+            "T4JnU37CJIzbYXuMs8LxSQ"
+        ],
+        [
+            18.43346234870123,
+            98.74008773244562,
+            "-XY9c6zPy41gJXxa4vesNg"
         ],
         [
             15.79811972196043,
@@ -90,14 +145,14 @@
             "3q4WBqTXp7oYRjYoLtpWEQ"
         ],
         [
-            12.28249160772054,
-            99.80156164857854,
-            "My5ZBIOlwwH0_HGeRFklPw"
+            14.75589064724189,
+            103.1942778438591,
+            "jHo_jnMipypqK6T0OFKA0g"
         ],
         [
-            17.80900845504246,
-            103.4655055780509,
-            "npU218dXyNRvLae2sNOIzA"
+            17.73019527241791,
+            99.64312887792171,
+            "nCUsDrLYKK3dayU5QLkUgw"
         ],
         [
             7.691911524881939,
@@ -110,21 +165,41 @@
             "OpvfkLzaoPnkl1ZTynApqA"
         ],
         [
+            17.35649104957652,
+            102.9794368793551,
+            "mUoHQ0LVd5gp9Wd2lTCB5Q"
+        ],
+        [
             16.55872875704222,
             99.12224270327735,
             "By0n7TMqNvmimtk7RaRn_w"
         ],
         [
-            17.35649104957652,
-            102.9794368793551,
-            "mUoHQ0LVd5gp9Wd2lTCB5Q"
+            15.85693731451251,
+            103.7480146120203,
+            "CAoSLEFGMVFpcFBzd2VIdXhzczlzQWhQd2FiRHJFRHNZaDdEeFVWM0V2Z294c2E3"
+        ],
+        [
+            12.28249160772054,
+            99.80156164857854,
+            "My5ZBIOlwwH0_HGeRFklPw"
+        ],
+        [
+            16.33735717447588,
+            100.2424371469786,
+            "g3lnWArc74HqytBVC-fl1A"
+        ],
+        [
+            17.80900845504246,
+            103.4655055780509,
+            "npU218dXyNRvLae2sNOIzA"
         ]
     ],
     "Malaysia": [
         [
-            4.741416403028976,
-            100.709996055322,
-            "2U4rxz7WARdlZr0W_OyZKQ"
+            5.455694721134934,
+            101.4003676673928,
+            "CAoSLEFGMVFpcFBrM2pMNnYwakh5d1psalJBUGFFQzBVZ0RKaU5lajU0X2F6bFNh"
         ],
         [
             3.94475889814338,
@@ -132,14 +207,44 @@
             "YqElv_2J3Rjjc72R1OOHuw"
         ],
         [
+            5.707632267276326,
+            116.0125848088287,
+            "-g47vjR2d7wCk8quzmfwLw"
+        ],
+        [
+            2.114431234969431,
+            103.2479966175754,
+            "J5e4rWWmwF7O_FIESX3QNA"
+        ],
+        [
+            3.42727002609406,
+            102.2678357007095,
+            "CAoSLEFGMVFpcE8yeUJoUkJYaG1HdXlydTEtZEFERVF4VHg0UThHWnMyMU94cnFG"
+        ],
+        [
             1.860558313084513,
             103.7155532780064,
             "CAoSLEFGMVFpcE1IMHhZX0gxT3o1S3BPR1hMTmRkbEJiaXRRU0hJcF8yNE40UmJC"
         ],
         [
+            6.528443374342288,
+            116.6092329484449,
+            "hf8AZOliS8l791anliwIvg"
+        ],
+        [
+            4.26456354941667,
+            114.0107097783349,
+            "AjztNFT3aAWrthyhqLOC4Q"
+        ],
+        [
             2.023043387622272,
             111.9660667224015,
             "CAoSLEFGMVFpcE9sQkNyYjA1Z3JEMW9XYllCVmVncWY3OWl1cmFCamZtNGtWVkt1"
+        ],
+        [
+            4.741416403028976,
+            100.709996055322,
+            "2U4rxz7WARdlZr0W_OyZKQ"
         ]
     ],
     "Brunei": [
@@ -151,9 +256,19 @@
     ],
     "Pilipinas": [
         [
-            8.116872696592784,
-            122.8424283711276,
-            "jboZx_TS_BOBVeMYW7TfyA"
+            9.833893313449456,
+            122.6492783807493,
+            "_EGA9qXnhL2YeQv8jo28-Q"
+        ],
+        [
+            18.27289659326135,
+            121.6576714424491,
+            "dBMNSvibVMMDEa5dClWGKA"
+        ],
+        [
+            11.58999921668794,
+            122.1023104224595,
+            "CAoSLEFGMVFpcE44T0c0ZGgtM1VSR0ctb19WNkEyM1llYV9FN0lJMGJRYkxDV2pN"
         ],
         [
             16.35999605851968,
@@ -161,14 +276,9 @@
             "LV9jabQ2isM5DtVUmYjTrw"
         ],
         [
-            15.24989143285189,
-            121.0888861991831,
-            "sisiaAULnN1Ty0HRQdCzKw"
-        ],
-        [
-            16.19150798035847,
-            121.2429133979818,
-            "p-ijX92pj1dMR-0OdWXV3A"
+            8.116872696592784,
+            122.8424283711276,
+            "jboZx_TS_BOBVeMYW7TfyA"
         ],
         [
             6.592583356156515,
@@ -176,26 +286,41 @@
             "FMzctS_E8xopuKlYWdXmdg"
         ],
         [
-            9.833893313449456,
-            122.6492783807493,
-            "_EGA9qXnhL2YeQv8jo28-Q"
+            16.66912349162309,
+            120.6597290558253,
+            "ZH0WDKOmKRQEjWE4KnKECg"
         ],
         [
-            11.58999921668794,
-            122.1023104224595,
-            "CAoSLEFGMVFpcE44T0c0ZGgtM1VSR0ctb19WNkEyM1llYV9FN0lJMGJRYkxDV2pN"
+            15.31592862174306,
+            121.3713865717448,
+            "EU2mlO8SPRb0ai4fJ-LI7A"
+        ],
+        [
+            12.20335310854345,
+            123.729336394346,
+            "zDnQaquKALTt05U9KJmj4A"
+        ],
+        [
+            10.1576391100853,
+            123.8579980680533,
+            "CAoSLEFGMVFpcE1WNXU5SE9JMXNCWUxNLVdob2JjbVpvU0xDeWg5VnFrVWRZQzN0"
+        ],
+        [
+            16.19150798035847,
+            121.2429133979818,
+            "p-ijX92pj1dMR-0OdWXV3A"
+        ],
+        [
+            15.24989143285189,
+            121.0888861991831,
+            "sisiaAULnN1Ty0HRQdCzKw"
         ]
     ],
     "Kingdom of Cambodia": [
         [
-            10.9490816025438,
-            105.385309943911,
-            "2U9aY_URlC11uagV-oaGtw"
-        ],
-        [
-            14.31006704675475,
-            103.1961649716395,
-            "BWixy9C93bbQqqfyDeNBfQ"
+            11.15758115843762,
+            104.7094139501599,
+            "hDk7tkx6MQZ43meO8k81wQ"
         ],
         [
             13.69381356953205,
@@ -203,51 +328,56 @@
             "pzJl0fl9kiFCnYvv7oJQWQ"
         ],
         [
+            10.59804569921831,
+            104.7336996570922,
+            "czvrLzlnCn_AgXZLS_O9mg"
+        ],
+        [
+            11.39736154148503,
+            104.6510741713212,
+            "cJ8u-qg2huxqsKAdxJkllw"
+        ],
+        [
             11.80311777146067,
             103.6490696602192,
             "CAoSLEFGMVFpcFBTeEs4am80NEk4bmcwNVZDZ3VOYjNSZGtiRVhTR2NxYUM3VWRS"
         ],
         [
-            11.15758115843762,
-            104.7094139501599,
-            "hDk7tkx6MQZ43meO8k81wQ"
+            14.31006704675475,
+            103.1961649716395,
+            "BWixy9C93bbQqqfyDeNBfQ"
+        ],
+        [
+            10.9490816025438,
+            105.385309943911,
+            "2U9aY_URlC11uagV-oaGtw"
+        ],
+        [
+            11.96051772020631,
+            105.8942571910723,
+            "fMd9GM7yRxMWarCNM_opag"
+        ],
+        [
+            13.50106200216177,
+            104.5030209813397,
+            "CAoSLEFGMVFpcFBIZ3ZaMFVVYlBNS1N4WF96Mk5kWHVtbHlkazAtVHc3MTVFNXVE"
+        ],
+        [
+            13.50774715358918,
+            103.4147449992077,
+            "2Ndh64YVtM4gJBn6aYLReg"
         ]
     ],
     "Indonesia": [
         [
-            1.14079923257462,
-            103.9191321661251,
-            "CAoSLEFGMVFpcFBZNGhGMWxTUWZvaFNPaUhRQUh0QXlnTENZQWhnTmxmR1M5QVVa"
+            1.643226796564037,
+            101.7367705382449,
+            "CAoSLEFGMVFpcE1SUTlOTU1LYkNpMlFfTHBFZkc3Nkc3Z2VZNUxOZjB6a3BvY0Zk"
         ],
         [
-            2.151349396374588,
-            99.7873434803686,
-            "Dg1_F-49FxaV9uckRiS8Ig"
-        ],
-        [
-            5.533891339457242,
-            95.83227106748733,
-            "CAoSLEFGMVFpcE5pWjZmUnJJYXZoSEJrdHY2QlI0bEp5ZG1uSTZRb3BXQktSQzZC"
-        ],
-        [
-            -6.602330390801931,
-            105.9989448481027,
-            "y_RceYKcNlEf5hg6aH-R8Q"
-        ],
-        [
-            1.600547720296565,
-            100.8263719425967,
-            "doTlhvZbvlAbzo34bzI9OQ"
-        ],
-        [
-            1.020346105420427,
-            99.81414699227007,
-            "Te6viQvSyxiFH7P2R2zVyA"
-        ],
-        [
-            -3.538152570475684,
-            118.9177183096109,
-            "JD5RKzlLuEZ02-_-tgmpFA"
+            -7.430894187481527,
+            106.8519996425845,
+            "FWX8_zDfg_t96E-N5JoSQQ"
         ],
         [
             -4.358485146700083,
@@ -263,18 +393,83 @@
             1.918599690088422,
             99.96712348630413,
             "GTMIJeSh8uE3qUHsRJtkVQ"
+        ],
+        [
+            -6.671829114350851,
+            107.8988475730339,
+            "Bb57ZCySQYQq2CiTr6YAcQ"
+        ],
+        [
+            5.533891339457242,
+            95.83227106748733,
+            "CAoSLEFGMVFpcE5pWjZmUnJJYXZoSEJrdHY2QlI0bEp5ZG1uSTZRb3BXQktSQzZC"
+        ],
+        [
+            1.600547720296565,
+            100.8263719425967,
+            "doTlhvZbvlAbzo34bzI9OQ"
+        ],
+        [
+            -8.690480568574303,
+            121.6265888197124,
+            "LhmYyIz4takx9TPHYk3tdA"
+        ],
+        [
+            1.14079923257462,
+            103.9191321661251,
+            "CAoSLEFGMVFpcFBZNGhGMWxTUWZvaFNPaUhRQUh0QXlnTENZQWhnTmxmR1M5QVVa"
+        ],
+        [
+            1.020346105420427,
+            99.81414699227007,
+            "Te6viQvSyxiFH7P2R2zVyA"
+        ],
+        [
+            -6.602330390801931,
+            105.9989448481027,
+            "y_RceYKcNlEf5hg6aH-R8Q"
+        ],
+        [
+            1.133456112981915,
+            103.9316240870833,
+            "NQkznnMZf4MkEf1h9_pfgg"
+        ],
+        [
+            -3.538152570475684,
+            118.9177183096109,
+            "JD5RKzlLuEZ02-_-tgmpFA"
+        ],
+        [
+            2.151349396374588,
+            99.7873434803686,
+            "Dg1_F-49FxaV9uckRiS8Ig"
         ]
     ],
     "Singapore": [
         [
-            1.409680777094374,
-            103.9886216316809,
-            "CAoSK0FGMVFpcE1wOW92Z3Y0cE5OQlpjVmZiQUxjZzJEdEhHQk1jMkhyMm1NMlU."
-        ],
-        [
             1.271525194942342,
             103.9678412406221,
             "CAoSLEFGMVFpcFBWdnZyUFo1SGlwRUx0SGN1a2pMYXkxRndHekRLMjd4d01peTZz"
+        ],
+        [
+            1.378674267811631,
+            103.8015828047355,
+            "CAoSLEFGMVFpcE1rMFZqd2ZmZkhORk1WbXdkZEtlY1Y3QnVibEFaX3JURlZ6SWxs"
+        ],
+        [
+            1.369247923784891,
+            103.8730395823863,
+            "gaxUNM1kMpcmhhL2LkKk0A"
+        ],
+        [
+            1.309721071317695,
+            103.7381380616069,
+            "jUV5mXfbq3QJd7K13gHeVw"
+        ],
+        [
+            1.337910244962097,
+            103.9734172236157,
+            "e1_sa_USvNpYxSDkc7J4Dg"
         ],
         [
             1.374899024684933,
@@ -282,16 +477,61 @@
             "BfIN3q52sND6L8_fRcJ6lw"
         ],
         [
-            1.309721071317695,
-            103.7381380616069,
-            "jUV5mXfbq3QJd7K13gHeVw"
+            1.25993503122072,
+            103.9162216017062,
+            "CAoSLEFGMVFpcE43SVdYWFhKcUYxVGZlX2ZydWtlNWJWeTFjczhsbkhXb2lTNnNQ"
+        ],
+        [
+            1.409680777094374,
+            103.9886216316809,
+            "CAoSK0FGMVFpcE1wOW92Z3Y0cE5OQlpjVmZiQUxjZzJEdEhHQk1jMkhyMm1NMlU."
         ]
     ],
     "India": [
         [
+            23.00387168157603,
+            81.52422757569208,
+            "qATp6YeATECTla9dpF68xQ"
+        ],
+        [
+            23.92438559893235,
+            74.88683833720323,
+            "QYCqTOlmhxhdvSwKmfiNfg"
+        ],
+        [
+            22.68640649695331,
+            72.91596485813595,
+            "RFxhTtYNZK613IUYMxQVAA"
+        ],
+        [
+            24.24317973659215,
+            79.79927767497652,
+            "90pR6fbOrji_29ZCrh_enA"
+        ],
+        [
+            24.51911143481514,
+            74.98586538549056,
+            "7dUY07Zo2O_V13ZNpLZYSQ"
+        ],
+        [
             22.36164928717226,
             88.74120281319573,
             "phjbqxuBQBc27f_ItKt34w"
+        ],
+        [
+            26.36549880755867,
+            88.89860394365743,
+            "JtVUL_lDgUzV6QZlItvdLg"
+        ],
+        [
+            22.17483084620952,
+            87.33051321976328,
+            "CsQvAykuwMn4nGR6Ti8Vgw"
+        ],
+        [
+            27.10356930781219,
+            88.82115608365851,
+            "CAoSLEFGMVFpcE1MZ20ycVRGT1dBbE93dm5mT0lnWW1rOUhNR0xvWXNQMW1yelVK"
         ],
         [
             26.7766970785943,
@@ -304,11 +544,6 @@
             "PTyE7ETpxsmA_8lHpUTEuw"
         ],
         [
-            21.32810571178809,
-            86.6126588135017,
-            "T-AuRAPnku4aPeJz_gFCxw"
-        ],
-        [
             26.75679001516026,
             90.54145504008018,
             "oNUwtibbuSrMfHlI_uiQWA"
@@ -319,22 +554,37 @@
             "CAoSLEFGMVFpcE56R25YX3lPcjJlRE14alNzWEdvdk9vV2dFVzlNemRUSDAyVnRW"
         ],
         [
-            23.00387168157603,
-            81.52422757569208,
-            "qATp6YeATECTla9dpF68xQ"
+            18.47921720720151,
+            75.41158059176517,
+            "d4r8Zj69YKFnxAzZ8zsOkw"
         ],
         [
-            23.92438559893235,
-            74.88683833720323,
-            "QYCqTOlmhxhdvSwKmfiNfg"
-        ],
-        [
-            26.36549880755867,
-            88.89860394365743,
-            "JtVUL_lDgUzV6QZlItvdLg"
+            21.32810571178809,
+            86.6126588135017,
+            "T-AuRAPnku4aPeJz_gFCxw"
         ]
     ],
     "Sri Lanka": [
+        [
+            7.775130109849651,
+            80.53844673230849,
+            "eTz8XehXHCTurM1BsGz4dA"
+        ],
+        [
+            6.392264111665442,
+            80.59963518197169,
+            "CAoSLEFGMVFpcE5iR0VoT1h2dnVMNU1TcC1hczcySWJKUjdNSGdQaWl1UEdNeFFO"
+        ],
+        [
+            7.625989597257028,
+            79.86845460455848,
+            "LLLJ3W3jfMfK_uNfWqcUUg"
+        ],
+        [
+            6.294798025796705,
+            80.67015834134493,
+            "X_E1eamWlh5Htc_ZHOt1Kw"
+        ],
         [
             6.461541317818041,
             80.7382747660011,
@@ -346,11 +596,6 @@
             "KoaDx7P6zo5t4RgcS08rCw"
         ],
         [
-            7.875574749099465,
-            81.49221822168839,
-            "1tQk0cKflTup4g3q6UaaSQ"
-        ],
-        [
             9.225374254396682,
             80.76240978810453,
             "07Wy3xFn3wrXV_ziKMVSCg"
@@ -359,13 +604,43 @@
             7.708726021623804,
             81.36953329566455,
             "CAoSLEFGMVFpcE1LdXZZcjl1Z0VmVHRveEs2LXlqSWI4N21DbHBnV2lYSnlJSFBV"
+        ],
+        [
+            7.117052004042938,
+            81.20134681962968,
+            "M8uLDMhpjpcX7oPHso7mRg"
+        ],
+        [
+            7.875574749099465,
+            81.49221822168839,
+            "1tQk0cKflTup4g3q6UaaSQ"
         ]
     ],
     "Bhutan": [
         [
+            26.85533676998197,
+            91.01599532488353,
+            "CAoSLEFGMVFpcE9OYkxSNWRnRTNxQjlySm94cVg2d3NJVHZ2cm5DVlM0WHF4Ykxu"
+        ],
+        [
+            27.31880239810586,
+            91.43604713789375,
+            "ppLt_yBqJUobkkUxWqCusQ"
+        ],
+        [
             26.91315810652698,
             91.17297050048424,
             "CAoSLEFGMVFpcE5WWDZZRVJNR0lwRU96SHllZmhpVWtwT0lUUzlIQTBMN1dyUEZE"
+        ],
+        [
+            27.11777539617559,
+            90.6734918104643,
+            "CAoSLEFGMVFpcE9JczVuRkd4dm9TdzBZaGVlTVE3YS01Z0JHUVBQbTdjZFJiVWhf"
+        ],
+        [
+            27.65872927187152,
+            91.45510532116464,
+            "CAoSLEFGMVFpcE5DcWNVTlJrMmpxSzVvM3RxTVZ4SWJWN3V3cjBZYWoxUTA1U2Fj"
         ],
         [
             27.25450626762266,
@@ -375,9 +650,9 @@
     ],
     "Kyrgyzstan": [
         [
-            42.46383033556387,
-            77.94194873982967,
-            "CAoSLEFGMVFpcFAwY0NCSjhVMG53MW44dHRUSnRQeGJDUktQQ3BFRENBT2F2bXN6"
+            40.73994398045773,
+            75.30390303680718,
+            "CAoSLEFGMVFpcE1DYUlxREd1NVBreVplX0NZaXFpMGxDY0ZPMERsZVIxUi1ZRnpL"
         ],
         [
             42.71726219311974,
@@ -385,16 +660,36 @@
             "sItY-dalzj9WilyukCvKjw"
         ],
         [
+            42.46383033556387,
+            77.94194873982967,
+            "CAoSLEFGMVFpcFAwY0NCSjhVMG53MW44dHRUSnRQeGJDUktQQ3BFRENBT2F2bXN6"
+        ],
+        [
+            43.11148153298312,
+            74.42605809007985,
+            "CAoSLEFGMVFpcE5uRkFWeHVqc0tBQXZUb0sxbmJ5bFkteThaV3NMTXJhWWhxQ3RP"
+        ],
+        [
             41.14257062919412,
             75.03356417653441,
             "CAoSLEFGMVFpcE84dWYxQWw3NmtMUVdYOXRxU2ZRNG9SWk5fTXEzWE51aDQ4Q3g2"
+        ],
+        [
+            41.29432269690313,
+            75.34121790692471,
+            "CAoSLEFGMVFpcE9TUzl5LWZoTzdhdGtRVTZPRjd1OTN1TjNuZUtoYnc1TE1jWnNE"
+        ],
+        [
+            40.23157362177233,
+            74.41883331908319,
+            "CAoSLEFGMVFpcE5HWjZhS2VMVWJoNndoNk80RU9zcDJYU3IteUNGenVhQ0ZUNGNB"
         ]
     ],
     "THE MOST KNOW \u182e\u1824\u1829\u182d\u1824\u182f \u1824\u182f\u1824\u1830": [
         [
-            50.47760809132197,
-            93.59856340679133,
-            "CAoSLEFGMVFpcE0zQmhsVjRucUF6WjBiZ0JSdHVwLWxjSjg3Mnc1Yjg3YVQ2WGpw"
+            47.95290799604969,
+            106.017377200307,
+            "CAoSLEFGMVFpcE8tM0RkLTJDbDRiTkVMRU5QQUtjUXp4aXh0S0JST3FVMzRiSTAy"
         ],
         [
             49.36743760438129,
@@ -402,12 +697,67 @@
             "qKJQZqrXZuoSnaCJaNTYhg"
         ],
         [
+            47.76442602879548,
+            95.82834117130196,
+            "cHCE-gQaMPE4gwsn5pdueA"
+        ],
+        [
             44.95305219655556,
             100.4765485027638,
             "CAoSLEFGMVFpcFA0ZEhLak5zcXgyVzVkdTFrcDdVUkhVa3A2eFBQUnlTaWQzS2pO"
+        ],
+        [
+            48.45304538624725,
+            103.8149103586769,
+            "CAoSLEFGMVFpcE1Jdy1fLVN5bEs0U0p2V201UzU2QWZsTlM5MnJJRlhmNzdBSFEy"
+        ],
+        [
+            46.08167868382356,
+            97.95250198794884,
+            "CAoSLEFGMVFpcE0ycmIxZHI1T2RXVTNWZzRJcExoYjFRdHBGUG9JbWl3SE5FeWpY"
+        ],
+        [
+            46.79138499110586,
+            94.39673307174807,
+            "sisHL81xNdLfs9qnyWwpzA"
+        ],
+        [
+            50.47760809132197,
+            93.59856340679133,
+            "CAoSLEFGMVFpcE0zQmhsVjRucUF6WjBiZ0JSdHVwLWxjSjg3Mnc1Yjg3YVQ2WGpw"
         ]
     ],
     "Russia": [
+        [
+            51.71862392205952,
+            81.80792102781776,
+            "uJq2cXQgeSt9gf5Q6QCNug"
+        ],
+        [
+            50.07666779113725,
+            85.21944426886988,
+            "CAoSLEFGMVFpcE5Tc21yeHNGZW9qSTNQTUFKSEl5dllQTjFuNV9laTEtcnhmR3ZS"
+        ],
+        [
+            54.85834591636089,
+            71.53460652156531,
+            "ZWoXb3jds_xVGBEqcVsTBA"
+        ],
+        [
+            61.21206816274657,
+            62.88979147869549,
+            "LB-nHCXMqsEqp2GqqYsOFQ"
+        ],
+        [
+            54.36297641553058,
+            31.82566718145363,
+            "CAoSLEFGMVFpcE5wZk9MSzJXNXhPUDRINDluWjF3Ykp5eWJUV1lpRlFJd19UdTZD"
+        ],
+        [
+            50.98883020907529,
+            111.4849569330772,
+            "wyPjVDKUyLR3sQ47irtAUA"
+        ],
         [
             63.07395116319127,
             113.5211608031637,
@@ -419,14 +769,9 @@
             "CAoSLEFGMVFpcE01N05VMUJxWG9qbmc5OXVfX3NlZS1KVVNMR2tUd085RFpjLWRX"
         ],
         [
-            51.71862392205952,
-            81.80792102781776,
-            "uJq2cXQgeSt9gf5Q6QCNug"
-        ],
-        [
-            50.98883020907529,
-            111.4849569330772,
-            "wyPjVDKUyLR3sQ47irtAUA"
+            52.68908212435853,
+            80.58772989344092,
+            "4NpoXvkpjlh_L9NroIyEqA"
         ],
         [
             52.29605418676694,
@@ -434,19 +779,9 @@
             "CAoSLEFGMVFpcFBBZFZSZXAzNFJjcG9TQmtEeWcxS0dpc1RlNklMNXRZTjE2Q3Zz"
         ],
         [
-            51.63690645235636,
-            107.4195815757993,
-            "zxxHrIvcf6pzT1Z4oJk0Og"
-        ],
-        [
-            50.07666779113725,
-            85.21944426886988,
-            "CAoSLEFGMVFpcE5Tc21yeHNGZW9qSTNQTUFKSEl5dllQTjFuNV9laTEtcnhmR3ZS"
-        ],
-        [
-            61.21206816274657,
-            62.88979147869549,
-            "LB-nHCXMqsEqp2GqqYsOFQ"
+            54.52237120171784,
+            22.0145860667922,
+            "vQWfVFuWxLi22Qhr3fqtsQ"
         ],
         [
             55.19318033326586,
@@ -459,9 +794,19 @@
             "lZ9fP-DiDvnBJQb5ISn-tA"
         ],
         [
-            54.52237120171784,
-            22.0145860667922,
-            "vQWfVFuWxLi22Qhr3fqtsQ"
+            53.17062819483048,
+            83.22467129727777,
+            "CAoSLEFGMVFpcE9FNVBiYngtLWNUdm9rZFN1MlBzU0RLYUdsNWRDUk93QzRSUHR5"
+        ],
+        [
+            67.00198692664455,
+            30.99696237016352,
+            "lWMat7O1nuufVMqnwz29vw"
+        ],
+        [
+            51.63690645235636,
+            107.4195815757993,
+            "zxxHrIvcf6pzT1Z4oJk0Og"
         ],
         [
             54.24148523774127,
@@ -471,14 +816,14 @@
     ],
     "T\u00fcrkiye": [
         [
-            40.4824113734124,
-            30.87200850659633,
-            "CAoSLEFGMVFpcE5ZSlk4VjRSM2RTZGhUM2RFbHR6NjV3OGpnR3JJaVlfWUdEWmFY"
-        ],
-        [
             37.78200849802187,
             39.25953467984598,
             "ax1zna-C3KCbFILODYvEUQ"
+        ],
+        [
+            40.38525015737344,
+            29.48139884258067,
+            "Z2b3xhUWW9mj_lkuFLkDaQ"
         ],
         [
             37.93855832679028,
@@ -486,21 +831,56 @@
             "zwIxYGqrkibqTXqgxFF2ZQ"
         ],
         [
-            37.97156504604564,
-            32.23439406906603,
-            "0FfSRgBwGcNAZENWLGFWAQ"
+            39.30990216396265,
+            39.78329032670169,
+            "pwb5cElfLD2ORz3F1q0C4w"
+        ],
+        [
+            39.13834292033802,
+            30.36632320078006,
+            "2sSTDieKV4PJmuv0s0IBzw"
+        ],
+        [
+            39.83822591134055,
+            26.06988847571412,
+            "CAoSLEFGMVFpcE9xRVBVYTRmeGEtT3lOaWpoYVFoS3REU2xxckNYakZab0R5MXc3"
+        ],
+        [
+            36.54340492864244,
+            36.06066106467654,
+            "CAoSLEFGMVFpcE9ra211MFRtVlMzNDg5b2FMMFZtcmhFNmtiM0VxVzZpT2tRZGI5"
         ],
         [
             37.71505664611306,
             41.39849018847232,
             "CAoSLEFGMVFpcE5RSjMtQkxGVFNoN3F5ZE4zNV95ZjR4cUNvbmdackhQMXA5SjVs"
+        ],
+        [
+            37.97156504604564,
+            32.23439406906603,
+            "0FfSRgBwGcNAZENWLGFWAQ"
+        ],
+        [
+            37.51702389433038,
+            35.83093724515219,
+            "TSNcMt5-EVnAOCLbZ5PXTA"
+        ],
+        [
+            40.4824113734124,
+            30.87200850659633,
+            "CAoSLEFGMVFpcE5ZSlk4VjRSM2RTZGhUM2RFbHR6NjV3OGpnR3JJaVlfWUdEWmFY"
         ]
     ],
     "Oman": [
         [
-            22.21081455952125,
-            59.4659328701011,
-            "BVxd94kPeApQtt7sHHn5Tg"
+            23.75554854044715,
+            57.11640048160578,
+            "iGil6rn-AHUQg6egZUR8gg"
+        ],
+        [
+            22.73348884135255,
+            56.0010350795002,
+            "y_duyPCf9Wie9FB4jQBGpQ"
         ],
         [
             18.0111203706147,
@@ -508,47 +888,32 @@
             "1FVrNllhMmyDINC8Bt1zTg"
         ],
         [
+            22.21081455952125,
+            59.4659328701011,
+            "BVxd94kPeApQtt7sHHn5Tg"
+        ],
+        [
+            22.54181666507546,
+            57.61518473198453,
+            "jgdaQKTj_yXqCLDZiTSR9Q"
+        ],
+        [
             24.87371748682045,
             56.31795859568356,
             "pFDYJlEUn4C-15Cw3ZNVmg"
         ],
         [
-            23.75554854044715,
-            57.11640048160578,
-            "iGil6rn-AHUQg6egZUR8gg"
+            22.19924926289707,
+            58.76276780308552,
+            "CAoSLEFGMVFpcFAxMlQ3Ulp2dnJVN1k0TkdILWZYOHJfd29aZUppODRDdTRHSVRZ"
+        ],
+        [
+            26.33817587803074,
+            56.41531427516761,
+            "CAoSLEFGMVFpcE5qcWFJTGE4anJjZmNoVXV6MHNWa0JXR1lUejJnTVg4YVI4Wk80"
         ]
     ],
     "Israel": [
-        [
-            32.14046700015386,
-            34.88711895828667,
-            "l_YfahLW9j7NOdr46ZLe6A"
-        ],
-        [
-            30.83713154327878,
-            34.83262246717702,
-            "CAoSLEFGMVFpcE1KbFhKMmdudnJXTEg1dkRtVTgyWUxtTmgtMmc4SFdCU0hsb3Rj"
-        ],
-        [
-            31.51817697790431,
-            34.90272302956145,
-            "CAoSLEFGMVFpcE5kbHprWEY1OGlZUTlaREtTT2NHSmo2T2hXaWRQWHVFR0t4d3Nw"
-        ],
-        [
-            33.13080593631434,
-            35.57085651003955,
-            "4XblNCZ_hxcHo_FsK0cODg"
-        ],
-        [
-            32.59195031151756,
-            35.15407988403538,
-            "QCBYtWCl92dCAYnYUYN3vA"
-        ],
-        [
-            32.4841402959777,
-            35.03936490719352,
-            "rHrrOU7xnQrDuaqj9lNp6A"
-        ],
         [
             31.77335726977072,
             35.00133831733415,
@@ -560,12 +925,117 @@
             "CAoSLEFGMVFpcE5LNng3SEY1TlN6N3BEaVZfM0dWTHNBSS1qODlvSGdpcDJZWlN4"
         ],
         [
+            31.82586042861498,
+            35.05800292515362,
+            "CAoSLEFGMVFpcFBiNlhlVGRBQ1YxbzZWZEQxOXFkdHlkQkRSQ3RxNENEZmFxR3BL"
+        ],
+        [
+            31.51817697790431,
+            34.90272302956145,
+            "CAoSLEFGMVFpcE5kbHprWEY1OGlZUTlaREtTT2NHSmo2T2hXaWRQWHVFR0t4d3Nw"
+        ],
+        [
+            31.39820199499387,
+            35.38581956162819,
+            "32PjVEwYVuefWRxHlesN6w"
+        ],
+        [
+            33.13080593631434,
+            35.57085651003955,
+            "4XblNCZ_hxcHo_FsK0cODg"
+        ],
+        [
+            31.7776984855588,
+            35.10011666272466,
+            "CAoSLEFGMVFpcFBZZ0tuSl9DeUplNXg4UFdrbG1adW5JZ3hVbG5ZV2R1U0dta0Zy"
+        ],
+        [
+            30.83713154327878,
+            34.83262246717702,
+            "CAoSLEFGMVFpcE1KbFhKMmdudnJXTEg1dkRtVTgyWUxtTmgtMmc4SFdCU0hsb3Rj"
+        ],
+        [
+            32.59195031151756,
+            35.15407988403538,
+            "QCBYtWCl92dCAYnYUYN3vA"
+        ],
+        [
+            31.19129795687719,
+            35.3232145193443,
+            "CAoSLEFGMVFpcE55U1g1cUthMEE4c2RyWF9QLWw5NFFoNW55WEhpd3VKeUZlVFJq"
+        ],
+        [
+            32.4841402959777,
+            35.03936490719352,
+            "rHrrOU7xnQrDuaqj9lNp6A"
+        ],
+        [
+            31.73046210582022,
+            35.1823500975695,
+            "szoZm-KloNZ5frZ-lZKuPw"
+        ],
+        [
+            32.48428840089219,
+            34.92162219619072,
+            "P_Nt5plvJwnRwR2-NfyMpg"
+        ],
+        [
+            32.14046700015386,
+            34.88711895828667,
+            "l_YfahLW9j7NOdr46ZLe6A"
+        ],
+        [
+            31.78164202564069,
+            34.85126510999216,
+            "CAoSLEFGMVFpcE53RzhuQjh0alltY3dpQkNXbTlzeFpxOEl5bEtQVHVzTVRHMWVE"
+        ],
+        [
             33.0743023498184,
             35.50586826981512,
             "Lkrx30bDk1uOlca6rCYrAQ"
+        ],
+        [
+            31.33704408669821,
+            34.65285955473671,
+            "iYt-bal8ScVLmyorF9w7fQ"
+        ],
+        [
+            33.15241997396825,
+            35.68754204051431,
+            "CAoSLEFGMVFpcE5YWXRQaDc1V0FhUXlXb01fWTJLbW1PNldYLTZ2RGFtekpLeGxQ"
         ]
     ],
     "Lebanon": [
+        [
+            34.54410495110835,
+            36.10983434405748,
+            "6HF2VY_ZkqwIE8LsBNIi1A"
+        ],
+        [
+            34.49899657421192,
+            36.16116039891185,
+            "FiYoT8wtRG_FakyI31vsTw"
+        ],
+        [
+            33.88654576729983,
+            35.70966117740769,
+            "gTzQ7dAiaikaq16CvpBhBA"
+        ],
+        [
+            34.16289977476028,
+            35.64464567595448,
+            "Xz5AclJET2ntcfd4qL0nrA"
+        ],
+        [
+            33.90355246923452,
+            35.72198413499236,
+            "CAoSLEFGMVFpcE12Yld6d1d1ZEhvWWYzX2c0b1Q2MHB3MXNTeUYzYllwbGdINVdZ"
+        ],
+        [
+            34.42730481670776,
+            35.97703605885283,
+            "brcXo2CvmaRM0sQFxdjd_w"
+        ],
         [
             33.20589602890266,
             35.32567340472076,
@@ -580,28 +1050,43 @@
             33.21200001024076,
             35.21700001400963,
             "CAoSLEFGMVFpcE5UdzFDUVBkdkQycndYUnFiRkRuTlBWQUo5M0g0UVBfcXRnYjR0"
-        ],
-        [
-            34.16289977476028,
-            35.64464567595448,
-            "Xz5AclJET2ntcfd4qL0nrA"
-        ],
-        [
-            33.90355246923452,
-            35.72198413499236,
-            "CAoSLEFGMVFpcE12Yld6d1d1ZEhvWWYzX2c0b1Q2MHB3MXNTeUYzYllwbGdINVdZ"
         ]
     ],
     "Palestinian Territory": [
         [
-            32.3346689844272,
-            35.54013250851921,
-            "awzLXFjYZ_sQvDC4xH7Rwg"
+            31.54758100639188,
+            35.2709984665436,
+            "CAoSLEFGMVFpcE1LX1FOOFhEVUVGT1gzMmpuNlBYNGd0QzBzRjdsSjRLbHQwUXZ1"
+        ],
+        [
+            32.00335527087498,
+            35.03888528733968,
+            "GMEOeKQwoG2d555t417-yA"
         ],
         [
             31.40185848623119,
             35.08062212733344,
             "CAoSLEFGMVFpcE5NQTUxMFRvTGhQTXBsRTdHRmRaRWxwQzc0U2o3c0NlMWg2QTFl"
+        ],
+        [
+            32.38785292225989,
+            35.31839434145398,
+            "CAoSLEFGMVFpcE10X1l5T0JqTmVDVlNNS2JrQl9CcHJnSkVhOEgzX09QRUMzY1lL"
+        ],
+        [
+            31.7803725713035,
+            35.41883091505828,
+            "CAoSLEFGMVFpcE9LQ0V2bENNampKM3l4R19pN2tybzhJUHdWVG1mNTdKOGhxUWgt"
+        ],
+        [
+            31.59855460165412,
+            35.36486052104227,
+            "CAoSLEFGMVFpcFA3a0k4WVVMTk50SzhJQV92UFUyaE1LWWhWNUQzOXFjU0Fkckx3"
+        ],
+        [
+            32.3346689844272,
+            35.54013250851921,
+            "awzLXFjYZ_sQvDC4xH7Rwg"
         ],
         [
             32.10098848197516,
@@ -616,9 +1101,9 @@
     ],
     "Qatar": [
         [
-            24.83648779039391,
-            51.75424130345923,
-            "CAoSLEFGMVFpcE8xQWhqanZWOWNHWHU3RWhZbk9xSVlPZ3pkTVo4LU03RGgwdk9J"
+            25.37067701074415,
+            51.33118910374248,
+            "95Dw2zUAs5KmXfaIjbIqWQ"
         ],
         [
             25.20424996710855,
@@ -626,14 +1111,19 @@
             "TZg_2lu9GpJLULYHOvTzrw"
         ],
         [
-            25.8147820474452,
-            51.35907069779676,
-            "lsfE1QlNj4tYgU9vWgtVKg"
+            25.01427479930172,
+            51.18003615112702,
+            "mIWUMS_W1F0b3vVwJd-0oA"
         ],
         [
-            25.1638505604397,
-            50.92968905568376,
-            "f3rhnA-YSw6CMCM6vQGD-Q"
+            25.99404725700253,
+            51.30129257315907,
+            "CAoSLEFGMVFpcE1jSjd4QnBNM3Rmek91OHNlbGR2QWNuZGIxeXpHYlZIczVPYjJB"
+        ],
+        [
+            25.98542789153177,
+            51.34897820730413,
+            "X1_61QCYvgwYcU8NTBredA"
         ],
         [
             25.58911436115467,
@@ -641,21 +1131,46 @@
             "5NboJdR3VOU-kFqw5Sv7tg"
         ],
         [
-            25.99404725700253,
-            51.30129257315907,
-            "CAoSLEFGMVFpcE1jSjd4QnBNM3Rmek91OHNlbGR2QWNuZGIxeXpHYlZIczVPYjJB"
+            24.80189801396252,
+            51.2087668077648,
+            "dsw_pKU4doQ2SiKm4RG71g"
+        ],
+        [
+            25.01311266495231,
+            51.16972565648496,
+            "6PR0aRu6gE8Yh-9U0t_JCQ"
+        ],
+        [
+            24.83648779039391,
+            51.75424130345923,
+            "CAoSLEFGMVFpcE8xQWhqanZWOWNHWHU3RWhZbk9xSVlPZ3pkTVo4LU03RGgwdk9J"
+        ],
+        [
+            25.1638505604397,
+            50.92968905568376,
+            "f3rhnA-YSw6CMCM6vQGD-Q"
+        ],
+        [
+            25.8147820474452,
+            51.35907069779676,
+            "lsfE1QlNj4tYgU9vWgtVKg"
         ]
     ],
     "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 Algeria": [
         [
-            35.68885943645413,
-            -0.9783076147987226,
-            "CAoSLEFGMVFpcFBuYWNqeE9DVDVqbmhhTXN6NC1OX1NQVzJtM1hIbWs0OU5zWFNh"
-        ],
-        [
             35.29279193730054,
             8.28210085997784,
             "CAoSLEFGMVFpcE42aGtUbGp0QjBfUjhDbThUanNtd0Jac2FBa1NqME1Pc2M2ODJ6"
+        ],
+        [
+            36.51521991407262,
+            2.313307410864339,
+            "CAoSLEFGMVFpcE9rbEVQRU5odW41ZmxrS3V5SXh0dlYyTWxPOFFORzBwQW1lcjM3"
+        ],
+        [
+            35.68885943645413,
+            -0.9783076147987226,
+            "CAoSLEFGMVFpcFBuYWNqeE9DVDVqbmhhTXN6NC1OX1NQVzJtM1hIbWs0OU5zWFNh"
         ],
         [
             36.90575679275576,
@@ -665,14 +1180,14 @@
     ],
     "Nigeria": [
         [
-            6.929992243108662,
-            5.777774684221098,
-            "r6cEJEQMLyN-S69tWtmSKA"
+            5.431344255295417,
+            7.915514378691817,
+            "6dUyo3Q5RCep3OnTG12b1A"
         ],
         [
-            7.122710870355507,
-            6.671015569445172,
-            "CAoSLEFGMVFpcE5hbV93UXg2eGpCdmJ2VTFrU09MR2hJaXBnVFNCRUl2cHhyUmg0"
+            8.401726187931418,
+            4.620546750707964,
+            "Kq5e2BZd0lLqoSxrNziP5A"
         ],
         [
             6.656009228956217,
@@ -680,17 +1195,82 @@
             "rAKgGEj6itivy-WjbPQaTw"
         ],
         [
+            9.202351235964171,
+            7.987128344600517,
+            "0A6PgHvL90pUDaQFhVi9hg"
+        ],
+        [
+            11.49612552184369,
+            10.96806165364444,
+            "TVFVQ7gXQ5rYAHJHvFyqyw"
+        ],
+        [
+            8.290125652044496,
+            4.530630233268623,
+            "xnVPu8wDmg92ePpzX_llPg"
+        ],
+        [
             7.402658764892377,
             6.809523963511027,
             "mIQFbL4MkSUkJaUIE-Vrgg"
         ],
         [
-            5.431344255295417,
-            7.915514378691817,
-            "6dUyo3Q5RCep3OnTG12b1A"
+            6.929992243108662,
+            5.777774684221098,
+            "r6cEJEQMLyN-S69tWtmSKA"
+        ],
+        [
+            6.534534934106442,
+            7.413801559809333,
+            "z4t0N-bplKLYB63JkTw48g"
+        ],
+        [
+            7.122710870355507,
+            6.671015569445172,
+            "CAoSLEFGMVFpcE5hbV93UXg2eGpCdmJ2VTFrU09MR2hJaXBnVFNCRUl2cHhyUmg0"
         ]
     ],
     "Senegal": [
+        [
+            12.82436759988011,
+            -11.83985553694033,
+            "x8fDwhrMzJ6qUN89r-ci9Q"
+        ],
+        [
+            12.9971081029799,
+            -15.82067953709935,
+            "De8_Bt7FHbMJHgxBaXfhRw"
+        ],
+        [
+            15.89476178487117,
+            -16.42456332618935,
+            "zSAZ4zv_l0fQRQP5w8hyKw"
+        ],
+        [
+            13.99392389696462,
+            -16.24341038243701,
+            "ZCIy73XgIP4v-ZSHhLdynA"
+        ],
+        [
+            12.83963791299216,
+            -14.94038923927752,
+            "HyQVhQfpu0Q_wwk1b4BGPA"
+        ],
+        [
+            15.6081096388075,
+            -16.50547289421741,
+            "EaABuOqqoRpAd9qRCRFOLg"
+        ],
+        [
+            12.83719164667513,
+            -16.26988468653929,
+            "BPQ0vsHjl0jmrfp2dN9cMw"
+        ],
+        [
+            12.8401813356968,
+            -15.99552682151961,
+            "fF1EfPinhYZkOJjdAfNC_Q"
+        ],
         [
             15.12666712829281,
             -16.67295419612242,
@@ -700,28 +1280,13 @@
             14.4143128059307,
             -16.87739076710938,
             "UV-Ssm54Ryx5GetIgUQZtw"
-        ],
-        [
-            12.8401813356968,
-            -15.99552682151961,
-            "fF1EfPinhYZkOJjdAfNC_Q"
-        ],
-        [
-            15.6081096388075,
-            -16.50547289421741,
-            "EaABuOqqoRpAd9qRCRFOLg"
-        ],
-        [
-            12.83963791299216,
-            -14.94038923927752,
-            "HyQVhQfpu0Q_wwk1b4BGPA"
         ]
     ],
     "Ghana": [
         [
-            10.82990127710199,
-            -0.8281333713552932,
-            "CAoSLEFGMVFpcE1PemY3R3REQTk4S3ZiRHpwYktUX203UnF6UnUxeWM5M2NNZVBM"
+            10.9634428928335,
+            -2.257207122916207,
+            "iOHj7Xn6i_OdtDJc6LaLgQ"
         ],
         [
             7.622060709508851,
@@ -729,36 +1294,56 @@
             "TzFYMfeYeids70am_pKsMg"
         ],
         [
-            6.125585008558484,
-            0.8018029877104377,
-            "CAoSLEFGMVFpcE5tZ2hHM1pHcU5vamJJNHN2d2hJOURrTXNaNExINXFjT3lrWnpN"
+            6.244159598399886,
+            -1.249593750232014,
+            "UQ_M_PTtBszqgqvvqkQryQ"
         ],
         [
-            10.9634428928335,
-            -2.257207122916207,
-            "iOHj7Xn6i_OdtDJc6LaLgQ"
+            5.751703733631286,
+            -0.7568512296162043,
+            "pMfJiZYKk3LLJsKneyQo5g"
+        ],
+        [
+            5.292299414291963,
+            -0.7376642983294073,
+            "GEkLiKtNGPlGiJoyDUAmaw"
         ],
         [
             5.704406798107172,
             0.1080493655966484,
             "CAoSLEFGMVFpcE16WkpQR1ZJX2FNYkhQdEg3RkZGUHF6ckRKc3dQZ3ZmSnExWnIt"
+        ],
+        [
+            6.125585008558484,
+            0.8018029877104377,
+            "CAoSLEFGMVFpcE5tZ2hHM1pHcU5vamJJNHN2d2hJOURrTXNaNExINXFjT3lrWnpN"
+        ],
+        [
+            7.623326135454768,
+            -2.0251160786779,
+            "DEKC4hFRN90Pwtp3xJPWeg"
+        ],
+        [
+            10.82990127710199,
+            -0.8281333713552932,
+            "CAoSLEFGMVFpcE1PemY3R3REQTk4S3ZiRHpwYktUX203UnF6UnUxeWM5M2NNZVBM"
         ]
     ],
     "Kenya": [
         [
+            0.116404834629321,
+            34.62739357693782,
+            "EztyzPWNICW3VWT-Z8falg"
+        ],
+        [
+            -0.7742864377767439,
+            35.89004019944412,
+            "SXB3JGdCu4YvgGgVTCyrWw"
+        ],
+        [
             -1.06086673361436,
             37.82193805530071,
             "zUPHhMmqm8gwi0CrgQGjQw"
-        ],
-        [
-            -1.191460926792959,
-            37.73430037833783,
-            "CAoSLEFGMVFpcFBUVFFRUzg4M3o3emRPSDhRQVp1dXFvd1VUMVpJZTBpdkNrZ1Bw"
-        ],
-        [
-            -0.05472081932733015,
-            34.11364147551954,
-            "CAoSLEFGMVFpcE1IM09aNTlDenVSMW5OVDZWWjBzcUIyTHM4QTVhekRoWjd2bzFR"
         ],
         [
             0.7831638523653826,
@@ -766,16 +1351,46 @@
             "ZBcKVGJbqlzMEFPnRR7h4A"
         ],
         [
-            0.116404834629321,
-            34.62739357693782,
-            "EztyzPWNICW3VWT-Z8falg"
+            -2.263091387920428,
+            36.92498201861095,
+            "TC3BwODx1Y-Z_nQt0TEFxg"
+        ],
+        [
+            0.1578281792556611,
+            34.9038662733533,
+            "j7w7CnvSRvwzCuMV9tmOCA"
+        ],
+        [
+            0.12761152309274,
+            34.4308737313744,
+            "5QGbAsNQ4oQIv3MUfFX_jQ"
+        ],
+        [
+            -0.05472081932733015,
+            34.11364147551954,
+            "CAoSLEFGMVFpcE1IM09aNTlDenVSMW5OVDZWWjBzcUIyTHM4QTVhekRoWjd2bzFR"
+        ],
+        [
+            -1.191460926792959,
+            37.73430037833783,
+            "CAoSLEFGMVFpcFBUVFFRUzg4M3o3emRPSDhRQVp1dXFvd1VUMVpJZTBpdkNrZ1Bw"
         ]
     ],
     "Uganda": [
         [
+            -0.5629595743911956,
+            30.42392233884669,
+            "CAoSLEFGMVFpcE5LYVBjeFdqeUpMZmZUbVRyNVhsd00wVW9FcTFPYkRnNkhWemx1"
+        ],
+        [
             -0.9062672864840763,
             30.42094542265801,
             "CAoSLEFGMVFpcE9vTnpoVm5YNmpKWTd0OWpCdzRya05ZbDJBRFBrMWNTZjFaeUxO"
+        ],
+        [
+            -0.05773770764265886,
+            30.11278458390643,
+            "DOS0ikaaCKm9tOsn0CBmsQ"
         ],
         [
             0.03395790684330063,
@@ -783,31 +1398,31 @@
             "19BuF3fWf3NrbZT1KLdXEw"
         ],
         [
-            -0.09193900855092378,
-            30.07135816315307,
-            "2T9VHRq5js9rWU3JrNVEOg"
-        ],
-        [
             0.9175850228107337,
             34.18254671203853,
             "CAoSLEFGMVFpcE51QkhOUGdlT2x6S21OUFJvWnpGc2JkWlhHamFzMHJ3UzROU2pV"
+        ],
+        [
+            0.6765216751886132,
+            32.20307509332169,
+            "CAoSLEFGMVFpcFB1Tzk5LTBYSzNpNl9aTjBEQWxTTnVIRHNwNTJ6TS1xSFN4Z1Fy"
+        ],
+        [
+            -0.09193900855092378,
+            30.07135816315307,
+            "2T9VHRq5js9rWU3JrNVEOg"
         ]
     ],
     "Rwanda": [
         [
-            -1.625142420121962,
-            29.47004654374663,
-            "bzH6rXzWPGkqzLRmMkKKWw"
+            -1.423864739353004,
+            30.34171398806646,
+            "DWLSjcz0ISDf62jbwhzYhA"
         ],
         [
-            -1.589906500840618,
-            30.33225336562104,
-            "mVe2Z0z2yw7GimP40gVnRQ"
-        ],
-        [
-            -2.456188889782985,
-            28.92467498236284,
-            "NcHxT9gVxD8paV-h5V1wFQ"
+            -2.199980222939592,
+            29.24836242294657,
+            "mUsW6KE26xZqjP7y7cYCQw"
         ],
         [
             -1.411321726042372,
@@ -815,12 +1430,47 @@
             "CAoSLEFGMVFpcE9yMWJrOFdsbXBqU0JsYWhOc1RPZjRISTNvX0dDbVhmMmQwMWtp"
         ],
         [
+            -1.589906500840618,
+            30.33225336562104,
+            "mVe2Z0z2yw7GimP40gVnRQ"
+        ],
+        [
             -2.495962861315681,
             29.23409837766806,
             "Q8AYnmfV_tN2Cx1l61uscA"
+        ],
+        [
+            -1.599249153534383,
+            30.28258978012309,
+            "_7la_43_COmewqDcDh-FHg"
+        ],
+        [
+            -1.625142420121962,
+            29.47004654374663,
+            "bzH6rXzWPGkqzLRmMkKKWw"
+        ],
+        [
+            -1.5663021702891,
+            29.71180187206993,
+            "CAoSLEFGMVFpcFBaRk1UeEc1d3R3Q2dLUmJfQ25RVjhGYmhQLUpDeW12TXpFMmh2"
+        ],
+        [
+            -1.391791880519155,
+            30.39133060292955,
+            "VhRkRj1H0KdjXxQqB3vZLg"
+        ],
+        [
+            -2.456188889782985,
+            28.92467498236284,
+            "NcHxT9gVxD8paV-h5V1wFQ"
         ]
     ],
     "Botswana": [
+        [
+            -22.89089352222569,
+            26.39155782286178,
+            "NjqiybppoaR8KicgoFfrTg"
+        ],
         [
             -20.51633797115336,
             22.86518171806721,
@@ -832,16 +1482,46 @@
             "DCE9un697-n5bHB13kzemg"
         ],
         [
+            -23.09775724941639,
+            22.26178125841181,
+            "VW3-PK3TM50AoENqEaUwtg"
+        ],
+        [
             -24.58290854135586,
             24.48949571268662,
             "8fQqRTgeGZi4liIy20jNXw"
+        ],
+        [
+            -21.97024427569281,
+            27.6724998336321,
+            "IeyRFXSsb0tFtazv0wrDMg"
+        ],
+        [
+            -20.81326127141144,
+            22.45805100755961,
+            "u9fwys5FjwuAB0H7SYge4g"
+        ],
+        [
+            -22.31455975616286,
+            28.23278778498662,
+            "aIV5G8oUtr6dHtbwiUA0Dg"
         ]
     ],
     "Lesotho": [
         [
+            -30.29127377125965,
+            27.84814886845111,
+            "85D4Hf0ujQBtUnUG86knMQ"
+        ],
+        [
             -29.5054312335844,
             27.75764405054358,
             "31q17POVhakO3fn3E0UToQ"
+        ],
+        [
+            -28.91605101907162,
+            28.11353224217681,
+            "LykAdv_A_Fbn_nGq8OxMCA"
         ],
         [
             -29.1648498199044,
@@ -852,23 +1532,33 @@
             -29.01321869932894,
             28.84425584051392,
             "Y9ymTGI-0_-Js0bLAXZ52Q"
+        ],
+        [
+            -30.07517571582748,
+            28.44903554176582,
+            "jDpaDPGDB3wYuAt1VQ4TYw"
         ]
     ],
     "Eswatin": [
+        [
+            -26.43707179144743,
+            31.22235273840409,
+            "TmdJ4NGqCxb1tkMN8Z_VYA"
+        ],
+        [
+            -26.60178246963435,
+            31.15827441343173,
+            "QYuAiircZAMKvREOsQII2A"
+        ],
         [
             -26.69912165248776,
             31.66251907533822,
             "783Tw2w6zIsJ7se2rmmzyA"
         ],
         [
-            -26.82934895557563,
-            31.97278115467351,
-            "kaqR1nI-GcH5OyRBD4KN9w"
-        ],
-        [
-            -26.43707179144743,
-            31.22235273840409,
-            "TmdJ4NGqCxb1tkMN8Z_VYA"
+            -26.11003362500852,
+            31.24340954793867,
+            "Y8s74psbJdoFH_spco7Odw"
         ],
         [
             -26.52916959805716,
@@ -876,41 +1566,36 @@
             "AlWfhkwJx0oSXN6dRGVj_w"
         ],
         [
-            -26.11003362500852,
-            31.24340954793867,
-            "Y8s74psbJdoFH_spco7Odw"
+            -26.82934895557563,
+            31.97278115467351,
+            "kaqR1nI-GcH5OyRBD4KN9w"
+        ],
+        [
+            -25.95021668919898,
+            31.2478614419324,
+            "BofRQXobHnUw7FBcpQCmmg"
         ]
     ],
     "South Africa": [
         [
+            -29.17906379306296,
+            27.17197792024756,
+            "r0WIiYgScKJi2tadR2HT0A"
+        ],
+        [
+            -30.5026064097618,
+            28.54806120123211,
+            "8WFXNxniAufMxo2MBVqfJQ"
+        ],
+        [
+            -26.08640663113656,
+            30.87628161849833,
+            "3_Yw4W67y80yIA89J3p50g"
+        ],
+        [
             -29.43968313569574,
             21.07864113014978,
             "bAHKwYdRsDaQog6UsJ22eQ"
-        ],
-        [
-            -28.63342681833893,
-            17.14845213057167,
-            "CAoSLEFGMVFpcE90c1dqbGZHYm9ZLWI4X2VkVXdDRWJxQm11MFl5Sk9sRFUtbldO"
-        ],
-        [
-            -26.23630930585993,
-            23.59709080875886,
-            "ptQT871vQ09Pq3fHEB1dpA"
-        ],
-        [
-            -27.09934630267847,
-            32.15893041900325,
-            "jOOW18mZcwidBFNlhE43sg"
-        ],
-        [
-            -26.80701888872731,
-            23.01678287352276,
-            "z9FnB6sEC2-yUK5qLYilzQ"
-        ],
-        [
-            -24.35018581328378,
-            28.88861943594128,
-            "WPyNh4KLcHNdHMpIUiuvCg"
         ],
         [
             -28.65591111254717,
@@ -918,16 +1603,76 @@
             "YaCBkxSS1cVkrgUyHAee7w"
         ],
         [
+            -24.66759931921602,
+            27.58823880471812,
+            "CAoSLEFGMVFpcE04MjE3MEZ2cmhrSU52R01ZeFR0TFV5b3FDeEhrTk52SzRIbWw0"
+        ],
+        [
+            -26.80701888872731,
+            23.01678287352276,
+            "z9FnB6sEC2-yUK5qLYilzQ"
+        ],
+        [
+            -28.63342681833893,
+            17.14845213057167,
+            "CAoSLEFGMVFpcE90c1dqbGZHYm9ZLWI4X2VkVXdDRWJxQm11MFl5Sk9sRFUtbldO"
+        ],
+        [
+            -31.61296309182696,
+            18.45180028205485,
+            "KUkZqt-BgjKfKgQj60DYMA"
+        ],
+        [
+            -31.44445600852454,
+            22.33005158177935,
+            "0Qcx-BKNo569YxbOU3vRXA"
+        ],
+        [
+            -24.35018581328378,
+            28.88861943594128,
+            "WPyNh4KLcHNdHMpIUiuvCg"
+        ],
+        [
+            -25.78878716362481,
+            31.5953768241796,
+            "B7vk1WbB_2_VFdoiTgVzdQ"
+        ],
+        [
+            -32.37899935670508,
+            20.8116237274873,
+            "CAoSLEFGMVFpcFBMcmw5QzdrUHEtSGFXMy1WZnpONUVkeG51SjdTNFA5Y3VLRHUx"
+        ],
+        [
+            -27.09934630267847,
+            32.15893041900325,
+            "jOOW18mZcwidBFNlhE43sg"
+        ],
+        [
             -30.23528429604938,
             29.05072670870365,
             "CAoSLEFGMVFpcE5Ed0FaSWRueDVQemhGUTMwRTRNaGJEeVhPVXdpbThvOE8tejlL"
+        ],
+        [
+            -26.23630930585993,
+            23.59709080875886,
+            "ptQT871vQ09Pq3fHEB1dpA"
+        ],
+        [
+            -25.99826778829549,
+            31.0655861316742,
+            "elA-QfGQ1hYaWYh6QZ9_Pw"
+        ],
+        [
+            -34.66247671244575,
+            19.78417972153377,
+            "dpK5aa0R6dn7_f660jJEmA"
         ]
     ],
     "United Kingdom": [
         [
-            50.58037340984544,
-            -3.924043929485349,
-            "CAoSLEFGMVFpcE1FdXYtdkNzdHVhR05lZ1VmbFpvRVdQZFk5SlFZcGVRdDVoT2ZM"
+            55.02978045860944,
+            -2.769921148156456,
+            "FqlFtWtzEbFINQ1U5faLWg"
         ],
         [
             50.58335673597477,
@@ -935,26 +1680,36 @@
             "CAoSLEFGMVFpcE9QMnVxWWNuRjNQaTdaUWlKSHhkX2JYZG5qZi1CUTRtYll5aThB"
         ],
         [
-            55.02978045860944,
-            -2.769921148156456,
-            "FqlFtWtzEbFINQ1U5faLWg"
+            50.58037340984544,
+            -3.924043929485349,
+            "CAoSLEFGMVFpcE1FdXYtdkNzdHVhR05lZ1VmbFpvRVdQZFk5SlFZcGVRdDVoT2ZM"
+        ],
+        [
+            54.85492983842294,
+            -6.179942817833898,
+            "xuDNSPF9iVbDNSrrB2BYqA"
         ],
         [
             55.85958801689421,
             -4.449263017749327,
             "jlP3twvAptQCSxo_ThPRnA"
+        ],
+        [
+            54.62777652117219,
+            -5.609988655848984,
+            "IJgFP3fg44aSY0f_fAifiA"
+        ],
+        [
+            53.18470379257258,
+            -3.722325169694212,
+            "ACYLy2Q1sVejEklPYHS0hw"
         ]
     ],
     "France": [
         [
-            49.59440123091747,
-            3.431800148275146,
-            "ikADs90-APjkY6wWsAN7AQ"
-        ],
-        [
-            47.98323620417029,
-            4.005641260110747,
-            "mLDcj4D9LsqSv950p3Ak3A"
+            43.72337285327843,
+            7.411741823666654,
+            "CAoSLEFGMVFpcE15MFJnSXpoR2x5LU1SZktQVDM1X0VHLTMyV2NVZG5iWU44VFI4"
         ],
         [
             48.58524589533873,
@@ -962,14 +1717,9 @@
             "9b2wppx3y1j_WlA9ox4QlA"
         ],
         [
-            43.50552343250117,
-            1.260388668861639,
-            "S88BxtNzIqyJWc7VpjjYeQ"
-        ],
-        [
-            42.61221472465268,
-            1.774966671646267,
-            "CAoSLEFGMVFpcFB5dWR4ZFVYek9nTEl1R3VmeXYtb3Zma0U4emk5NTU4azJpS1l0"
+            43.74012328238679,
+            7.414256610804118,
+            "CqcfiUOaAg9oXdtx2rZiDw"
         ],
         [
             49.75043898337749,
@@ -977,24 +1727,19 @@
             "GtjstrubN8NkanIcqdIlow"
         ],
         [
-            42.63422777807874,
-            1.446961073864278,
-            "CAoSLEFGMVFpcE9JSjJhdjFzTzVZV3BHQjl1Z2djWWF6RzZpTDJpSzBBNWNkSGx4"
+            42.55909984702328,
+            1.75519031060633,
+            "GfeBDwRhighS8eTPtazHiQ"
         ],
         [
-            43.72316599254891,
-            -0.0450405560149761,
-            "LUOXw_YB1V6FeRUNVxe3lA"
+            50.64087812158407,
+            2.577154405113419,
+            "r4fB7wz98DmzRFSNNewY1A"
         ],
         [
-            46.03657678338247,
-            6.700276131671789,
-            "CAoSLEFGMVFpcE16al9FSmxVS0NzdW9jak1EM0RZQWFzVmF3YmRsalNNWjJhVTNL"
-        ],
-        [
-            44.13571242580363,
-            4.96747719312127,
-            "Ud4p08M74Hml1VtcMnSuaw"
+            46.85073167211137,
+            6.271545525727596,
+            "Q7JiukLIMUpOiNO2efsxGQ"
         ],
         [
             42.63162606433377,
@@ -1002,21 +1747,116 @@
             "CAoSLEFGMVFpcFBpS2VQLXJ0WnBqbnZmM0JqUnRCYmRxdTg2MmtXNnV3LTJoelJZ"
         ],
         [
+            44.13571242580363,
+            4.96747719312127,
+            "Ud4p08M74Hml1VtcMnSuaw"
+        ],
+        [
+            42.61221472465268,
+            1.774966671646267,
+            "CAoSLEFGMVFpcFB5dWR4ZFVYek9nTEl1R3VmeXYtb3Zma0U4emk5NTU4azJpS1l0"
+        ],
+        [
+            43.72728259259053,
+            7.407033652070783,
+            "ZbURlfmhxFiCv418zv4lnA"
+        ],
+        [
+            46.03657678338247,
+            6.700276131671789,
+            "CAoSLEFGMVFpcE16al9FSmxVS0NzdW9jak1EM0RZQWFzVmF3YmRsalNNWjJhVTNL"
+        ],
+        [
+            43.50552343250117,
+            1.260388668861639,
+            "S88BxtNzIqyJWc7VpjjYeQ"
+        ],
+        [
+            42.63422777807874,
+            1.446961073864278,
+            "CAoSLEFGMVFpcE9JSjJhdjFzTzVZV3BHQjl1Z2djWWF6RzZpTDJpSzBBNWNkSGx4"
+        ],
+        [
+            47.19142411679064,
+            6.71279719423389,
+            "jDeBPcsDe9s4HgB9yX66Fw"
+        ],
+        [
+            48.146208115343,
+            6.913942352936206,
+            "DqB7aUb6lkfmc8hztZlggA"
+        ],
+        [
+            49.97550730989578,
+            4.775628294972258,
+            "XXOMr99OXBtXpJAB-y0WNQ"
+        ],
+        [
+            49.59440123091747,
+            3.431800148275146,
+            "ikADs90-APjkY6wWsAN7AQ"
+        ],
+        [
+            45.8988707506068,
+            6.844858916442975,
+            "lyDN6XtF6sdI7oLfOJF1QA"
+        ],
+        [
+            47.48789708704058,
+            6.289709123388312,
+            "4dnj5ODnUmgSKJWoO_xUTg"
+        ],
+        [
+            46.2329983125115,
+            2.165601650667984,
+            "--btM4hSkxWEuSeyQ9HScQ"
+        ],
+        [
+            43.72316599254891,
+            -0.0450405560149761,
+            "LUOXw_YB1V6FeRUNVxe3lA"
+        ],
+        [
+            47.20327486485476,
+            6.282191876195729,
+            "PIOKc1ONx7_4WlliQEbI5g"
+        ],
+        [
+            47.98323620417029,
+            4.005641260110747,
+            "mLDcj4D9LsqSv950p3Ak3A"
+        ],
+        [
             49.46499632202234,
             6.355248352512602,
             "K0rhUwyzK_JmsMk4meEY8w"
+        ],
+        [
+            48.78963918381817,
+            4.275118758211478,
+            "wNJAtmVfST7lMRys8qrylg"
         ]
     ],
     "The Netherlands": [
         [
+            52.08614222479764,
+            5.978249836068662,
+            "CAoSLEFGMVFpcE1kZHhIN0pMYmJqQVFTd0lHTV9ZZ182WEpyMnBDMWNqdlNncGlY"
+        ],
+        [
+            51.47258275473577,
+            5.143127978910018,
+            "LDdnS0RLsuEVVI-CMezIgw"
+        ],
+        [
+            51.29023353277308,
+            4.097346260355981,
+            "wg-ZPzeGteofZ6nkux-EaQ"
+        ],
+        [
             51.57958894886396,
             5.890648953431966,
             "AlTbjIZgUr_y1ttbtXmNVw"
-        ],
-        [
-            53.18654260905085,
-            5.897613559367728,
-            "oiOBnVv8O5G9v3gsIJ0wyA"
         ],
         [
             51.28438976618671,
@@ -1024,9 +1864,19 @@
             "6CxHHXDB8KGSryRclYDuDA"
         ],
         [
-            52.08614222479764,
-            5.978249836068662,
-            "CAoSLEFGMVFpcE1kZHhIN0pMYmJqQVFTd0lHTV9ZZ182WEpyMnBDMWNqdlNncGlY"
+            53.29456769886023,
+            6.297988479158519,
+            "2nxzGkrU8MvlFr1-5oJQlA"
+        ],
+        [
+            51.07223085714939,
+            5.836410660492042,
+            "dizJvr4pzQ-dXcDGm801MQ"
+        ],
+        [
+            53.18654260905085,
+            5.897613559367728,
+            "oiOBnVv8O5G9v3gsIJ0wyA"
         ],
         [
             53.16033791766983,
@@ -1039,56 +1889,21 @@
             "VuE34B78yVkKL05c007DgQ"
         ],
         [
-            51.29023353277308,
-            4.097346260355981,
-            "wg-ZPzeGteofZ6nkux-EaQ"
+            52.43262041719112,
+            6.749462155154211,
+            "QTjVwfh_vJEkk3aWXUy7Lg"
         ]
     ],
     "Italia": [
-        [
-            45.78039157186297,
-            10.04993875375664,
-            "CAoSLEFGMVFpcE94WUwtYXUyT25LNi1SQkRaSzlabE5GNWJ1UXdaYnBWNWNwckRO"
-        ],
-        [
-            45.8304255120059,
-            10.04361147000222,
-            "vU7s4f7jH9jNUz3KpbZIiA"
-        ],
-        [
-            45.92666898790335,
-            8.387179816907237,
-            "lawV8qgtmHXwpwYecy1z7Q"
-        ],
-        [
-            41.49560574307112,
-            13.0988968311536,
-            "CqsZXwZJx5dD-ZWglPgmJQ"
-        ],
-        [
-            45.82651025497371,
-            9.046995164519867,
-            "njq-dreA3DcTYUO8If085w"
-        ],
         [
             46.75785246855916,
             11.0691062710734,
             "CAoSLEFGMVFpcE9UNGcxWDRvT29NOU9LUnd3WUhjRGROOVJob2RrMHQycUE4NzZD"
         ],
         [
-            43.98571935733361,
-            12.48582481602547,
-            "qd7dDHYzCkABP8jD6geQHg"
-        ],
-        [
-            46.00082174862153,
-            13.46931030021096,
-            "dPd1aJZ5ANCX5q6m1p1W5g"
-        ],
-        [
-            43.94104604049799,
-            12.40604904239297,
-            "Fsh6jdp_STLFPiEV0fEI0Q"
+            46.56612871801239,
+            10.11325522596665,
+            "CAoSLEFGMVFpcE9LNDJkNS1fNnZ2MXB1T2F2OXVjMlF6ZEUyS1gxbExINDlWN0pV"
         ],
         [
             45.60571399492327,
@@ -1096,9 +1911,64 @@
             "OlecdJrUe8jOxgn_Ddp71g"
         ],
         [
+            45.8304255120059,
+            10.04361147000222,
+            "vU7s4f7jH9jNUz3KpbZIiA"
+        ],
+        [
+            45.82651025497371,
+            9.046995164519867,
+            "njq-dreA3DcTYUO8If085w"
+        ],
+        [
+            43.91610036792605,
+            12.51804463544087,
+            "pJYZ3iAik11LV-C6AnCUhw"
+        ],
+        [
+            45.92666898790335,
+            8.387179816907237,
+            "lawV8qgtmHXwpwYecy1z7Q"
+        ],
+        [
             43.98981570706457,
             12.47702016223191,
             "TRNeo2FHnkxQ8ZhzFV9EFQ"
+        ],
+        [
+            39.71935599390429,
+            16.28188262422222,
+            "ioM-kDljoysFf54bZ4GfBg"
+        ],
+        [
+            46.00082174862153,
+            13.46931030021096,
+            "dPd1aJZ5ANCX5q6m1p1W5g"
+        ],
+        [
+            45.78039157186297,
+            10.04993875375664,
+            "CAoSLEFGMVFpcE94WUwtYXUyT25LNi1SQkRaSzlabE5GNWJ1UXdaYnBWNWNwckRO"
+        ],
+        [
+            40.81992052803518,
+            16.32203700998474,
+            "DcKnKus3zUyTa9hO07qpOQ"
+        ],
+        [
+            41.49560574307112,
+            13.0988968311536,
+            "CqsZXwZJx5dD-ZWglPgmJQ"
+        ],
+        [
+            43.94104604049799,
+            12.40604904239297,
+            "Fsh6jdp_STLFPiEV0fEI0Q"
+        ],
+        [
+            43.98571935733361,
+            12.48582481602547,
+            "qd7dDHYzCkABP8jD6geQHg"
         ]
     ],
     "Space": [
@@ -1108,9 +1978,19 @@
             "49leQmb_xnzI7t2qWs4Icg"
         ],
         [
-            37.32085489371399,
-            -6.487841041458832,
-            "2zr8h4wb0HOprZpH9mZLBA"
+            43.62428192549591,
+            -7.981706676863896,
+            "fgbMJ-DVJMWXtEQQGw8GyA"
+        ],
+        [
+            41.72843210128098,
+            -1.1531386280458,
+            "LVEPiDmKPjQQSBmnzj6upQ"
+        ],
+        [
+            39.16054081132862,
+            -6.661982907388241,
+            "sQs98QqiyecfJ54VE1PFfA"
         ],
         [
             41.36934892871899,
@@ -1118,37 +1998,42 @@
             "qeXwcTT_LLWuZE4fOCjaPg"
         ],
         [
-            38.58535608720701,
-            -6.739168905008089,
-            "93t3FwAf8MfdXzq8HAoPrg"
+            37.32085489371399,
+            -6.487841041458832,
+            "2zr8h4wb0HOprZpH9mZLBA"
+        ],
+        [
+            39.81556150742331,
+            -6.539696627314182,
+            "5TkqgPXuAsy7TprlIJZ7qA"
         ],
         [
             42.47491843349466,
             1.677387527822666,
             "CAoSLEFGMVFpcE1BVDhuSW1iTkMtSDdJWHhSNWlJUm1UX19MVGw1OGtpT0M1VlFk"
+        ],
+        [
+            37.23294001768625,
+            -4.9265117446991,
+            "V7y8FRmHe7Lph5v48LkmBQ"
+        ],
+        [
+            41.89127798183606,
+            -4.467194349384378,
+            "ETS6zZLUnrEN2Kzn3IHJ0g"
+        ],
+        [
+            37.39501634399291,
+            -7.132408534302265,
+            "2n4VEpaMfhscn3lb0EAMVQ"
+        ],
+        [
+            38.58535608720701,
+            -6.739168905008089,
+            "93t3FwAf8MfdXzq8HAoPrg"
         ]
     ],
     "Austria": [
-        [
-            48.15451450379636,
-            13.44521479978964,
-            "CAoSLEFGMVFpcE9Ua1hRVHNzZjdDcFhRRkFiVjJUaUpHSVh0Mi1LTGdnb2tZa1Zi"
-        ],
-        [
-            46.88637787228239,
-            10.86750222767328,
-            "CAoSK0FGMVFpcFBfbEl0d2d1UnpvM0dOclNET2xLbTB2OWxrMUlOTWtjVUNfZG8."
-        ],
-        [
-            48.0191650106134,
-            15.75361162425839,
-            "CAoSLEFGMVFpcE41ZU5mM0RLMEVhdTFLM0RFUVZFUTdyV1ZzTEJkSXV4Zk5wVm03"
-        ],
-        [
-            48.48564369919826,
-            14.24925353898992,
-            "ve_QjO71BuGKiUeU1C4-2g"
-        ],
         [
             47.75851316396736,
             16.91608816982161,
@@ -1158,33 +2043,68 @@
             46.59647245062967,
             13.57998434900263,
             "YViFq8N1FdASuOcoYycZ9Q"
+        ],
+        [
+            48.0191650106134,
+            15.75361162425839,
+            "CAoSLEFGMVFpcE41ZU5mM0RLMEVhdTFLM0RFUVZFUTdyV1ZzTEJkSXV4Zk5wVm03"
+        ],
+        [
+            46.80444693695271,
+            15.31855109202402,
+            "mk7Z6-2DCPb2ae2nRXCSPw"
+        ],
+        [
+            48.15451450379636,
+            13.44521479978964,
+            "CAoSLEFGMVFpcE9Ua1hRVHNzZjdDcFhRRkFiVjJUaUpHSVh0Mi1LTGdnb2tZa1Zi"
+        ],
+        [
+            48.30734067839201,
+            13.362294165552,
+            "HLXYbPWjK-k3Ji4DLktXFw"
+        ],
+        [
+            48.42273778204422,
+            14.43285584178883,
+            "mjowu41KjitEPfzb64hPUg"
+        ],
+        [
+            48.48564369919826,
+            14.24925353898992,
+            "ve_QjO71BuGKiUeU1C4-2g"
+        ],
+        [
+            47.74855522571404,
+            16.45462964638849,
+            "m2WJ0cqZbNr6qkWiST9XfQ"
+        ],
+        [
+            46.88637787228239,
+            10.86750222767328,
+            "CAoSK0FGMVFpcFBfbEl0d2d1UnpvM0dOclNET2xLbTB2OWxrMUlOTWtjVUNfZG8."
+        ],
+        [
+            46.76323565938338,
+            14.29542106947809,
+            "DeXyirEnn4x9ChSexiBOlA"
         ]
     ],
     "Deutschland": [
+        [
+            47.55788985771463,
+            10.12473520920703,
+            "ogK3lk43JQ3xXlysL0GhWA"
+        ],
         [
             50.14670031511296,
             6.34571509355905,
             "lKyQ_wEuldGW5D-tJE-upQ"
         ],
         [
-            50.67416677254376,
-            6.689043598866823,
-            "fXDb-BjUs56gTLykUAFDtQ"
-        ],
-        [
-            47.79675951461345,
-            8.9619257645804,
-            "CAoSLEFGMVFpcE95OHE0UEZ0VHFUdkNXRXh6RFBmS3NoeDJodjc3T0Qtb2E0ZXdQ"
-        ],
-        [
-            50.10121078652118,
-            6.383871868844914,
-            "242hScQUI7rxHeS4HEFNxQ"
-        ],
-        [
-            47.68661068537653,
-            9.578010887089352,
-            "jUjpZNt6ZtMk9Amsx2-6_w"
+            50.79584267806309,
+            6.450883529176394,
+            "6bXMGlqcfbqdGCiJv7urKw"
         ],
         [
             47.58589906792836,
@@ -1192,21 +2112,131 @@
             "CAoSLEFGMVFpcE00SzdndnduVE9NSnpYdFEtRnl5UjZSdU1oWWpVSmFMdENmV3J1"
         ],
         [
-            53.54120453692389,
-            7.13778395527565,
-            "CAoSLEFGMVFpcE5oNFdLWndwRkZnM21FMnVnUG1nSU9zV1pHWG50Z19QRFd2eU1w"
+            52.0934316988824,
+            7.759208812262769,
+            "v4BTIClgw27EhJ0UJja1Bw"
+        ],
+        [
+            50.77668877908719,
+            12.88619695688546,
+            "5NRfQZG4omCsc7ItW7-2bg"
+        ],
+        [
+            48.9265690788023,
+            12.22414902309249,
+            "_Lmvk3LBERXhF87hhx0ZBw"
+        ],
+        [
+            48.99809085188184,
+            12.34383740099424,
+            "AoZ1ekARZW1hfU6FHaQSFA"
+        ],
+        [
+            50.10121078652118,
+            6.383871868844914,
+            "242hScQUI7rxHeS4HEFNxQ"
+        ],
+        [
+            50.42918518150051,
+            8.79257919059222,
+            "CAoSLEFGMVFpcE9tZ2Z5QXh6Z0RLR1BjWUZHNnBVS3RRd01RVmlxeElKQ3ZfMEY2"
         ],
         [
             50.93234976926482,
             7.378286911641106,
             "tgjN6zbwU1MPpo8u1zIphw"
+        ],
+        [
+            54.05607723059669,
+            12.4951944222762,
+            "noiivwTXEulDLCxRbxoUdA"
+        ],
+        [
+            49.05594719541663,
+            12.46300601031217,
+            "CAoSLEFGMVFpcE0yTXZXM0tabFF5TzFCODRybm1FYldoVWdVMDg3NDNFVVlLYThD"
+        ],
+        [
+            51.14408295712892,
+            6.94694012798548,
+            "rrjxvE18jEXEf6D_UcGrjw"
+        ],
+        [
+            47.68661068537653,
+            9.578010887089352,
+            "jUjpZNt6ZtMk9Amsx2-6_w"
+        ],
+        [
+            51.81911575665305,
+            6.993148755511154,
+            "yq-eYFwmZGAqD7u3vB7usQ"
+        ],
+        [
+            50.13609335743948,
+            6.22157003155495,
+            "4nK63VLZQEBeDl8fZxh2Tg"
+        ],
+        [
+            51.33170098542926,
+            6.944698570967379,
+            "QUDV-hVkMcxOyfM4dxpfjw"
+        ],
+        [
+            49.99849987293849,
+            6.189068425177839,
+            "-IURD1A8zUawKHL2sF62mw"
+        ],
+        [
+            47.79675951461345,
+            8.9619257645804,
+            "CAoSLEFGMVFpcE95OHE0UEZ0VHFUdkNXRXh6RFBmS3NoeDJodjc3T0Qtb2E0ZXdQ"
+        ],
+        [
+            50.67416677254376,
+            6.689043598866823,
+            "fXDb-BjUs56gTLykUAFDtQ"
+        ],
+        [
+            53.54120453692389,
+            7.13778395527565,
+            "CAoSLEFGMVFpcE5oNFdLWndwRkZnM21FMnVnUG1nSU9zV1pHWG50Z19QRFd2eU1w"
         ]
     ],
     "Ireland - Ireland": [
         [
+            53.78084468191491,
+            -8.601584358260732,
+            "GOHEkF_OAbPXuB9q0FkVPg"
+        ],
+        [
             54.28884252065922,
             -8.155682977685322,
             "5C6nXxPvRstKe8u6vcKBrw"
+        ],
+        [
+            52.52494930558448,
+            -7.674131255169429,
+            "NHJo-2Cn0unm4CPhcDLyjg"
+        ],
+        [
+            52.48431540727803,
+            -8.653203304657788,
+            "KeFr1_AjSSvdkwz0Vvh9OQ"
+        ],
+        [
+            53.82475562621948,
+            -9.326908264595016,
+            "CAoSLEFGMVFpcE4ycVlQTzZndkNIV0VhZVBfY0F1bjRLWFczakxyaHJ6M0hkUEw3"
+        ],
+        [
+            52.03932524871099,
+            -7.967131622155441,
+            "VvdUqrZR08DG1nG3TuAinQ"
+        ],
+        [
+            55.19573022915041,
+            -7.85488731977195,
+            "LOHBeDUP0LsTRceknIlUig"
         ],
         [
             51.95046361360323,
@@ -1214,14 +2244,9 @@
             "sbzhCtYd9F5X5PVvMU5pBA"
         ],
         [
-            53.78084468191491,
-            -8.601584358260732,
-            "GOHEkF_OAbPXuB9q0FkVPg"
-        ],
-        [
-            52.52494930558448,
-            -7.674131255169429,
-            "NHJo-2Cn0unm4CPhcDLyjg"
+            52.86727252106577,
+            -7.999553932091382,
+            "FhbERTVX6CDcwnwfpM_6rw"
         ],
         [
             54.78237893643848,
@@ -1232,18 +2257,23 @@
             52.72792772309378,
             -8.944617423614243,
             "1cy8zxA3YiIqKrMlZ29dfQ"
+        ],
+        [
+            54.03537096708262,
+            -7.289760695270928,
+            "WXL4HyZYv3zQ46_Zo8G7mQ"
+        ],
+        [
+            52.98471312301805,
+            -7.553415608168748,
+            "CYv1jECZr_y_sgTdEHP6Hw"
         ]
     ],
     "Malta": [
         [
-            36.0416522290375,
-            14.24993113608566,
-            "CBoR3O6CNz7Qwqd2vHhxpw"
-        ],
-        [
-            35.92103590971,
-            14.35980165786298,
-            "u3H0CMXqkPOIIq-KTpi_8Q"
+            35.99812360973439,
+            14.36710567583731,
+            "CAoSLEFGMVFpcE1aVU5SZUhpOS1US0gwS3UxdHhURER2bXh1cXVtSVlIZFpjMVJY"
         ],
         [
             36.03539761807097,
@@ -1256,16 +2286,66 @@
             "N5y6Nay3GMvSdTVigUCMuA"
         ],
         [
+            36.01213069929651,
+            14.26090806413904,
+            "CAoSLEFGMVFpcE5JMkxDZ1lsZTRkcWVlM050Y2RTMlZod2hiRUZ0WlhNQTRfSXNZ"
+        ],
+        [
+            36.00093972594669,
+            14.33579726057254,
+            "CAoSLEFGMVFpcE1XRjItdTBBNElqRk5UY3l1MnY4SkR1LVV0T1d3Sl9ySFg4WWRI"
+        ],
+        [
             35.91077802373481,
             14.41777182670359,
             "IB4rrmP0Jo1pQqauoThMwA"
+        ],
+        [
+            35.92103590971,
+            14.35980165786298,
+            "u3H0CMXqkPOIIq-KTpi_8Q"
+        ],
+        [
+            36.07407728433322,
+            14.18484290069915,
+            "CAoSLEFGMVFpcE1lWWNibUNqQWVqZW5tOUE2UWpjVUp1VVRESkxSX3BPTTltTUhJ"
+        ],
+        [
+            36.0416522290375,
+            14.24993113608566,
+            "CBoR3O6CNz7Qwqd2vHhxpw"
+        ],
+        [
+            35.90452886235003,
+            14.36980931596223,
+            "CAoSLEFGMVFpcE1CXzN0RDJqbmE4N3pVSnZnM3Q0THQ3c3VYX3hrUElVUmxIRmFw"
         ]
     ],
     "San Marino": [
         [
+            43.97809281813228,
+            12.49636105677843,
+            "R7pCJZ84hkE32Lz-flqfWg"
+        ],
+        [
             43.9447584833455,
             12.46625773389936,
             "oheIwW7RNi8KJe1cY8ficA"
+        ],
+        [
+            43.90007111749968,
+            12.45389978211189,
+            "zifiB87NF_pNMSg2syXoIA"
+        ],
+        [
+            43.94911112933077,
+            12.42692527876028,
+            "4BwCljmsh9EzbxXduw765A"
+        ],
+        [
+            43.95233475515344,
+            12.4902579790572,
+            "QV0dOdvUTuQpxO1xezrL0w"
         ],
         [
             43.96797171678543,
@@ -1275,9 +2355,19 @@
     ],
     "Monaco": [
         [
-            43.7313105137583,
-            7.413464150854039,
-            "CAoSLEFGMVFpcFBxM3AxejRQeDNsT0ltV1NlcGJ2UDBzS0lJWUhRdldXUHR2R3JB"
+            43.73073862817817,
+            7.422532697733194,
+            "CAoSLEFGMVFpcE14a21IN0kxZnF5LXM4a1FqX18zOGhZS2VBZVRWVzdXUzI1U0dz"
+        ],
+        [
+            43.74141528816041,
+            7.428005097086577,
+            "CAoSLEFGMVFpcFBMQWY1dzZSX0UtclEzZzRfNGYyM3FXbWFiajBtRXg2ekVKSXFC"
+        ],
+        [
+            43.74300887847292,
+            7.430689887708062,
+            "_Zzy9wkqLtfIeYhjqtLEZw"
         ],
         [
             43.73719920539893,
@@ -1285,26 +2375,26 @@
             "CAoSLEFGMVFpcFBrM1BhNkFLYnlXLU9JaUxPdGJsbVZrelpEWE4ycjdSOWotckR3"
         ],
         [
-            43.73073862817817,
-            7.422532697733194,
-            "CAoSLEFGMVFpcE14a21IN0kxZnF5LXM4a1FqX18zOGhZS2VBZVRWVzdXUzI1U0dz"
-        ],
-        [
             43.73578338722293,
             7.437817796014259,
             "CAoSLEFGMVFpcE05Q280NFYtTGxuZmFyam1RMUhGelZYdkRRVmU0QzYtdWwtMUxv"
         ],
         [
-            43.74141528816041,
-            7.428005097086577,
-            "CAoSLEFGMVFpcFBMQWY1dzZSX0UtclEzZzRfNGYyM3FXbWFiajBtRXg2ekVKSXFC"
+            43.7313105137583,
+            7.413464150854039,
+            "CAoSLEFGMVFpcFBxM3AxejRQeDNsT0ltV1NlcGJ2UDBzS0lJWUhRdldXUHR2R3JB"
+        ],
+        [
+            43.72636295104058,
+            7.426170766540652,
+            "CAoSLEFGMVFpcFBKQmsxeXA3RTVCMjA1c0pJb3ZsQ1BfTXBNWmxQX0JrTXd1ZG9J"
         ]
     ],
     "Isle of Man": [
         [
-            54.14913849621811,
-            -4.475296710261833,
-            "CAoSLEFGMVFpcE1BeHRXSHR2YWRXcDRjdE80eW5CMVZ0MnJlNlI5QldYQlRtbUVq"
+            54.36960559956702,
+            -4.516800794383962,
+            "xMvP11JCgH6ohGkX4W2D5Q"
         ],
         [
             54.13235883283853,
@@ -1312,9 +2402,9 @@
             "CAoSLEFGMVFpcFBWV0RWR2d3U0Vqd2VxY0h0YWxoYVJ0OFpab1kyMEZicGFYQ19w"
         ],
         [
-            54.16744479741017,
-            -4.755602912795132,
-            "CAoSLEFGMVFpcE5sSUM0Z01CamVSbHRuc21QMDdjajVaODBSYWttalV3T0tOQmZL"
+            54.14913849621811,
+            -4.475296710261833,
+            "CAoSLEFGMVFpcE1BeHRXSHR2YWRXcDRjdE80eW5CMVZ0MnJlNlI5QldYQlRtbUVq"
         ],
         [
             54.3607189686188,
@@ -1322,36 +2412,41 @@
             "CAoSLEFGMVFpcE9BRnJQUGhvUm9iU0hRN2lNTTY0YXJnclZUb1A5Q2RhUm9Pc1NJ"
         ],
         [
+            54.12672191819561,
+            -4.468434463842408,
+            "CAoSLEFGMVFpcFBGUVdGMFlacXNiWlBsdlFHNkhPVU0xSThCZEkwMDlsSVFLeXRz"
+        ],
+        [
             54.07621285377829,
             -4.750416718208335,
             "GxqdpjzKogj3V53b1xs9sQ"
+        ],
+        [
+            54.43456201330827,
+            -4.66477446345989,
+            "CAoSLEFGMVFpcE1PckF6dFN4TnRwdktYbnJBWjFBNDhsaUVnbmxpVWw2VmprbEhE"
+        ],
+        [
+            54.29857361991737,
+            -4.564068772695522,
+            "CAoSLEFGMVFpcE96aDloYjI4VUp5TTFWWE1reWZLNWJ0ZVVUQ0wyTEphaU9XaDF5"
+        ],
+        [
+            54.16744479741017,
+            -4.755602912795132,
+            "CAoSLEFGMVFpcE5sSUM0Z01CamVSbHRuc21QMDdjajVaODBSYWttalV3T0tOQmZL"
+        ],
+        [
+            54.14127347563814,
+            -4.470033546408949,
+            "CAoSLEFGMVFpcE4tcklrbWJHcGpaazZRcHBXLXBaYXV3Q0RFRFRCc1oyV253U1Qx"
         ]
     ],
     "Sweden": [
         [
-            61.2814851099436,
-            16.84177627249382,
-            "CAoSLEFGMVFpcE5SNk11UVF5YktfT2gxWEliLTRMVms1RmVLS2o2cF9YV3VfZWVi"
-        ],
-        [
-            64.30701442589744,
-            19.16380287906279,
-            "CjW5zJK-DNRkYD0n9lfN8Q"
-        ],
-        [
-            65.57748653555767,
-            22.61280583719554,
-            "CAoSLEFGMVFpcE1jVjJBR0k5V3NwM3A3SFUtbXp5b20wLUhHWjBXMVg2UjUxa2d6"
-        ],
-        [
             66.53713438289245,
             16.14716637834734,
             "CAoSLEFGMVFpcFA3S0lSZTNObk9RMFFib3Q0Nl9BUVFRR0xSREVEbURGNGFkRnlK"
-        ],
-        [
-            67.09124893263646,
-            20.56779069544035,
-            "CAoSLEFGMVFpcFA4RENVcG4waEJQS2ZBREp3V1hFNjVhNWM2b2ZldEZIZVJJN3dx"
         ],
         [
             59.74186482877271,
@@ -1359,26 +2454,76 @@
             "KOLxyUGyuFc05UypSDF0EA"
         ],
         [
-            63.80395544056185,
-            15.69620809864004,
-            "VP6HsY3xMEF8HBy5lM52sg"
+            65.57748653555767,
+            22.61280583719554,
+            "CAoSLEFGMVFpcE1jVjJBR0k5V3NwM3A3SFUtbXp5b20wLUhHWjBXMVg2UjUxa2d6"
+        ],
+        [
+            59.58244360126542,
+            15.49857444631323,
+            "7B-3HUM-cVPk8klP1lJ_ow"
         ],
         [
             66.00818737003884,
             21.84384883642507,
             "wseZMtJhi5TY-wcqOfFCJg"
+        ],
+        [
+            63.80395544056185,
+            15.69620809864004,
+            "VP6HsY3xMEF8HBy5lM52sg"
+        ],
+        [
+            61.2814851099436,
+            16.84177627249382,
+            "CAoSLEFGMVFpcE5SNk11UVF5YktfT2gxWEliLTRMVms1RmVLS2o2cF9YV3VfZWVi"
+        ],
+        [
+            67.09124893263646,
+            20.56779069544035,
+            "CAoSLEFGMVFpcFA4RENVcG4waEJQS2ZBREp3V1hFNjVhNWM2b2ZldEZIZVJJN3dx"
+        ],
+        [
+            64.30701442589744,
+            19.16380287906279,
+            "CjW5zJK-DNRkYD0n9lfN8Q"
+        ],
+        [
+            57.20024459268323,
+            15.27993306931543,
+            "K3ayouEk_xgILdk37b9IQA"
+        ],
+        [
+            57.00552291404354,
+            12.61380362746537,
+            "jn7RWhitgOuizyOSx7hcvA"
+        ],
+        [
+            63.67792085339958,
+            19.22539045614329,
+            "3akUZqmHQqvxDXCWQLnsjg"
         ]
     ],
     "Denmark": [
         [
-            57.48111996244709,
-            10.01234284325333,
-            "dBB9AcNrb3huIcYwFCRwzQ"
+            56.10216431834857,
+            8.22645526354099,
+            "c6skd-BxSMsT2eBvF6sotQ"
         ],
         [
-            55.01645272282044,
-            8.786050058551623,
-            "dc6_DoHZLP6uO6WgXsk-Ug"
+            55.79969718329701,
+            9.58474998323052,
+            "AlLY2Et5lQRe19ByhxFf2Q"
+        ],
+        [
+            55.58101766530408,
+            8.642913414147767,
+            "4WA0FGDofOGELzacsVSEew"
+        ],
+        [
+            56.04704182772917,
+            12.55339179935622,
+            "CAoSLEFGMVFpcE5adnIxckV5YkwxTENGczhCNV96OV92YVNrSWNvUUthaXR2RFRu"
         ],
         [
             55.75662903635907,
@@ -1386,17 +2531,42 @@
             "CAoSLEFGMVFpcE1rNi05S2tLYWZlU2Yzem9kdUFtd1dwWG1mankzdmgwcGgwMXF5"
         ],
         [
+            55.01645272282044,
+            8.786050058551623,
+            "dc6_DoHZLP6uO6WgXsk-Ug"
+        ],
+        [
+            57.48111996244709,
+            10.01234284325333,
+            "dBB9AcNrb3huIcYwFCRwzQ"
+        ],
+        [
+            56.78092591179553,
+            9.986813936613627,
+            "uJkLbhrYs-jknkuaxDDSyA"
+        ],
+        [
             55.74790458288654,
             11.92311383081961,
             "geWNCwKJwFyECd0XIKvkxg"
-        ],
-        [
-            55.79969718329701,
-            9.58474998323052,
-            "AlLY2Et5lQRe19ByhxFf2Q"
         ]
     ],
     "Norway": [
+        [
+            68.89130965092087,
+            19.05668913282341,
+            "kXpj_rTNS15oVXgPT28Jqw"
+        ],
+        [
+            60.40701598834299,
+            12.20367959273213,
+            "LK_CUdqwk2sXaRs76AOT8w"
+        ],
+        [
+            62.04840150730479,
+            5.356787702436584,
+            "CAoSLEFGMVFpcFBhZHV1ZTFZMmNaQlJpeEpjNk1ZdjczazJjR0d0YzZBM2Y1b3Zi"
+        ],
         [
             62.46706756798658,
             8.188094947012054,
@@ -1406,33 +2576,18 @@
             69.1745642414283,
             23.58324183761857,
             "CAoSLEFGMVFpcE1OOV9fQngtalc5Y0tMXzVWTUhQZ1JSZlpiWkJZSTNDN29oNF9l"
+        ],
+        [
+            60.28147159220898,
+            7.067356952179533,
+            "CAoSLEFGMVFpcE84R3RUenhiY2J5d3lLd1BwOE53aXotZW9CcnI2YXUxMHJ4N3Bm"
         ]
     ],
     "Iceland": [
         [
-            63.84568951084536,
-            -21.37685810550626,
-            "XS_P-fDmHSzyjEbIEGvdYA"
-        ],
-        [
-            65.53373262809295,
-            -20.95056446149398,
-            "OMs_3um6ASrO_OmNjJmJWQ"
-        ],
-        [
-            64.84498323124015,
-            -21.29256755674255,
-            "JV2ZpITo18fyiLWeJy2c7Q"
-        ],
-        [
-            64.78012362332603,
-            -15.67304616743852,
-            "CAoSLEFGMVFpcE0tZjNhWVBVZGZYejF4X2E1cnlKY1VGcjgtQzFkb29sMWFYQUZM"
-        ],
-        [
-            64.47797137719952,
-            -19.69361167194528,
-            "CAoSLEFGMVFpcE1tTkhlTFJWSzBPWXdaVGlJempCWUJJZWI1NURlOFNqd1BPSzRr"
+            64.88508920458881,
+            -23.64432297149063,
+            "CAoSLEFGMVFpcE1lSGNWWWVjamRWZ3ozbmZMQWZEbUJlX1o4MDlSbU5hRlpvS2Ra"
         ],
         [
             65.94852991592997,
@@ -1440,21 +2595,96 @@
             "pSPk0G4UE7j8OM6Uqmk3BQ"
         ],
         [
-            65.30366621743664,
-            -18.25841890909597,
-            "xNekABXmhdR9t66yEARk6Q"
+            64.47797137719952,
+            -19.69361167194528,
+            "CAoSLEFGMVFpcE1tTkhlTFJWSzBPWXdaVGlJempCWUJJZWI1NURlOFNqd1BPSzRr"
         ],
         [
             66.02364995409685,
             -16.39303383583627,
             "CAoSLEFGMVFpcE50bU4td2t2R3ZrSUtQY19Rdlo4ZS1wOUpOcmkySUF0Y3ZlazNl"
+        ],
+        [
+            65.75110997282405,
+            -14.33872685162269,
+            "CAoSLEFGMVFpcFBIcExhX2l6dTliNGRUVnZaeV9oMzJxcEF0YW1lN0pTOGNST3Zl"
+        ],
+        [
+            63.84568951084536,
+            -21.37685810550626,
+            "XS_P-fDmHSzyjEbIEGvdYA"
+        ],
+        [
+            63.56325417275038,
+            -18.95145624470199,
+            "CAoSLEFGMVFpcE9KSkE5MUdoMXEtVHNuMkt0S2FjWmxVNGktcjdYd3h4TzRpZFlH"
+        ],
+        [
+            66.11729912723126,
+            -23.5645309499263,
+            "Pku4B6dStLflKt0DOxtRlQ"
+        ],
+        [
+            64.84498323124015,
+            -21.29256755674255,
+            "JV2ZpITo18fyiLWeJy2c7Q"
+        ],
+        [
+            63.65072190502887,
+            -18.01636469529583,
+            "an9ya31P6dQ9H4C_-KBshQ"
+        ],
+        [
+            64.8011933322302,
+            -23.08964585852397,
+            "CAoSLEFGMVFpcE9NMFc1a2lEWTZ0UHZKNlJucVhyTk1IWkpWNlBYVmdHWkdGZHlB"
+        ],
+        [
+            63.56438158767471,
+            -19.3031519353628,
+            "CAoSLEFGMVFpcE1aVWNxMTEyUXo2Vy1rT0ZoVWJFaUlqeUFwT2JrQnhkMWNoT01w"
+        ],
+        [
+            65.30366621743664,
+            -18.25841890909597,
+            "xNekABXmhdR9t66yEARk6Q"
+        ],
+        [
+            65.16165066281324,
+            -14.15568082780485,
+            "jHyZppYSSNvmoNcfeqVP8g"
+        ],
+        [
+            65.53373262809295,
+            -20.95056446149398,
+            "OMs_3um6ASrO_OmNjJmJWQ"
+        ],
+        [
+            64.16993733590081,
+            -19.45287878559062,
+            "ILKLTeDGvnW-n3Uq5s_7jw"
+        ],
+        [
+            64.78012362332603,
+            -15.67304616743852,
+            "CAoSLEFGMVFpcE0tZjNhWVBVZGZYejF4X2E1cnlKY1VGcjgtQzFkb29sMWFYQUZM"
         ]
     ],
     "Estonia": [
         [
-            58.48213661624639,
-            24.33979583639001,
-            "_JHE2mpuw1mbNECTiZVpwQ"
+            59.16924002678137,
+            27.44604563190644,
+            "8dlKwSeTp-k4OEw-kr0GWA"
+        ],
+        [
+            59.13819221605014,
+            25.08223827927248,
+            "6UfS56r2upUO4bb7CLxCAA"
+        ],
+        [
+            58.64869226093285,
+            27.09492895144259,
+            "x0TIFiIaGkH44N3qrH7cwQ"
         ],
         [
             58.44987831359661,
@@ -1462,9 +2692,29 @@
             "5s_83bXbhn4CuOD1yD8R4Q"
         ],
         [
-            59.16924002678137,
-            27.44604563190644,
-            "8dlKwSeTp-k4OEw-kr0GWA"
+            58.13413698208434,
+            22.4659393118842,
+            "CAoSLEFGMVFpcE5QYVBYeWMyWEs4WXNZLWkteG1aNTgwUVdNMGgzZlhMVFpaN1VO"
+        ],
+        [
+            57.65927764923226,
+            26.78975836096026,
+            "AAP-eKlMJmuST2qs687HRQ"
+        ],
+        [
+            59.26966913110165,
+            23.73203338098454,
+            "Dd8iAocERtuY75PB8vf9rg"
+        ],
+        [
+            58.95362142407689,
+            23.33693236452715,
+            "CAoSLEFGMVFpcFB0OW1UbkxqdDFadWljZUlOWlNJU1ptS2REMDA0WS1ialp0TjRD"
+        ],
+        [
+            58.48213661624639,
+            24.33979583639001,
+            "_JHE2mpuw1mbNECTiZVpwQ"
         ],
         [
             57.92835996362395,
@@ -1472,17 +2722,42 @@
             "CAoSLEFGMVFpcE1hUE05dnJPNWV1OEw0WDU0dE5HdEcxcXphX3NuMVh5b1JHWnJj"
         ],
         [
+            59.09458299543802,
+            27.25941024197051,
+            "kRG0SIciH0j7UAzM6wwn1A"
+        ],
+        [
             59.38680771065007,
             28.06279183201256,
             "9nx_d2GSNUmuRsnoxBsI1Q"
-        ],
-        [
-            58.95362142407689,
-            23.33693236452715,
-            "CAoSLEFGMVFpcFB0OW1UbkxqdDFadWljZUlOWlNJU1ptS2REMDA0WS1ialp0TjRD"
         ]
     ],
     "Lithuania": [
+        [
+            55.60195511855709,
+            21.8170407898709,
+            "6MH65FrTz-hqjKHL7xvJwg"
+        ],
+        [
+            54.6747007401012,
+            23.06408157874474,
+            "qEztXSKCqwIR7f1pDiZjlw"
+        ],
+        [
+            55.89940352093596,
+            25.66021924768114,
+            "CAoSLEFGMVFpcE1RVTc4UGlXQzRxSGhmNDNZVURjTm90TlVtMVVmaDhhcG80cnVE"
+        ],
+        [
+            54.38314842917003,
+            23.09717506159074,
+            "Aze5suxGzd-zn4GhX7VLMQ"
+        ],
+        [
+            56.00969822446201,
+            22.98888797739226,
+            "ODs7ivQDZqaDZwKBP264og"
+        ],
         [
             55.67805029658809,
             24.52145855490084,
@@ -1492,23 +2767,23 @@
             56.01557610915165,
             22.59979624672955,
             "DcXC3nn7-Rz0KcfbhPL_RA"
+        ],
+        [
+            55.68791790916217,
+            23.56209408920612,
+            "FQsTxa1QyQ7Izg2pMv2dUg"
+        ],
+        [
+            56.00300990400399,
+            22.20015954472504,
+            "rKoNDL4xDS38yQQeXiPvhg"
         ]
     ],
     "Poland": [
         [
-            50.31773893875241,
-            16.73634048574177,
-            "4xkKh9NQSEeAieXfYRfTow"
-        ],
-        [
-            49.32870445241277,
-            20.04088600077149,
-            "CAoSLEFGMVFpcE8xd0JGRHk4VjF0cGpEUUZEWHdIT2FvcGlPMWwzQTZHd3pCVC1v"
-        ],
-        [
-            54.04751969666515,
-            23.37320296823022,
-            "9ri4OlBtcWrUzBh3cZSjEg"
+            50.20303393273827,
+            22.35438496294675,
+            "CAoSLEFGMVFpcE1rUG5DVFBoWEd6RTlvejZicDFHOTd0ZTROOTFYbXpSUFVwZjJm"
         ],
         [
             52.57362044054489,
@@ -1516,9 +2791,14 @@
             "xnRpJ_pm5ArbJF46526TQA"
         ],
         [
-            50.30758900190956,
-            16.60662607423105,
-            "VOCr3lg7zpeLjSo7vU678w"
+            50.85878694329834,
+            22.16397915889039,
+            "k2tWwn6ori4-yqFnFMfbjA"
+        ],
+        [
+            50.85443724384223,
+            18.00228664080169,
+            "iLfp4KWPXTDF1Z1yzuWV7w"
         ],
         [
             50.66778358903883,
@@ -1526,21 +2806,66 @@
             "gewLPlXx4xJQ8_U53kikcg"
         ],
         [
+            49.32870445241277,
+            20.04088600077149,
+            "CAoSLEFGMVFpcE8xd0JGRHk4VjF0cGpEUUZEWHdIT2FvcGlPMWwzQTZHd3pCVC1v"
+        ],
+        [
+            50.30758900190956,
+            16.60662607423105,
+            "VOCr3lg7zpeLjSo7vU678w"
+        ],
+        [
+            52.17113127409488,
+            20.31975592920948,
+            "7pRxfnHHjmgpr19GDkqhdA"
+        ],
+        [
+            54.19602531327976,
+            23.01545518238119,
+            "GGW3G9-MtMYPt_xRdc2Y4w"
+        ],
+        [
             54.33103834417914,
             22.24560168285475,
             "CAoSLEFGMVFpcE9rZUVWN19fY25wcDBDU0I4M0cwSW5vdHBRLXItQkZmTWpGQnRi"
+        ],
+        [
+            54.04751969666515,
+            23.37320296823022,
+            "9ri4OlBtcWrUzBh3cZSjEg"
+        ],
+        [
+            50.31773893875241,
+            16.73634048574177,
+            "4xkKh9NQSEeAieXfYRfTow"
         ]
     ],
     "Hungary": [
         [
-            47.87484402601138,
-            21.57863642634525,
-            "YPoWJYaWaYGxagBTUV8OkA"
-        ],
-        [
             47.8807898298407,
             22.71158549560969,
             "U2YbRk89xM8H81FLP_sY-A"
+        ],
+        [
+            47.15639185775498,
+            17.64099380552512,
+            "jrLxb_dWtaBqQwAO6-z68w"
+        ],
+        [
+            46.57276097835918,
+            21.21442012480886,
+            "l-nyQY8WwSmZaqpWSONIWw"
+        ],
+        [
+            46.66456884300666,
+            17.07829776779409,
+            "57bfA-ScD2eqbl__trjniw"
+        ],
+        [
+            46.50410715276062,
+            18.57227128726044,
+            "OM1y1GTosa7JHWaAKKw7qA"
         ],
         [
             48.09580462457119,
@@ -1551,13 +2876,58 @@
             46.00175204260026,
             18.88222725072998,
             "A8cERY1_9JwXpJqqt2Ug3A"
+        ],
+        [
+            46.72112263654842,
+            21.21063741940274,
+            "fXdCAVwG040d-AjUzTCkIA"
+        ],
+        [
+            46.22987784972757,
+            17.12495996947348,
+            "9nlkC0bE8fwDv8Yyn6zLAQ"
+        ],
+        [
+            47.87484402601138,
+            21.57863642634525,
+            "YPoWJYaWaYGxagBTUV8OkA"
         ]
     ],
     "Slovakia": [
         [
+            48.73522319904038,
+            22.0002332844485,
+            "riD16qfg89aBz1fGpvrBsw"
+        ],
+        [
+            47.76423106722277,
+            18.01486012962758,
+            "6ZS4Q-3s3s6UBFmN-fiiEQ"
+        ],
+        [
+            48.57175709182569,
+            18.19661637833346,
+            "BHYKK9BeVgi6MLgjXRGHtg"
+        ],
+        [
+            48.57531223812929,
+            17.35198219922262,
+            "h31Hbl2iLf26HSe-QAyGwQ"
+        ],
+        [
             48.82588297457186,
             18.89082021653834,
             "SYb_rwVCb-PFvOj2DTVb0w"
+        ],
+        [
+            49.34427962144131,
+            21.94857730826293,
+            "acyOCG8jFK3YpU86bfOtlw"
+        ],
+        [
+            49.23056629596084,
+            21.15470340006726,
+            "va8hToVawNFLoYH8WDh0qg"
         ],
         [
             48.75697893930845,
@@ -1565,21 +2935,21 @@
             "5aHcuX6evRGoLFrEZpW_tg"
         ],
         [
-            48.57531223812929,
-            17.35198219922262,
-            "h31Hbl2iLf26HSe-QAyGwQ"
+            49.41311485858785,
+            21.42355269174416,
+            "YlBgHzeoanRHe61hh1_f9w"
         ]
     ],
     "Greece": [
         [
-            37.50488502423892,
-            25.11458049230121,
-            "CAoSLEFGMVFpcE14Mk1Nc2std0hMamF4Z1E5bEo2VWMwbm05bHlGN0hLT1RJZkVG"
-        ],
-        [
             39.79150827980653,
             20.8738218331151,
             "DgszYJlqZz0_Nf_UqwduTg"
+        ],
+        [
+            39.89194477040311,
+            20.67082696164896,
+            "nbcx4-hMEV-kjgKuyeB8kA"
         ],
         [
             35.31737636409274,
@@ -1587,9 +2957,44 @@
             "NRmk7hZtvHxw_XpgOOk0dw"
         ],
         [
+            37.55733090216704,
+            21.65566495246384,
+            "FdHgjfJEIFS2kGUQHV93_Q"
+        ],
+        [
+            39.66428454454948,
+            20.70969578488614,
+            "cYSwtkgbFTfcvbHyo11h_w"
+        ],
+        [
+            38.52459271912102,
+            22.54717432363314,
+            "CAoSLEFGMVFpcE1vdDNUUTJTN1BKd3Q5Vk9DeGJpQ0gwak5kdkhTSWduREdxVjZS"
+        ],
+        [
+            37.39684902354741,
+            24.46812096070563,
+            "CAoSLEFGMVFpcE1NZjR3Wjd0d0tUdDlUcXdsUVQyWHhQRkdMNlkxdHJnWmZVaE1T"
+        ],
+        [
+            38.85691872503135,
+            21.35269313685101,
+            "bBIjl9nVCQ-itWQ7K74aRg"
+        ],
+        [
+            37.50488502423892,
+            25.11458049230121,
+            "CAoSLEFGMVFpcE14Mk1Nc2std0hMamF4Z1E5bEo2VWMwbm05bHlGN0hLT1RJZkVG"
+        ],
+        [
             36.74665166807265,
             21.91782171246142,
             "CAoSLEFGMVFpcE5GbmdfdWdsR2dELVdUWm82MjJ3T09hREhyaElkdjJVVWdySnIt"
+        ],
+        [
+            40.9733364332787,
+            21.90125826741848,
+            "CAoSLEFGMVFpcE0ybnpiS0Vac1VHWEhOX3lLNTRGX2lzbEpXbldTM2g3MG1xc3Fo"
         ],
         [
             39.26268392811685,
@@ -1600,19 +3005,44 @@
             41.34117137603643,
             23.87154192426065,
             "QfYsq6Y7qE4tw_V4ba1WNw"
-        ],
-        [
-            39.89194477040311,
-            20.67082696164896,
-            "nbcx4-hMEV-kjgKuyeB8kA"
-        ],
-        [
-            38.52459271912102,
-            22.54717432363314,
-            "CAoSLEFGMVFpcE1vdDNUUTJTN1BKd3Q5Vk9DeGJpQ0gwak5kdkhTSWduREdxVjZS"
         ]
     ],
     "Serbia": [
+        [
+            44.60000000945994,
+            19.31666673085491,
+            "CAoSLEFGMVFpcE5jZmdIdGVJUU8xU055cnFOdlhoTm1WSlpDSEEyWW1ONi1CdFRx"
+        ],
+        [
+            43.72486691644393,
+            20.32658957951167,
+            "_xOAwUYs3i3LpZST3QSZJw"
+        ],
+        [
+            42.3517036772948,
+            21.73522719093613,
+            "CAoSLEFGMVFpcE0ydFFYX21ubVpYSXoxem1JMWhhTElyeGpJRlBoalAycnVZNVVy"
+        ],
+        [
+            43.4025348783616,
+            19.83253073473615,
+            "CAoSLEFGMVFpcFBqVGZqaXlOSmdHaEpTT09Sbk5Obm1rekFCRFVpWGExUzJuZDRN"
+        ],
+        [
+            43.48062648557188,
+            19.41519440813806,
+            "CAoSLEFGMVFpcFBFcEo0cHBLQ2RiSi1LY25SNnJMcU1VejVPNF9KLUhNX1ZzaXQy"
+        ],
+        [
+            43.46965379274082,
+            22.3518125354947,
+            "9pzBUtkOxAG7LQppK_79IA"
+        ],
+        [
+            43.2578922072689,
+            21.11534724696799,
+            "CAoSLEFGMVFpcFBXUms5UVNPcF9uY2pFaHZFalo1cmNDRlFoN1ZsbllzUGZzWVRI"
+        ],
         [
             43.38129537516624,
             19.63773512248391,
@@ -1624,53 +3054,78 @@
             "CAoSLEFGMVFpcE1QRnBRR0RJblo3NjI1Tm12MzJZX2NOcnJGYmh1ZVZSRXZtVDB2"
         ],
         [
-            44.47894758279893,
-            21.64799760470631,
-            "CAoSLEFGMVFpcE1zSkxyN0lRSUFobzdqSGtDWkJvSXdDbmoxTGt3anJmd215RjBM"
-        ],
-        [
-            43.4025348783616,
-            19.83253073473615,
-            "CAoSLEFGMVFpcFBqVGZqaXlOSmdHaEpTT09Sbk5Obm1rekFCRFVpWGExUzJuZDRN"
-        ],
-        [
-            44.60000000945994,
-            19.31666673085491,
-            "CAoSLEFGMVFpcE5jZmdIdGVJUU8xU055cnFOdlhoTm1WSlpDSEEyWW1ONi1CdFRx"
-        ],
-        [
             44.78957839053749,
             21.04398079510307,
             "YaVcwQqFkM8THJCu7QyXmA"
         ],
         [
-            43.46965379274082,
-            22.3518125354947,
-            "9pzBUtkOxAG7LQppK_79IA"
+            44.47894758279893,
+            21.64799760470631,
+            "CAoSLEFGMVFpcE1zSkxyN0lRSUFobzdqSGtDWkJvSXdDbmoxTGt3anJmd215RjBM"
+        ],
+        [
+            43.33812129804624,
+            19.5724646903039,
+            "CAoSLEFGMVFpcE5qTWJ4NVU0WmFHWXlaa3JwTUEzMlo3QU56SkFtX1V4cXh5WTFU"
         ]
     ],
     "Bosnia and Herzegovina - Bosnia and Herzegovina": [
         [
-            43.10877369309338,
-            18.55426800044883,
-            "CAoSLEFGMVFpcE1LUy1xR0xtVC1LaVYwV0w2aUI2MXpHRUtKZU9KTktQRjRWaDRF"
+            44.05359278163123,
+            18.10762660902202,
+            "CAoSLEFGMVFpcFA2dVhOWklKUmtFSGpueGFyNEV0VjRQd3Y0N3I3ZnNoSVBQYmxN"
         ],
         [
             44.83713738314109,
             17.89901869076659,
             "CAoSLEFGMVFpcE5DNFVmTkI2RFpFWnk4UkRyN2JEdThreUZ1Sy1kZFRFU2E3ZC1R"
+        ],
+        [
+            44.66349177381019,
+            17.00049028474324,
+            "CAoSLEFGMVFpcE5mbThPYUFDR2J4RGQzaFozMkZPakx2LXNPVndPeWkza2JKMXhv"
+        ],
+        [
+            44.67674260674971,
+            17.99248757702078,
+            "CAoSLEFGMVFpcE5ld3IxWkJ0V1doQndOX3ZLZmtFbjFaNXQ2TE1YNWtkMHJaUnht"
+        ],
+        [
+            43.10877369309338,
+            18.55426800044883,
+            "CAoSLEFGMVFpcE1LUy1xR0xtVC1LaVYwV0w2aUI2MXpHRUtKZU9KTktQRjRWaDRF"
         ]
     ],
     "Albania": [
         [
-            39.99221549167665,
-            20.21322650337275,
-            "CAoSLEFGMVFpcFBYODBSUHNLem1kcHdVSmZnU1dvMTBlWlZ4MjFwTmYzQ1d0NE80"
+            41.85598670828791,
+            19.46971832875099,
+            "CAoSLEFGMVFpcE1ia2VRLXVCRXdEbmR2QW9aSHp5cHI1elZFZDRqT3lfWTVyNWJG"
+        ],
+        [
+            42.15215089659117,
+            20.17777912466976,
+            "4ZWo3EYAWjJ5x1iGwb9m0g"
+        ],
+        [
+            41.05448295611338,
+            19.93816742999894,
+            "xk5FwllcgDiOLW1x28wVwA"
         ],
         [
             41.08995636907517,
             20.44641893734938,
             "g1q_LSRR1taPfhEYmUG1YA"
+        ],
+        [
+            41.99591651764378,
+            20.48455607601307,
+            "CAoSLEFGMVFpcFB1ZlI5eGdtb0k2TTVYVVJUMk5IRGFaS1VOZlpaMV9KMGtIeDZH"
+        ],
+        [
+            39.99221549167665,
+            20.21322650337275,
+            "CAoSLEFGMVFpcFBYODBSUHNLem1kcHdVSmZnU1dvMTBlWlZ4MjFwTmYzQ1d0NE80"
         ]
     ],
     "Montenegro - Montenegro": [
@@ -1683,23 +3138,43 @@
             42.80265460188002,
             20.22605000924471,
             "ANN3MSTMYVTV7K2OaixPJQ"
+        ],
+        [
+            43.40652768027706,
+            19.09194940728555,
+            "6dEkrHYMKBBRYkWhPq2H-g"
+        ],
+        [
+            42.14381845902941,
+            19.01199380139271,
+            "gfz_8cErFPh1JD4mpL8TwQ"
         ]
     ],
     "North Macedonia": [
+        [
+            40.912690985102,
+            20.99439621241611,
+            "CAoSLEFGMVFpcE5VTkQ0WG9IODQtVTc0Y19DY1A1U2N5UE5oY2RqenBheDhYemZq"
+        ],
         [
             42.2294734215592,
             21.75810173253107,
             "CAoSLEFGMVFpcE5YeE9meFFiRGFvMXRkTFdJVEFXWERRVS1kWHpyMDUxM2pIdVpi"
         ],
         [
-            41.20822529751621,
-            20.76963534192611,
-            "CAoSLEFGMVFpcE9McW16UmdHTUE4MUQtYXNnVEpENVd6amdETjBpX3lVVzkzMWpI"
+            41.26372148638888,
+            22.0534647995317,
+            "CAoSLEFGMVFpcE1SRGloUjZsend6cDdHSzJHWE15eXhVd042RUdEMXl4MWhfaVoy"
         ],
         [
-            41.15752523050791,
-            20.79806466423638,
-            "CAoSLEFGMVFpcE1FYjNDajd5SGVxNEJOY0NTWk4tdmRzWUdnZlA4cVZUbmFiT1hr"
+            41.6228695586983,
+            20.65747412570321,
+            "CAoSLEFGMVFpcE9VMkc3bkRjcXdZVExVVl9UV09hcHhvQTloLUozV01VVTFnbkVm"
+        ],
+        [
+            40.88778218426506,
+            21.60902929030999,
+            "CAoSLEFGMVFpcFBJYUc0d1FUdm93VG1yTVhsSTh1TzdHZUdETmV6UlRuOVdiSDJx"
         ],
         [
             41.65788525849701,
@@ -1707,9 +3182,19 @@
             "CAoSLEFGMVFpcE5aQ242T25PWGFFTE1CaFJLNFE2alF3UjE2T3RVSVRFMVYwd2dz"
         ],
         [
-            41.26372148638888,
-            22.0534647995317,
-            "CAoSLEFGMVFpcE1SRGloUjZsend6cDdHSzJHWE15eXhVd042RUdEMXl4MWhfaVoy"
+            41.15752523050791,
+            20.79806466423638,
+            "CAoSLEFGMVFpcE1FYjNDajd5SGVxNEJOY0NTWk4tdmRzWUdnZlA4cVZUbmFiT1hr"
+        ],
+        [
+            41.20822529751621,
+            20.76963534192611,
+            "CAoSLEFGMVFpcE9McW16UmdHTUE4MUQtYXNnVEpENVd6amdETjBpX3lVVzkzMWpI"
+        ],
+        [
+            42.27261620941249,
+            22.0192091278079,
+            "CAoSLEFGMVFpcFBPRWNoZlJLU3JfTzU1OHJnU1Q5bTF1bmY4Z2tsa21HOEVzcDVE"
         ]
     ],
     "Moldova": [
@@ -1721,19 +3206,19 @@
     ],
     "Bulgaria": [
         [
-            41.65097980081049,
-            25.62585189782462,
-            "ge_FZG0F0W0P-9_yAzC-5Q"
+            41.70581562644853,
+            24.47955177372504,
+            "BvGwKJFyvHAPd4tSkQNl9g"
         ],
         [
-            42.23567268746678,
-            22.65555483661336,
-            "CAoSLEFGMVFpcE1IVG1aVVdiSFp2YWVHbGtGaGNsb3JtVnEzUmZHYnJFSnJJWVVx"
+            42.23264671090335,
+            22.78039955431379,
+            "iSJ03YykJc0mgq3dgaBJOQ"
         ],
         [
-            43.12183910137042,
-            24.73278304161829,
-            "N_C2hRE97Hvn23UekTIhPA"
+            42.40333570713518,
+            23.80032508848176,
+            "DDKT6aTASBOazPKvfu5uwQ"
         ],
         [
             42.00449589283685,
@@ -1741,43 +3226,113 @@
             "CAoSLEFGMVFpcE5PVGYyUF9VblJ1c0UteDdZbnZrSVdkandSQUdGN2pyc2JjNkpO"
         ],
         [
+            41.65097980081049,
+            25.62585189782462,
+            "ge_FZG0F0W0P-9_yAzC-5Q"
+        ],
+        [
             43.20482191392918,
             27.70574033170588,
             "_dzT6UUwb4pMl_eJC891Jg"
+        ],
+        [
+            42.5900294054932,
+            25.0933783812054,
+            "gwTH-NPLxInpUNzyJWfzoQ"
+        ],
+        [
+            42.23567268746678,
+            22.65555483661336,
+            "CAoSLEFGMVFpcE1IVG1aVVdiSFp2YWVHbGtGaGNsb3JtVnEzUmZHYnJFSnJJWVVx"
+        ],
+        [
+            43.72734310968775,
+            23.30283045061,
+            "q-wd-zH6s5jULHAv2z4HJg"
+        ],
+        [
+            42.41594193199694,
+            22.52687140658502,
+            "46RtxgIxPDRhsBxdcO0ojQ"
+        ],
+        [
+            42.20035646216112,
+            27.30206574149962,
+            "qdARhYndy7oPX7OkbZCkNA"
+        ],
+        [
+            43.12183910137042,
+            24.73278304161829,
+            "N_C2hRE97Hvn23UekTIhPA"
         ]
     ],
     "Ukraine": [
         [
-            49.78551099794893,
-            33.71738044261818,
-            "CAoSLEFGMVFpcE5Wam0td1NiSzRSM0N3SjFHSDZ6Yzhka05EZ29DVjJTY003VTdL"
+            51.26839279280992,
+            26.15336474799817,
+            "QbspOsdeajV47AzCIj1asA"
         ],
         [
             51.4517723828588,
             32.52269673585779,
             "CAoSLEFGMVFpcE0wTzVTdW0yY3pTNWlnMGJXM1c4UENDaTVWZEQ3dl96SGtPOFVs"
+        ],
+        [
+            47.73134455980419,
+            36.66225412601655,
+            "CAoSLEFGMVFpcE81RmtzVWM2Mm85V3dTUlVYdjVBNTJlR2tHQXNacV9jMk5BOFk0"
+        ],
+        [
+            48.38683297125595,
+            22.89276302204182,
+            "CAoSLEFGMVFpcE1hcldtTXFZR1oyQ0xPM2tBbzFoZy1qd2FUTzJPRmZmODFlSXl2"
+        ],
+        [
+            46.19426682367637,
+            35.22042322023523,
+            "CAoSLEFGMVFpcE5TTjVUem85ZThBVC00QmgwNjJuZUxJVnBpTVZvRk5HNl9KQ29D"
+        ],
+        [
+            49.78551099794893,
+            33.71738044261818,
+            "CAoSLEFGMVFpcE5Wam0td1NiSzRSM0N3SjFHSDZ6Yzhka05EZ29DVjJTY003VTdL"
         ]
     ],
     "United States": [
-        [
-            18.35604133497436,
-            -66.42647102038751,
-            "CAoSK0FGMVFpcFBwQThMTHlJQ2NZNUhPNGZtdm1pWHNBS3BDRVBpUnFPRHN6b1E."
-        ],
         [
             30.0695683655396,
             -99.28555418122838,
             "1BYy1wRP4WACx1vB3KqI5w"
         ],
         [
-            43.27186383316126,
-            -75.93870969017154,
-            "-EOgrxLQuLHmJRDrCbbi0w"
+            -14.27437380405297,
+            -170.6242458281728,
+            "DCtghtJVj5XlMqZg1dxpjQ"
         ],
         [
-            18.25326747859297,
-            -65.6417345439443,
-            "CAoSLEFGMVFpcFB2dGlwUkxENWFZcGtHVDZUQkNqMkhtUXlwc0tINGNLZUQ4R0F1"
+            17.70137822703745,
+            -64.73156751777452,
+            "CAoSLEFGMVFpcE03aG9VVkxMdmp2YjlwVWcxQTUyeVhza3VjVW9JQzFDRDRVN1U2"
+        ],
+        [
+            -14.28856356508782,
+            -170.5571873489969,
+            "Vtl49c2TdCGAgwpKO51h_w"
+        ],
+        [
+            45.03068200447871,
+            -114.044888450481,
+            "CAoSLEFGMVFpcE1GZ2VsOVVCNnZhbnEzdnhwWExGU091X0d4TWRoREFXZ01jWDFZ"
+        ],
+        [
+            -14.29965421870722,
+            -170.8119647011608,
+            "T7FrsANUbnLCgju154AicA"
+        ],
+        [
+            18.25753257223709,
+            -66.14539827374459,
+            "CAoSK0FGMVFpcE1nN2lTN1pNX3NqMVA1dFh1TzBJSkJCNFJZWkoyREhCenowYW8."
         ],
         [
             31.76296895852277,
@@ -1785,9 +3340,114 @@
             "oSyrD9lfuC1I-BGGTaC50g"
         ],
         [
-            36.0167414692438,
-            -80.31218790827324,
-            "2eXrmEXWkVYQjMguzHaRfQ"
+            47.30857148916682,
+            -123.9087414461127,
+            "lbYqD1nWMx2X6h9UAuy-5w"
+        ],
+        [
+            17.73092340870062,
+            -64.82158914205203,
+            "Fckw-9G9hK5USzGnzZsP6Q"
+        ],
+        [
+            -14.27191276965959,
+            -170.622985409074,
+            "k5vpmmDPh82L1Ties4NlGg"
+        ],
+        [
+            31.27904843194187,
+            -99.59987812843022,
+            "hx6t5SBkZXc8TUxdSwal0Q"
+        ],
+        [
+            30.02400797644635,
+            -94.08556173455823,
+            "IzmJkuwoH8hfGX7XOzmXxA"
+        ],
+        [
+            13.47226382255368,
+            144.7034744949224,
+            "vDEtYjpGMlUAAAQfCMxDcg"
+        ],
+        [
+            18.25326747859297,
+            -65.6417345439443,
+            "CAoSLEFGMVFpcFB2dGlwUkxENWFZcGtHVDZUQkNqMkhtUXlwc0tINGNLZUQ4R0F1"
+        ],
+        [
+            43.27186383316126,
+            -75.93870969017154,
+            "-EOgrxLQuLHmJRDrCbbi0w"
+        ],
+        [
+            47.06636833991772,
+            -98.92148845578518,
+            "CAoSLEFGMVFpcFBqYldPUVBiWEwwLXhjNzVJN2ZhUGVaZnoxNkNMVUZUOExWUEcy"
+        ],
+        [
+            33.60367046775442,
+            -112.8191118844026,
+            "qtYWOp8bvA7YGfbW6M0jiQ"
+        ],
+        [
+            13.54247819204361,
+            144.8155461906684,
+            "OhwUcMeNaBKdRPw2Cy0Ynw"
+        ],
+        [
+            17.78935876916253,
+            -64.61257834990077,
+            "-sHZbFYi3UzoNhkgZOB05g"
+        ],
+        [
+            13.33928353471974,
+            144.6479882936582,
+            "CAoSLEFGMVFpcFBWVVRDdEh0QmtoZjVSNERrLWowbXF4ZDRXRXp0djVYSTUtUVg5"
+        ],
+        [
+            38.03738396779006,
+            -105.2953266364526,
+            "CAoSLEFGMVFpcE0yTV9xRUtEbVJ5OUhVbEN4Z1VuUV92OUY0cGlYMjc1REY1c25M"
+        ],
+        [
+            18.17724408753044,
+            -66.45028957397113,
+            "CAoSLEFGMVFpcE1TWVo3bEdSeW5fTXBZMENIN3NxdkRCNWRIVlNydUhxZGZYbHlB"
+        ],
+        [
+            18.41277533214879,
+            -65.7713885038769,
+            "CAoSK0FGMVFpcE82Z1hQZWRQQlFCclhIMGVoWGFEN3c0WldPdGI1eGtqMnA5Z00."
+        ],
+        [
+            13.6286451976139,
+            144.8397649148436,
+            "CAoSLEFGMVFpcE01X0ZRdkVQS3hiR2YwV3kyb1ptc3BDVnlpOWlNNjZMNHlYcGNP"
+        ],
+        [
+            -14.2593937169385,
+            -169.5004120012298,
+            "CAoSLEFGMVFpcE9RTDFLYlg1cWw2WkNQQlRHSDY2aDgtamRGc2UzcEp5Z1Vja3hk"
+        ],
+        [
+            30.18877352164566,
+            -97.09845020141701,
+            "NWB1s1By-Fx8a-T7P6uFWQ"
+        ],
+        [
+            30.15355429597832,
+            -93.65543973783163,
+            "_luS0BP40TZ-gGeHawGFlg"
+        ],
+        [
+            17.76025118359239,
+            -64.57430440462815,
+            "CAoSLEFGMVFpcFBGODZRUl80Y3ZzRmw2VnhwUDJiNkZjR0VEekVIeGlKMUZqdWxF"
+        ],
+        [
+            18.25197011719828,
+            -65.96530612441413,
+            "CAoSK0FGMVFpcE5vZjRKeVNhWXI5eGU4VlhQUXA3VVI5TWlMQkNpTWM5M3JTNUk."
         ],
         [
             46.05179980274384,
@@ -1795,14 +3455,124 @@
             "CAoSLEFGMVFpcFBaUTFOQ0RKOFJ5Z2Z1VFQ5WkRfR1Z0NE9rRXdjenJ2YXVaLVE1"
         ],
         [
+            18.41344897247177,
+            -66.31728551862504,
+            "WEC1JIIJg4ZKZzhhzmYXVQ"
+        ],
+        [
+            48.37054125737725,
+            -110.301930751046,
+            "qQ8yCw2dnyIqpq_fMwXMeQ"
+        ],
+        [
+            34.76781459537427,
+            -86.47428127826454,
+            "jsTjdpVRtjWjXMaKaZ6UOA"
+        ],
+        [
+            18.35604133497436,
+            -66.42647102038751,
+            "CAoSK0FGMVFpcFBwQThMTHlJQ2NZNUhPNGZtdm1pWHNBS3BDRVBpUnFPRHN6b1E."
+        ],
+        [
+            -14.32965259470732,
+            -170.7022209834769,
+            "CAoSLEFGMVFpcE5GOHNCNlFjcGpZSmJpTk85d1FIekNSQzhOVFBFdHJvRWlGRXVF"
+        ],
+        [
+            41.78913428961985,
+            -91.63792759804947,
+            "VaYOeQNpKAdPvgj-Y2NyZg"
+        ],
+        [
+            13.4990560682203,
+            144.8914741790382,
+            "CAoSLEFGMVFpcFA4YS1JaHJCenR4Mlk5eGZuNVFHT0Q5Tmpsclg4aWRtbFJfQkdx"
+        ],
+        [
+            18.17254638215493,
+            -65.83345788517065,
+            "CAoSLEFGMVFpcE1oUE8xZjFLaHFoUlV5VHZkN2E0S3huRHlXUjZDTHE1a1E4Z09V"
+        ],
+        [
+            36.0167414692438,
+            -80.31218790827324,
+            "2eXrmEXWkVYQjMguzHaRfQ"
+        ],
+        [
+            -14.32432665148231,
+            -170.8344153123903,
+            "WOGidn1yZu8pgVQxGR8xsQ"
+        ],
+        [
+            31.51847175370344,
+            -109.7493830165957,
+            "dT7_R0qPBDp75oaeOPZXCg"
+        ],
+        [
+            -14.18470725766388,
+            -169.6181631963681,
+            "75JSB1Q8omGXUBYvd3Jf8Q"
+        ],
+        [
+            18.41278958856197,
+            -65.7714196141348,
+            "CAoSK0FGMVFpcE5RWHRDTWZHdTYzbDZnUFVyNERkWFp3djEwTG1tZnFROXRfaTQ."
+        ],
+        [
+            13.3432364174998,
+            144.772235388498,
+            "CAoSLEFGMVFpcE1qOHBJbTBpYl9jNFM4ckllcExBTnNGNkxWdU1oWmd6dGMzX1Vv"
+        ],
+        [
             17.81126167643377,
             -64.62160814332339,
             "CAoSLEFGMVFpcE0xbGFna3lxdEFYeWVXd1dYS3BtY0NYQVhDWDNralBiTVIzTkho"
         ],
         [
+            41.91120204909409,
+            -101.4958663185171,
+            "twMfMnxi50bFfLd5iBueww"
+        ],
+        [
+            31.62044823410671,
+            -89.08610916793825,
+            "LQqTLuO7F5AlDYR5ltddcw"
+        ],
+        [
+            44.15963598851449,
+            -71.89384026272448,
+            "ggqJdVuv_QQSrCrDYlPvHg"
+        ],
+        [
             13.41694636105438,
             144.6672417588092,
             "CAoSLEFGMVFpcE10NjBIMkFaS25wX1NOUHpQUXI1LTN1VUs4VEJwNTM5UFhEQTJh"
+        ],
+        [
+            18.30684925129783,
+            -66.4774738844782,
+            "6Y9afzZ4Y_OvRPdJHsCemw"
+        ],
+        [
+            -14.21258567868317,
+            -169.4536086156189,
+            "MuFGwHn0k8kNutn4U0F7BQ"
+        ],
+        [
+            18.3597009627248,
+            -65.02590752608005,
+            "iomhGE92Sf_m1MZBO0Ye-Q"
+        ],
+        [
+            13.43187119515698,
+            144.6943003395853,
+            "CAoSLEFGMVFpcFBpaXRfeG1iT3BjWnBOOVN2bllZcmlveWpHZm1KZ2ZRUHJEajYw"
+        ],
+        [
+            -14.24767918061776,
+            -170.576774982956,
+            "bfPgk-0leBnHANKf9TvD2Q"
         ],
         [
             13.24721060991427,
@@ -1813,94 +3583,29 @@
             17.69715251034262,
             -64.79641846275246,
             "zxZVhtrM8DViDBVs4Gtxhg"
-        ],
-        [
-            -14.28856356508782,
-            -170.5571873489969,
-            "Vtl49c2TdCGAgwpKO51h_w"
-        ],
-        [
-            18.41278958856197,
-            -65.7714196141348,
-            "CAoSK0FGMVFpcE5RWHRDTWZHdTYzbDZnUFVyNERkWFp3djEwTG1tZnFROXRfaTQ."
-        ],
-        [
-            47.30857148916682,
-            -123.9087414461127,
-            "lbYqD1nWMx2X6h9UAuy-5w"
-        ],
-        [
-            38.03738396779006,
-            -105.2953266364526,
-            "CAoSLEFGMVFpcE0yTV9xRUtEbVJ5OUhVbEN4Z1VuUV92OUY0cGlYMjc1REY1c25M"
-        ],
-        [
-            -14.29965421870722,
-            -170.8119647011608,
-            "T7FrsANUbnLCgju154AicA"
-        ],
-        [
-            -14.21258567868317,
-            -169.4536086156189,
-            "MuFGwHn0k8kNutn4U0F7BQ"
-        ],
-        [
-            45.03068200447871,
-            -114.044888450481,
-            "CAoSLEFGMVFpcE1GZ2VsOVVCNnZhbnEzdnhwWExGU091X0d4TWRoREFXZ01jWDFZ"
-        ],
-        [
-            -14.27437380405297,
-            -170.6242458281728,
-            "DCtghtJVj5XlMqZg1dxpjQ"
-        ],
-        [
-            18.25197011719828,
-            -65.96530612441413,
-            "CAoSK0FGMVFpcE5vZjRKeVNhWXI5eGU4VlhQUXA3VVI5TWlMQkNpTWM5M3JTNUk."
-        ],
-        [
-            17.73092340870062,
-            -64.82158914205203,
-            "Fckw-9G9hK5USzGnzZsP6Q"
-        ],
-        [
-            -14.18470725766388,
-            -169.6181631963681,
-            "75JSB1Q8omGXUBYvd3Jf8Q"
-        ],
-        [
-            31.27904843194187,
-            -99.59987812843022,
-            "hx6t5SBkZXc8TUxdSwal0Q"
-        ],
-        [
-            13.43187119515698,
-            144.6943003395853,
-            "CAoSLEFGMVFpcFBpaXRfeG1iT3BjWnBOOVN2bllZcmlveWpHZm1KZ2ZRUHJEajYw"
-        ],
-        [
-            30.18877352164566,
-            -97.09845020141701,
-            "NWB1s1By-Fx8a-T7P6uFWQ"
-        ],
-        [
-            13.6286451976139,
-            144.8397649148436,
-            "CAoSLEFGMVFpcE01X0ZRdkVQS3hiR2YwV3kyb1ptc3BDVnlpOWlNNjZMNHlYcGNP"
-        ],
-        [
-            13.33928353471974,
-            144.6479882936582,
-            "CAoSLEFGMVFpcFBWVVRDdEh0QmtoZjVSNERrLWowbXF4ZDRXRXp0djVYSTUtUVg5"
-        ],
-        [
-            18.41277533214879,
-            -65.7713885038769,
-            "CAoSK0FGMVFpcE82Z1hQZWRQQlFCclhIMGVoWGFEN3c0WldPdGI1eGtqMnA5Z00."
         ]
     ],
     "Canada": [
+        [
+            48.67825223155778,
+            -55.53100760361116,
+            "hpr02Vm9yCFQ6Ua0g_-nuQ"
+        ],
+        [
+            54.73555701212256,
+            -110.7103028375892,
+            "xO1g307ddtXWFAlNk-N9pg"
+        ],
+        [
+            66.40010827269938,
+            -65.45974739986642,
+            "CAoSLEFGMVFpcE4xR2pSUEUycXhUd0Z4ODJzWEFVYk1DS2IwaUVNY3FHUnJVZXFF"
+        ],
+        [
+            51.57676102228788,
+            -57.45282122749151,
+            "CAoSLEFGMVFpcE9KOXdkMTFMOHphSkQ3cmFtQnJWeE1qNERhVFFKcERkMl9QLVB6"
+        ],
         [
             49.31294820463399,
             -119.0400780496253,
@@ -1910,11 +3615,6 @@
             50.28053777746761,
             -95.2346651867935,
             "CAoSLEFGMVFpcE03VjBiY2dlSVdId0JIRUVSRDFEQXgxQlRtcnB6S2lRVnEyaHJI"
-        ],
-        [
-            54.73555701212256,
-            -110.7103028375892,
-            "xO1g307ddtXWFAlNk-N9pg"
         ]
     ],
     "Bermuda": [
@@ -1924,14 +3624,29 @@
             "CAoSLEFGMVFpcE5Jb2FzV2dXdEM4SnZ0dGJPMzZ6THRjWHhpWnlydFZRR1p3OXJa"
         ],
         [
+            32.3300530000802,
+            -64.8329327095826,
+            "VO2_jrqBZ7z8RJkt_5dToA"
+        ],
+        [
             32.31013641556005,
             -64.76287657192076,
             "CAoSLEFGMVFpcE9BRXBiYjhkbEdHZkdEc2RXZkUxZkRsWnNwUGUtZ2hOaGNxVzdG"
         ],
         [
-            32.32891972771065,
-            -64.83584955412636,
-            "DdG7RXNGdM82J9qhHXPAqQ"
+            32.2861563584791,
+            -64.76287829044608,
+            "CAoSLEFGMVFpcE5sSnMxNTAwZXEycFFyZ0VHejZjUWZQNmVoSlhRZ0JRQW4xaVc2"
+        ],
+        [
+            32.34420492926564,
+            -64.73608672276893,
+            "bHEnTaqB0wSvB8G9EzWhVA"
+        ],
+        [
+            32.3300366592196,
+            -64.83297497874128,
+            "CAoSLEFGMVFpcE9UWjFpWUVnQ2tLZXhfUTk1VDZ2VDZkVzVaQW5Kdmc0Xzg4RzRG"
         ],
         [
             32.30921388839594,
@@ -1939,16 +3654,41 @@
             "CAoSLEFGMVFpcFBhb1dRMTE5Qi0tNHdrMTA4bFJGcjJBRGhNS1h4Nm85N29Ud3d6"
         ],
         [
-            32.3300366592196,
-            -64.83297497874128,
-            "CAoSLEFGMVFpcE9UWjFpWUVnQ2tLZXhfUTk1VDZ2VDZkVzVaQW5Kdmc0Xzg4RzRG"
+            32.32891972771065,
+            -64.83584955412636,
+            "DdG7RXNGdM82J9qhHXPAqQ"
+        ],
+        [
+            32.32518645982007,
+            -64.8096946824101,
+            "CAoSLEFGMVFpcE5COU5FbHpIR1ZjWlZOWHVjZlZJVDNLdHdWck0zeEczVWVnTUNE"
+        ],
+        [
+            32.32980253711875,
+            -64.71149374272841,
+            "CAoSLEFGMVFpcE9pTmV6a25EQnVoUjROVUlJWkVtVnhvRmh2VklEOWtUNkJnejht"
         ]
     ],
     "Guatemala": [
         [
+            15.80229656891479,
+            -90.983352666634,
+            "CAoSLEFGMVFpcE1mWE93b3NqVElzV3JuLVJveWYwN3NOWlljcmMyS3FVdkt1RXY0"
+        ],
+        [
             14.94359087939822,
             -91.76192666798546,
             "CAoSLEFGMVFpcFByUmxXUEVrczhlX3ZJNGV3Nk5MLVZ6YU56ZVMxVW4wa0F2N3lK"
+        ],
+        [
+            14.49404100535001,
+            -91.12866224880666,
+            "PqF21ngguc_DsftUYf0VWg"
+        ],
+        [
+            14.78967737236749,
+            -89.77638787774833,
+            "CAoSLEFGMVFpcFB1YjRjeHJRcTlkOFdZVC1yeXJoZUczRWpWODBjaklaUjhsUGND"
         ],
         [
             15.57237362453387,
@@ -1959,13 +3699,33 @@
             14.05036087512115,
             -90.2132611261083,
             "CAoSLEFGMVFpcE9JT1ZUVHRDNFplTVYxNHk0ZXJCYmd6OU5Ndk5zTXdZOUNRV19M"
+        ],
+        [
+            15.75809926826253,
+            -88.64514109354195,
+            "CAoSLEFGMVFpcE90b1FwQ3NVUDBkRE5qNW9zYzAyWXlING52dHhGcFVnSUZ5WFNl"
         ]
     ],
     "Dominican Republic": [
         [
+            18.7687528190856,
+            -70.16542474471736,
+            "CAoSLEFGMVFpcE9aeEpySGFwNkNkdXBTZnU1N2dQU3F1ZWZCRkFqQVhyTGdlZUpB"
+        ],
+        [
             18.52020871456948,
             -71.57777877427588,
             "CAoSLEFGMVFpcE1GXzJuS0tQX2VJT0xJamZPalZycXpMSXh3U3hoU3ZPZGNyR0s3"
+        ],
+        [
+            19.06048907763654,
+            -69.38876870838172,
+            "CAoSLEFGMVFpcE5wT0ZKSTFOeUZHZWlzVWxXRkRFVWplRFVNZllVNWxDcHBVazhD"
+        ],
+        [
+            19.29466796783553,
+            -69.15126108115257,
+            "CAoSLEFGMVFpcE1LQnM3ZE93Y0VmMmNzQXNKNTM3ekJLUW9VSlUyV1FWbHhqNlRS"
         ],
         [
             18.64853982745725,
@@ -1973,31 +3733,41 @@
             "CAoSLEFGMVFpcE9aQ2Z2NDlpMHdpY2kwZXFTdXMxOTNvaHhoZk9GT3hPVFJQa29M"
         ],
         [
-            19.69333332674795,
-            -70.97694440996405,
-            "CAoSLEFGMVFpcE9WSzNiaWg1R3FuOVc1TklFc1dYenpGLWF4OHFpeWMwNklIQ2pw"
-        ],
-        [
             19.46055601465223,
             -71.40213779353977,
             "CAoSLEFGMVFpcE5DOFd2OXBldUREQ3hmZDh5c25tVG5tYXduZElVWDhORGxsdS1B"
         ],
         [
-            19.06048907763654,
-            -69.38876870838172,
-            "CAoSLEFGMVFpcE5wT0ZKSTFOeUZHZWlzVWxXRkRFVWplRFVNZllVNWxDcHBVazhD"
+            19.34455002792712,
+            -71.26261800101298,
+            "CAoSLEFGMVFpcFBBUTU3NUs1clhjRWVadmVRVnp3d3hTaHE5VFc2X0JxZ0dQQWRf"
+        ],
+        [
+            19.69333332674795,
+            -70.97694440996405,
+            "CAoSLEFGMVFpcE9WSzNiaWg1R3FuOVc1TklFc1dYenpGLWF4OHFpeWMwNklIQ2pw"
+        ],
+        [
+            18.64592622749426,
+            -70.54010244415926,
+            "CAoSLEFGMVFpcE55emc0UkhwUmk2Z2RucDlwTktLWlUtMWF2MXBPU2N1WWJ5OVpY"
+        ],
+        [
+            19.70608076018494,
+            -71.74676835887031,
+            "CAoSLEFGMVFpcE84eEpfV29udFdiQ2pXajRtVTIxOFVaS01YbEJuZ1JadTVnTElY"
         ]
     ],
     "Panama": [
         [
-            8.80275279496599,
-            -82.5762804317022,
-            "CAoSLEFGMVFpcE9GN0RaeGNOQ3FKSXNkWXlrRGhGTTI1djBwVzd4OXU2UERxcWg1"
+            8.681949206068875,
+            -78.14124454128635,
+            "MkuyTPXhelbj5uataf01Vg"
         ],
         [
-            7.423262509452702,
-            -81.75492187837956,
-            "CAoSLEFGMVFpcE5JRzhIdjVDMEFsSy1kRHNVZTZlbWczTHVkRmdRTGE4c3JfSjA2"
+            8.558729052251504,
+            -80.3127445672855,
+            "Lxf-MDD7INyPokvnMkrfoQ"
         ],
         [
             9.610107936866237,
@@ -2005,9 +3775,34 @@
             "CAoSLEFGMVFpcE83Z08xYUt6aDhNWF95M1JVZExPTUxwUnNDNUF0N091b2o4bmxi"
         ],
         [
-            8.558729052251504,
-            -80.3127445672855,
-            "Lxf-MDD7INyPokvnMkrfoQ"
+            9.33150075416616,
+            -82.25045941808732,
+            "CAoSLEFGMVFpcE5fc3UzMlBkclIwbWxsNWJRUEJmekg3Wk1DMk0yUlYwZW5KMXZE"
+        ],
+        [
+            7.423262509452702,
+            -81.75492187837956,
+            "CAoSLEFGMVFpcE5JRzhIdjVDMEFsSy1kRHNVZTZlbWczTHVkRmdRTGE4c3JfSjA2"
+        ],
+        [
+            8.80275279496599,
+            -82.5762804317022,
+            "CAoSLEFGMVFpcE9GN0RaeGNOQ3FKSXNkWXlrRGhGTTI1djBwVzd4OXU2UERxcWg1"
+        ],
+        [
+            8.980673525394952,
+            -79.5936646936846,
+            "CAoSLEFGMVFpcFB5bVpxVGdaWnEtSHJHYzNMb08wV0E1QmduLWYtXzRqeTBfNnB5"
+        ],
+        [
+            9.207069664692805,
+            -82.82097399477325,
+            "CAoSLEFGMVFpcE5NTkF4VWhkN05aSEhqd2hLZkVRREd2eUZIaGNHQmtnWm1yR3Jv"
+        ],
+        [
+            8.330532099731625,
+            -81.98519897614337,
+            "CAoSLEFGMVFpcFBvSWRLYnhQbkNiejUxZnZSQWtUOWg3eTYxTmJSZFdFZFhOM2Fx"
         ],
         [
             8.871227738937534,
@@ -2017,19 +3812,19 @@
     ],
     "Argentina": [
         [
-            -30.41857318215165,
-            -57.85701869842704,
-            "CAoSLEFGMVFpcE9oRkF1aTdxajc0dGdwaXFKLVN5eEhPVm94MTQ4dzd0NWJoUWJ4"
+            -32.4054559568882,
+            -66.21402100091761,
+            "zsj8uOxTyh65w13HFOv-gA"
         ],
         [
-            -32.75703990554759,
-            -69.96941558348853,
-            "CAoSLEFGMVFpcE9IODJ1eXp6RlFaSXU1MjhZdkRHN2VZTEszbzdlLUZScEllSzFx"
+            -36.79115890195144,
+            -67.39793975225977,
+            "DwFursEP82llNAc0uaY5tw"
         ],
         [
-            -28.02476993297613,
-            -65.24170641691387,
-            "i_U7DjWofr6eJB_L70OZAA"
+            -42.74177698404076,
+            -65.63590153830428,
+            "ZGWusBwnHoPstcoFMWqeSA"
         ],
         [
             -41.3522435248999,
@@ -2037,19 +3832,24 @@
             "CAoSLEFGMVFpcE5YWUpyZ0tkcEZubUFwYUVjS3pLVmxtNHY4M0R5YlNDYktMM0Vq"
         ],
         [
-            -34.99497062676378,
-            -67.95359099499458,
-            "CAoSLEFGMVFpcE1PVU5XcmpWeG1fOTM0LVhGZWJtMTJUMWVsRTZfZDZtNXpKSzl6"
+            -47.67081755275208,
+            -67.99557932318771,
+            "YSt9awfTsXmw3PuTZhjfYQ"
         ],
         [
-            -42.85752582600084,
-            -71.59261728354407,
-            "CAoSLEFGMVFpcE00Sm9aMWxKcjRKM2JDQ2dtUTllRVpzWTlVV1lBbGVYQm50ek83"
+            -32.75703990554759,
+            -69.96941558348853,
+            "CAoSLEFGMVFpcE9IODJ1eXp6RlFaSXU1MjhZdkRHN2VZTEszbzdlLUZScEllSzFx"
         ],
         [
-            -27.58795573606483,
-            -61.92279224863556,
-            "P_omt1aDds-u5tAyCvvJUg"
+            -43.10377227433101,
+            -70.8937892524946,
+            "67nTQs-98kK30o-UuSepew"
+        ],
+        [
+            -46.66098828180643,
+            -70.90221653659472,
+            "_6xRSdR7CVDAkOPo_2uM2g"
         ],
         [
             -50.26321230673867,
@@ -2057,43 +3857,98 @@
             "_Nrb7uCciQvrfF_25i39Dg"
         ],
         [
-            -43.10377227433101,
-            -70.8937892524946,
-            "67nTQs-98kK30o-UuSepew"
+            -37.32030040799917,
+            -70.7255293870444,
+            "kXpZj_ed8T8CVxqlMTtyAA"
+        ],
+        [
+            -27.58795573606483,
+            -61.92279224863556,
+            "P_omt1aDds-u5tAyCvvJUg"
+        ],
+        [
+            -30.41857318215165,
+            -57.85701869842704,
+            "CAoSLEFGMVFpcE9oRkF1aTdxajc0dGdwaXFKLVN5eEhPVm94MTQ4dzd0NWJoUWJ4"
+        ],
+        [
+            -34.99497062676378,
+            -67.95359099499458,
+            "CAoSLEFGMVFpcE1PVU5XcmpWeG1fOTM0LVhGZWJtMTJUMWVsRTZfZDZtNXpKSzl6"
+        ],
+        [
+            -28.02476993297613,
+            -65.24170641691387,
+            "i_U7DjWofr6eJB_L70OZAA"
+        ],
+        [
+            -35.92326813761011,
+            -68.61692646352805,
+            "6WRtnIfRPgDSLseEI50MZg"
+        ],
+        [
+            -33.15728040683106,
+            -64.37675351091603,
+            "Mk0vlvsAMjNBibkiVxhYFQ"
+        ],
+        [
+            -39.71568702049325,
+            -69.52687243223681,
+            "h8CUiZZGmU18-ucVXOTwgA"
+        ],
+        [
+            -42.85752582600084,
+            -71.59261728354407,
+            "CAoSLEFGMVFpcE00Sm9aMWxKcjRKM2JDQ2dtUTllRVpzWTlVV1lBbGVYQm50ek83"
         ]
     ],
     "Chile": [
+        [
+            -22.16996483242572,
+            -69.583603432211,
+            "vgPGqYDej6OURngKsyhUvQ"
+        ],
+        [
+            -18.07399182396411,
+            -69.1037452037618,
+            "CAoSKkFGMVFpcE95bTRIZVJJU3JsWjMwZ0taSmJvdWhNM1p3YkR1ODgzMVJDZw.."
+        ],
+        [
+            -33.24012799160757,
+            -70.92426849699133,
+            "YamzaeqdEBPQcnzc_OQjAA"
+        ],
+        [
+            -40.84625550371389,
+            -73.11348601620996,
+            "CAoSLEFGMVFpcE1qWENxOThyd1RGM3Z2WE1wREZQbTdNVEhWNEx5S0p0blh2SU9X"
+        ],
         [
             -33.39371772830044,
             -70.74589745300027,
             "lE1mgB2qpzmneIfZYX4aZQ"
         ],
         [
+            -22.28219469358277,
+            -68.3400636024032,
+            "twW38m-Lh0WG9erRVpEWsw"
+        ],
+        [
             -24.33892592547019,
             -68.54946771289391,
             "CAoSLEFGMVFpcFBUZkJNeXVqa2VQUlVBN1hiWm9fRWowRElqeGhJc2swRmVqMlJa"
-        ],
-        [
-            -22.16996483242572,
-            -69.583603432211,
-            "vgPGqYDej6OURngKsyhUvQ"
         ]
     ],
     "Peru": [
         [
-            -10.05709973681913,
-            -78.14118216373932,
-            "CAoSLEFGMVFpcE5IRXR1M3YtZTFwdUNnbVhleWptZmk0UEx5aXdSZnlfblJEczZa"
-        ],
-        [
-            -11.40340744889448,
-            -69.430527515684,
-            "UuCyV4nnucePk8gT0jM0og"
-        ],
-        [
             -12.28141502598262,
             -75.04267880610983,
             "CAoSLEFGMVFpcFBTcXBCbm53QmlHUElXa1k2a0tZWnFwcnVqUy1qY1VnUE1ra1Jn"
+        ],
+        [
+            -14.17457876393704,
+            -75.58595187582041,
+            "jb1n4yFpzIqBJPxRx3o7iA"
         ],
         [
             -4.684983789547674,
@@ -2101,26 +3956,71 @@
             "CAoSLEFGMVFpcE9ZQlZtZzlNSEpveXdRVUdOY2JtaHJUME9BTzhQWTA4LXBZbXVN"
         ],
         [
+            -7.833534013159035,
+            -78.0824347814095,
+            "6fzLDFPFHDFsgB141ySoKw"
+        ],
+        [
+            -14.6298937215226,
+            -69.45005611961619,
+            "CAoSLEFGMVFpcE5qN3FQRFBVSURWWE5lY2FHM0FqRXpIMDNGdkxJMlliMmkza01E"
+        ],
+        [
+            -13.45331933531938,
+            -72.49865833518115,
+            "CAoSLEFGMVFpcE5GcXZwQzV4T3Zra1NvOGpnYjIydGt0WnBxMl93ZHVEVzl3dWts"
+        ],
+        [
+            -10.05709973681913,
+            -78.14118216373932,
+            "CAoSLEFGMVFpcE5IRXR1M3YtZTFwdUNnbVhleWptZmk0UEx5aXdSZnlfblJEczZa"
+        ],
+        [
             -18.2705836966905,
             -70.31896132307457,
             "LI4HkAEro39xRFBqN0T_PQ"
+        ],
+        [
+            -11.40340744889448,
+            -69.430527515684,
+            "UuCyV4nnucePk8gT0jM0og"
         ]
     ],
     "Ecuador": [
+        [
+            -1.578886788202399,
+            -78.76213690506079,
+            "CAoSLEFGMVFpcE1BYWdrS0RGbW9rbVotOW54SG9rUVQzdy11YjlTU0c0RmM1cE1T"
+        ],
+        [
+            -1.091085404212477,
+            -77.55322586346838,
+            "_lsVqv8cw4OA7-a0VroxfQ"
+        ],
+        [
+            -2.114263914414919,
+            -79.67791903527491,
+            "a2VdTBjzSwq9XAjFKNk51g"
+        ],
+        [
+            -2.25871678911594,
+            -78.86392917076896,
+            "x-K0-RSHheVGs8PKf5oFEw"
+        ],
+        [
+            0.3350352585929292,
+            -80.03321758999216,
+            "D1P3QIopYfLyrShR2ctR1A"
+        ],
         [
             -1.278740943530628,
             -79.84062602306389,
             "R_3YAbY-u_kK0pkslDMACg"
         ],
         [
-            0.005423965457511649,
-            -79.88378278777077,
-            "fYeIbrVgmvR7v4kytC2Jng"
-        ],
-        [
-            0.04317341575604841,
-            -79.36033651022366,
-            "diYnDUqgMVDfn9urz8pN8Q"
+            -2.795125006426546,
+            -79.21872999256051,
+            "CAoSLEFGMVFpcE95M1pERVppc2F4T3JIZ1hSVmpILVNIWnRaRThNZDNQYWxtNm9s"
         ],
         [
             -0.4384188710259411,
@@ -2133,17 +4033,32 @@
             "CAoSLEFGMVFpcE9ZaUNQUXNOd1I3VnVMeVRzMFM3SnAyc25ObERELXBvalFPZ2dK"
         ],
         [
-            -1.091085404212477,
-            -77.55322586346838,
-            "_lsVqv8cw4OA7-a0VroxfQ"
+            -0.4982472754031707,
+            -76.07128196233906,
+            "CAoSLEFGMVFpcE9JOGZBS09uV29HM1FBVjRHeWoyQndsZlVzei04UERvYWdOU3Jh"
         ],
         [
-            -1.578886788202399,
-            -78.76213690506079,
-            "CAoSLEFGMVFpcE1BYWdrS0RGbW9rbVotOW54SG9rUVQzdy11YjlTU0c0RmM1cE1T"
+            -2.118549872048004,
+            -78.83332149394072,
+            "CAoSLEFGMVFpcE5hdVdLd0ZvMHdqbUpCdGlQMW5xZnZTMjhJY2ZlZk9BakQyTFBR"
+        ],
+        [
+            0.04317341575604841,
+            -79.36033651022366,
+            "diYnDUqgMVDfn9urz8pN8Q"
+        ],
+        [
+            0.005423965457511649,
+            -79.88378278777077,
+            "fYeIbrVgmvR7v4kytC2Jng"
         ]
     ],
     "Bolivia": [
+        [
+            -17.70840352642502,
+            -61.24444978049333,
+            "2XjPeSUqIVuvyB7qdB2N7w"
+        ],
         [
             -21.1446859671938,
             -64.95575989389856,
@@ -2163,13 +4078,18 @@
             -21.20718214572026,
             -65.21029362694884,
             "CAoSLEFGMVFpcFB4RElEal9zcnd6S0diZWpRcHotRU5sTmJOeWpPbGg4ZHpJMVNy"
+        ],
+        [
+            -16.47510066735176,
+            -67.45626603740541,
+            "CAoSLEFGMVFpcFAwVzdYQmRQSmRjS2hiSDNvUzVWWGl3T0J5aUpxRHVjakxoV212"
         ]
     ],
     "Uruguay": [
         [
-            -32.38511412827083,
-            -55.94626013092404,
-            "A95FMl9pTbOTecsXv5R5Qw"
+            -32.05463056210372,
+            -54.90166240286989,
+            "ELZAOFbCZKgevEvoLJIQHg"
         ],
         [
             -33.11474107662922,
@@ -2177,9 +4097,29 @@
             "NLBXEYkxqts_wf_2p2xsvA"
         ],
         [
+            -32.38511412827083,
+            -55.94626013092404,
+            "A95FMl9pTbOTecsXv5R5Qw"
+        ],
+        [
+            -34.93769999210776,
+            -56.15987789764829,
+            "CAoSLEFGMVFpcFBNV0VKOTVKWmdBSVJOQnJVM01fdUhYUXJkVTdoTWpDc25Pc0I3"
+        ],
+        [
+            -34.77279049511685,
+            -54.89194492380479,
+            "uwOLcYLU-IHPA06BlJlx7w"
+        ],
+        [
             -34.26109337817532,
             -57.06853766183165,
             "DGcyfST6baXeNIrcXrielw"
+        ],
+        [
+            -31.32300670806454,
+            -55.25997594086081,
+            "Yfkl4Al_ig1Bb99jKi4upw"
         ],
         [
             -32.8625887543968,
@@ -2189,14 +4129,9 @@
     ],
     "Australia": [
         [
-            -10.43172589142513,
-            105.6741001967849,
-            "SN8EWtwHBb9KOZ6pMuh0KQ"
-        ],
-        [
-            -10.46446073384539,
-            105.615841266933,
-            "n5SVHnHSahgCXj29Tl_l1g"
+            -20.66339054579996,
+            141.6432582114523,
+            "GoxAyCgU4jdI9ESiOzRDPg"
         ],
         [
             -10.44020101712945,
@@ -2204,14 +4139,29 @@
             "JuChPTTAhaxplP-GEvJTXg"
         ],
         [
+            -10.55236973495576,
+            105.638436787836,
+            "Xe1kcZYwQ1S2U6ANqFK-tg"
+        ],
+        [
+            -10.43172589142513,
+            105.6741001967849,
+            "SN8EWtwHBb9KOZ6pMuh0KQ"
+        ],
+        [
             -26.78306422398655,
             153.1355504807289,
             "CAoSLEFGMVFpcE1hMjkzLTF4blBLbjRHc1Z3aWg5T2JaRDA3OG9GTHFscjhScEUw"
         ],
         [
-            -27.90948594185353,
-            149.9833118106401,
-            "Sw0TYS7dWWny6Z-VgWS8-g"
+            -36.16542268769676,
+            146.0547480747818,
+            "uAiXgE0dkuLJk11D9gdMkg"
+        ],
+        [
+            -10.46446073384539,
+            105.615841266933,
+            "n5SVHnHSahgCXj29Tl_l1g"
         ],
         [
             -27.25267007288107,
@@ -2219,14 +4169,9 @@
             "2B1j0w9Dz1vCHpRlOVV2Mg"
         ],
         [
-            -10.49998722719482,
-            105.5488499633443,
-            "PLOjQVq8ZxP-BO2uXPmRnA"
-        ],
-        [
-            -20.66339054579996,
-            141.6432582114523,
-            "GoxAyCgU4jdI9ESiOzRDPg"
+            -27.90948594185353,
+            149.9833118106401,
+            "Sw0TYS7dWWny6Z-VgWS8-g"
         ],
         [
             -32.48206989617267,
@@ -2234,16 +4179,61 @@
             "CAoSLEFGMVFpcE9XVFBjOXlUOHh3RjF0WHNueHc0SFdBWDlRNjl0N3ZBMGlBSVF0"
         ],
         [
+            -10.48776359504068,
+            105.5664142690033,
+            "CAoSLEFGMVFpcE1jeGNjU2o4OG5tRUtyOTBSb2NIdGtQamh0RDVmOWdLR21QRy16"
+        ],
+        [
+            -27.79990338925629,
+            152.8253972257162,
+            "r2Oocf7ZBx2mFmkuIRfYnQ"
+        ],
+        [
+            -10.4751363391602,
+            105.5676207594278,
+            "5HwhNDqccADe0UMHpvLy1Q"
+        ],
+        [
+            -10.49998722719482,
+            105.5488499633443,
+            "PLOjQVq8ZxP-BO2uXPmRnA"
+        ],
+        [
+            -10.51441842423083,
+            105.6222364436207,
+            "TTdS0ZjtTUMVwY7zyVbTTg"
+        ],
+        [
+            -29.59040505741043,
+            115.159550583014,
+            "4tqSWQMKgS8sbw-yp6jDAg"
+        ],
+        [
+            -32.43227987406085,
+            141.5436256081694,
+            "4o57cZG2De59lv22CsXXig"
+        ],
+        [
+            -10.50002050460762,
+            105.5492904840832,
+            "1_Uk5Iv_7CsIAFZrovwlOA"
+        ],
+        [
             -10.47217350764162,
             105.7098776248781,
             "t9rqk-lpiJnt6JNKzy5QIQ"
+        ],
+        [
+            -36.88594971573988,
+            144.4896223882738,
+            "Kc6DyXdUCnZOWQMTl91xRg"
         ]
     ],
     "New Zealand - Aotearoa": [
         [
-            -44.16853793294057,
-            169.8226247994865,
-            "CAoSLEFGMVFpcE5lSnFGb2g4aVNCSW1Fc0ZRQlMzM1cwdG5FS29tOHZyOU8wd1Rv"
+            -44.34133775585091,
+            171.1986907976396,
+            "QUP9Rmb-KbFQbdopfZT5jw"
         ],
         [
             -37.69220491343287,
@@ -2256,14 +4246,39 @@
             "47waw0DcJy5-IK2VHxuUQQ"
         ],
         [
+            -40.30786100951058,
+            176.6658139870823,
+            "B-K5mbsoUsGi1Bwm9KG5OA"
+        ],
+        [
+            -43.70083532128142,
+            172.2791340011084,
+            "w2tXCacx1AcfXxHvjHD5CA"
+        ],
+        [
+            -37.14849801657655,
+            174.6245765934235,
+            "wxbgJS2H9fRBblbqE35ALQ"
+        ],
+        [
+            -44.16853793294057,
+            169.8226247994865,
+            "CAoSLEFGMVFpcE5lSnFGb2g4aVNCSW1Fc0ZRQlMzM1cwdG5FS29tOHZyOU8wd1Rv"
+        ],
+        [
+            -35.10190980025626,
+            173.2958258958544,
+            "S2SMeVUeONm_upperuQNPQ"
+        ],
+        [
+            -44.24166491554423,
+            169.277496276668,
+            "CAoSLEFGMVFpcFAyTFg3LVM2UnpmZE9WNlYtM1ZudTBiTGxEWnc4Wmh2b1RnR1o3"
+        ],
+        [
             -44.61179030359662,
             170.3331162819638,
             "X93XSDroS6ZZNtfFWsytsg"
-        ],
-        [
-            -44.34133775585091,
-            171.1986907976396,
-            "QUP9Rmb-KbFQbdopfZT5jw"
         ]
     ],
     "Vietnam": [
@@ -2278,6 +4293,11 @@
             "CAoSLEFGMVFpcE00T0dNNFhKekVPeURFa2Jna011ZjNvZkI2ZzE0dmViVU1pSTZn"
         ],
         [
+            21.34457668537008,
+            106.8676993073612,
+            "CAoSLEFGMVFpcFBNVjJXOW5lMEkzbUc0X0NZVDIySTYtT204ZWZGQVhDb3BKNFli"
+        ],
+        [
             20.24149322885786,
             105.76418296786,
             "CAoSLEFGMVFpcE9DRzlNNUtFRVFqM3V3eVcyM3Y1S0kwVmZZZFRiZDN6R1JWUWhN"
@@ -2285,9 +4305,34 @@
     ],
     "United Arab Emirates": [
         [
+            24.83087533581296,
+            55.13599945719488,
+            "l-R49zvt_UdwCkPzJdneSg"
+        ],
+        [
+            24.96417060650022,
+            55.14293427711712,
+            "CAoSLEFGMVFpcFAxRm8wTXhJMUNlTnZEVElXVFNoQ2R0OU5Jd1p6SHNvWWpHNU1Y"
+        ],
+        [
+            24.02570379052397,
+            53.63749826885788,
+            "CAoSLEFGMVFpcE1waEFfeHl5Y29DVERPbkR1Q19raEVFUFd4VjlFcXJFOGpLLTNF"
+        ],
+        [
             24.65999044521486,
             54.79425252630103,
             "CAoSLEFGMVFpcFBsaU5RaEYzUktWSmRWd1R5cnVwaUxydVBPekdwRHZUSGNnQ3k3"
+        ],
+        [
+            23.88483837140719,
+            53.83854071176006,
+            "CAoSLEFGMVFpcE9CYlVtYWxQRzZXcGwtZUtIYWVRelhOQm9PbGFmYVkta3FOUnF6"
+        ],
+        [
+            24.10138679850091,
+            52.90441271711706,
+            "CAoSLEFGMVFpcE1SdDQwRVVUUlRNZG5rWk4zWTM5TVk1NjNTOEJYNkx3aThKQWVi"
         ],
         [
             24.9855564247368,
@@ -2295,19 +4340,24 @@
             "CAoSLEFGMVFpcE5YYk1OenVHMUhTV1hTR3VpZXFzanZxcE1UanhHRWRMajBzUXBF"
         ],
         [
-            24.83087533581296,
-            55.13599945719488,
-            "l-R49zvt_UdwCkPzJdneSg"
+            24.29589642357368,
+            55.69936878113418,
+            "CAoSLEFGMVFpcFBKZmJGYTJBSGNtRWdJNk5Vc2h0ZWhEclQtMldqQlo3SGVqSGtU"
+        ],
+        [
+            23.5687083266603,
+            53.75312172886643,
+            "CAoSLEFGMVFpcFBDVktEandGWXc2MWZLXzlBcUJubEFrMFhhemdINnZscVlKUS1J"
+        ],
+        [
+            25.59362733530043,
+            56.22535944871331,
+            "1FtgkaECcRm3YrmhhHqcWQ"
         ],
         [
             24.30535677167617,
             54.67166749111495,
             "CAoSLEFGMVFpcE9LcUdJeXNXeDB4eFgwMzBNUjNCZ2xlbFB1NWJ5VmJNWDRIZUt1"
-        ],
-        [
-            23.88483837140719,
-            53.83854071176006,
-            "CAoSLEFGMVFpcE9CYlVtYWxQRzZXcGwtZUtIYWVRelhOQm9PbGFmYVkta3FOUnF6"
         ]
     ],
     "Libya": [
@@ -2322,9 +4372,29 @@
             -3.240144547073279,
             35.33361211149683,
             "CAoSLEFGMVFpcE9tUG13TXpPdUJkbS0xWFpJUzlxTDU3WjRSc2MtLXVXNkFrZEg1"
+        ],
+        [
+            -3.418290623497989,
+            35.83666442382756,
+            "CAoSLEFGMVFpcE43VDYxZFJDWVc2U2tOcXlqRUJUV1oyREtnY1JmckFRN2pzcDZX"
+        ],
+        [
+            -1.579125004742284,
+            34.77045820937816,
+            "CAoSLEFGMVFpcE9nbjhmSUZRQ0ZpaUdDcmNReE1TTWk2NlRDcXAxNkdvRUkwSTN6"
+        ],
+        [
+            -3.208306168596366,
+            35.66196907077762,
+            "CAoSLEFGMVFpcE1pSWZoYmpaQk02N0N2dWV3OTgyLU91cnNTa0pjR2VGWU5jb1ZC"
         ]
     ],
     "Portugal": [
+        [
+            38.88831813366118,
+            -9.042233311300196,
+            "GYisVWyi4POTrwtOgsCVFw"
+        ],
         [
             40.19656406545423,
             -7.486524591387505,
@@ -2336,33 +4406,58 @@
             "f1MXoPhqMEMal2jE__SdCQ"
         ],
         [
+            39.17871481668405,
+            -9.038613285499757,
+            "CAoSLEFGMVFpcE5HQWZwMmxqX0gwdjl2dFpSUzFJa3FVdUczOEEwTUl2T1E3Nlhw"
+        ],
+        [
             40.66375982816758,
             -8.530098170116656,
             "3zPPX8FsX6qeQsG1H9VFLw"
         ],
         [
-            39.17871481668405,
-            -9.038613285499757,
-            "CAoSLEFGMVFpcE5HQWZwMmxqX0gwdjl2dFpSUzFJa3FVdUczOEEwTUl2T1E3Nlhw"
+            41.54543816547035,
+            -7.802110452596797,
+            "c8JKyMUdfjS3xIKYsNIMRQ"
         ]
     ],
     "Luxembourg": [
+        [
+            49.5658882770805,
+            5.919371172740769,
+            "amrS5BslB5QBZyJWZoLUzA"
+        ],
         [
             49.94201859284631,
             6.176559709032697,
             "LUsbFG_h094HuroPViEiiA"
         ],
         [
+            49.59473587958651,
+            6.059543089900943,
+            "-XDQA_h_Et2QjGaJrjuXig"
+        ],
+        [
             49.56258721639883,
             5.90963811924138,
             "ZZG3EPU1bHHgxXQi-zfDPA"
+        ],
+        [
+            49.75394403227209,
+            6.27145938977511,
+            "FhwxA0xxKumojt4LT-qiqA"
         ]
     ],
     "Finland - Finland": [
         [
-            65.26716625583676,
-            26.57429823859082,
-            "JKHlh00xtzv17_Z7BLzFFA"
+            63.4216171559512,
+            24.59328797572072,
+            "24x7s4fS5RYLf45bqXRyUQ"
+        ],
+        [
+            69.29677136041099,
+            27.19678031277359,
+            "3D8el46i-ZhDdQOSsh0VZw"
         ],
         [
             63.63257045601664,
@@ -2370,9 +4465,29 @@
             "cWdtWI2PE9fTNEjr0xEKUw"
         ],
         [
-            69.29677136041099,
-            27.19678031277359,
-            "3D8el46i-ZhDdQOSsh0VZw"
+            62.1384199818682,
+            24.31722476679721,
+            "IvONaCPdtNRsi85kNmsg3A"
+        ],
+        [
+            61.26946007910807,
+            29.12335298802934,
+            "RXKdvJ23VUL5NptxWe_hCg"
+        ],
+        [
+            65.26716625583676,
+            26.57429823859082,
+            "JKHlh00xtzv17_Z7BLzFFA"
+        ],
+        [
+            65.64640509367011,
+            28.51987800427289,
+            "IwTeB3JeNfzbaNKSTYEe1Q"
+        ],
+        [
+            68.07733295546102,
+            25.38288312443092,
+            "fYYn8wRPRy9cn5pi48RMiA"
         ],
         [
             60.15375541211312,
@@ -2385,16 +4500,36 @@
             "q-Xf4xMO9XopKGoP4sJK6A"
         ],
         [
-            61.26946007910807,
-            29.12335298802934,
-            "RXKdvJ23VUL5NptxWe_hCg"
+            66.5369215509858,
+            29.29038398505963,
+            "CAoSLEFGMVFpcFBqT1BoT3RLOHJGWVNOTjhkNzUzTlhtdkxRMWZxc19CSjhiWXRE"
+        ],
+        [
+            61.24278774377618,
+            22.06604978104421,
+            "CAoSK0FGMVFpcE1pS0R1NnF2c2NfanBMdDJBRkpHMEpta0VUMnZLYkxPOUF5eG8."
+        ],
+        [
+            67.878248411719,
+            24.84079581325461,
+            "WAbVWh9diE64QgZYrxBVtw"
+        ],
+        [
+            61.26261893529306,
+            21.59510215660161,
+            "EwgXdGwqNzQD38sMbrqQFg"
         ]
     ],
     "Latvia": [
         [
-            57.35949340856403,
-            21.96247144847553,
-            "twWXwU07yMTJ2rPyzMp5OQ"
+            56.40000845304348,
+            23.11769007107033,
+            "4dh8Idv-V9HKayUeBRaNoQ"
+        ],
+        [
+            56.61345286183458,
+            25.27022323001129,
+            "krNV2P7XVktJ0_SLU_kubg"
         ],
         [
             56.16675722737578,
@@ -2402,9 +4537,19 @@
             "8la7qiEymoLkeNqYl5e2gA"
         ],
         [
-            56.40000845304348,
-            23.11769007107033,
-            "4dh8Idv-V9HKayUeBRaNoQ"
+            56.23772011365935,
+            25.08295605468986,
+            "9eWZC7mxdbdU3FIU9crQCg"
+        ],
+        [
+            56.45977413876135,
+            21.66682910598842,
+            "U0i3wNTUUXVROMv6rV4rQw"
+        ],
+        [
+            57.35949340856403,
+            21.96247144847553,
+            "twWXwU07yMTJ2rPyzMp5OQ"
         ]
     ],
     "Belarus": [
@@ -2421,19 +4566,24 @@
     ],
     "Czechia": [
         [
-            49.37538476697764,
-            15.01097619987654,
-            "ILbgcSKbYlcXZuYR4E3RdA"
-        ],
-        [
             49.18391381366815,
             15.57660160948068,
             "GziXNGDT1DllKjFqoaXdsg"
         ],
         [
+            49.53673627115045,
+            17.77048773711276,
+            "lvmpULeJ-u3MFkz9feF89Q"
+        ],
+        [
             49.85476048125817,
             18.45551617387292,
             "CAoSLEFGMVFpcE41M1hYeHRVQjRBNzN4c1BXcjdKS2k5Y3JiRGlaU1hiTVItWHo5"
+        ],
+        [
+            49.37538476697764,
+            15.01097619987654,
+            "ILbgcSKbYlcXZuYR4E3RdA"
         ],
         [
             48.87250829106714,
@@ -2448,16 +4598,46 @@
     ],
     "Croatia": [
         [
+            45.41947520321538,
+            14.79816879602483,
+            "CAoSLEFGMVFpcFBqcTdWM2IzQjBOejFqYTBFdXEtOV9Uam9HZWRKRWx2a014RHhV"
+        ],
+        [
             45.24718292068327,
             17.13824780789652,
             "CFuk0U-yMrScWvEiCydevg"
+        ],
+        [
+            44.70195575822076,
+            15.35226527389879,
+            "zdk2VQNPI50Qz6BkEuVdug"
         ]
     ],
     "Slovenia": [
         [
+            46.12401321731252,
+            14.84399282156257,
+            "CAoSLEFGMVFpcE1Hb1RIb1ZMNEdLNm9EVVlNZXg3eG9YQWRZUTFLbWhzVnY1WmVr"
+        ],
+        [
             46.35023883123424,
             14.38725379232209,
             "CAoSLEFGMVFpcFBNMUJGM29LNGlRaFRwQUVmVGx6M3Q4SDVGUHBTdWFyNFJHRGRN"
+        ],
+        [
+            46.04395009952078,
+            14.66673521662879,
+            "e4gSx3h0yJcesrrCSY4dMg"
+        ],
+        [
+            46.53412443244965,
+            14.90940622011233,
+            "OFTlPDtr0iM4EZJL1kyFcw"
+        ],
+        [
+            45.58220673791988,
+            13.71469207203063,
+            "CAoSLEFGMVFpcE9qWkUwRUllZGVMcnREQ3p6WkFRX29oUjlLSmxxcDhsOUNydkp3"
         ],
         [
             45.92716157249698,
@@ -2465,9 +4645,9 @@
             "jjn8FV45c_-iJkTUiRChsw"
         ],
         [
-            46.04395009952078,
-            14.66673521662879,
-            "e4gSx3h0yJcesrrCSY4dMg"
+            45.80769510148068,
+            15.16016594115651,
+            "zNc9q-jMEx2Lw1tJGLs-YA"
         ],
         [
             46.15199320549294,
@@ -2477,14 +4657,14 @@
     ],
     "Romania": [
         [
-            45.99190688267959,
-            22.0811329947506,
-            "pxumDNpvhLFrQ9sDsHSGNQ"
-        ],
-        [
             45.19331468099146,
             26.9847718480794,
             "R4_DfST0NM4iVBf__y86WA"
+        ],
+        [
+            45.99190688267959,
+            22.0811329947506,
+            "pxumDNpvhLFrQ9sDsHSGNQ"
         ],
         [
             44.99551771873251,
@@ -2492,9 +4672,54 @@
             "bB__wbwuEIsWa9I9XpnRmA"
         ],
         [
+            44.05782272752522,
+            27.46417676694806,
+            "8p_nRA7LZ1p1Uls9gH1Z3w"
+        ],
+        [
+            45.48706356277923,
+            25.14893282960948,
+            "HVNnUpFH1On8FgCfIoLSlw"
+        ],
+        [
+            44.87160597460635,
+            22.44363499580101,
+            "CAoSLEFGMVFpcE4yWWktWjgyV2lXX0RxNjlmVzFBNGd0WENUdEhWVF9rQXVYOUxD"
+        ],
+        [
             46.01426948898317,
             21.94747936659686,
             "bmpcLDU5oBSzIZwNC03qsQ"
+        ],
+        [
+            44.76331617291385,
+            28.42535410241265,
+            "wjEKn10jJDFRujONAY1DPw"
+        ],
+        [
+            45.34161187776162,
+            22.00229653243271,
+            "ddimSqtND7xKshb_J391dw"
+        ],
+        [
+            47.12185033890494,
+            22.73500937833006,
+            "YPGHJJ_N3Q8ayoPKkq5N1Q"
+        ],
+        [
+            45.83022550885088,
+            21.55341054655495,
+            "CAoSLEFGMVFpcE95MzlkcDZVYWF6NVh5MmdvU1NTT3ZraWFTZTJnMlpuN05FRW5f"
+        ],
+        [
+            45.02337430348103,
+            28.9638286904704,
+            "ilvGpycoNM_wVg3IWOaPFw"
+        ],
+        [
+            46.77137913636557,
+            24.33674814871561,
+            "APX9TmQoxGWI6VvlAhL4Fw"
         ],
         [
             44.15619273604535,
@@ -2521,16 +4746,6 @@
     ],
     "Brazil": [
         [
-            -21.25231853354206,
-            -49.15827435495496,
-            "jaapJbO44Ls9oO9FaB8OqQ"
-        ],
-        [
-            -7.431457873114505,
-            -46.69776381150555,
-            "j4YH0MXLkgiV6T_A_czgnQ"
-        ],
-        [
             -20.02957251592755,
             -44.90944071873013,
             "bTs62kdlUxp9ub7SSNeZfw"
@@ -2539,6 +4754,46 @@
             -15.23989431687738,
             -58.11440466860222,
             "CAoSLEFGMVFpcFBrVmxJbGZvT1ozVjFqalI1MVFzU3hPbE9GMDc5bVp2bHBZUEdy"
+        ],
+        [
+            -3.585871537170288,
+            -44.97480857341395,
+            "Hwc-Xy8WRdu9Smj7NaSBtA"
+        ],
+        [
+            -11.49620551493476,
+            -41.07334003355306,
+            "CAoSLEFGMVFpcE5UYk0tTkxDSkJ4Q0p1amZ3RTA2ZVJQNUlYZFVvTEYxSDlwdEZl"
+        ],
+        [
+            -28.54889159966171,
+            -51.92030374642807,
+            "sWuuyza91UY4eVZa10otxg"
+        ],
+        [
+            -9.854418582619857,
+            -63.95530851054423,
+            "s-utpG887HzA2oZ8YpkgDw"
+        ],
+        [
+            -7.431457873114505,
+            -46.69776381150555,
+            "j4YH0MXLkgiV6T_A_czgnQ"
+        ],
+        [
+            -30.19028438382259,
+            -57.64354524224573,
+            "CAoSLEFGMVFpcE5tZENtekN5QmhsdXJfNzZCN0VqZVJtOFk2N1F5X20wWHR0ZktS"
+        ],
+        [
+            -21.25231853354206,
+            -49.15827435495496,
+            "jaapJbO44Ls9oO9FaB8OqQ"
+        ],
+        [
+            -27.05084358167809,
+            -51.05255449429038,
+            "CAoSLEFGMVFpcE4xRkFkeUt2em9sYUZwcE1qdVp6THh5M3o5ZVlQM1BvTnNlUUhT"
         ]
     ],
     "Colombia": [
@@ -2548,9 +4803,24 @@
             "3HicZxRg1QAYFgTXxq_TMg"
         ],
         [
+            1.337938580515843,
+            -74.84035640100666,
+            "CAoSLEFGMVFpcE5BQXJmamhpTm1WOHRsS21zR19PVFUzdjBLdkQ4T2s0Wk1HbWpQ"
+        ],
+        [
+            5.71766639145816,
+            -74.66510038368716,
+            "aKN-uOq7CUjPkfkNmWcC5Q"
+        ],
+        [
             1.957823076699606,
             -75.73816051088052,
             "CAoSLEFGMVFpcFBJZ1lVN2RRbTNIN2xNZkhzWmxVcGhKSUo0QWdNbkx5MUU3NUJS"
+        ],
+        [
+            6.600058284446473,
+            -73.18911732976552,
+            "CAoSLEFGMVFpcE9HTC15T0RvamE1ZkRCUEJDdjc0cVliSkkzMWs5SFRIUjEya0JB"
         ],
         [
             7.866032136064359,
@@ -2558,16 +4828,26 @@
             "CAoSLEFGMVFpcFB3ZXl0cWlnRUxiZkdxbUhvdEVkcmY2T0lCcVNGWG0wRjZZTS0t"
         ],
         [
-            5.71766639145816,
-            -74.66510038368716,
-            "aKN-uOq7CUjPkfkNmWcC5Q"
+            1.514823850209708,
+            -77.50209238402512,
+            "ZI-wufeArX0hGA5iecPBPQ"
+        ],
+        [
+            0.680697514657779,
+            -76.88825960893952,
+            "CAoSLEFGMVFpcE9CdGtWRDRrUURqOFhJQi1FMEF5ZV82QUYtQmxpZXhfSmtGYTd6"
         ]
     ],
     "Bangladesh": [
         [
-            24.38674842046478,
-            90.43255134061523,
-            "JHXD_fDM66BKcXd55rZ8rg"
+            23.05084728318308,
+            90.86166006774785,
+            "m-zoEkzbHvoTT5LT_k-ObA"
+        ],
+        [
+            24.68536334519012,
+            89.16757625887287,
+            "Vhdb_xRUC0jrIhKfA8T3ag"
         ],
         [
             23.84249680462512,
@@ -2575,16 +4855,36 @@
             "CAoSLEFGMVFpcE9LVFNVZEg3Q0NXYTFNNjdhcjFoTXJqdVZYUUNlbVA1eTEzS21v"
         ],
         [
-            23.05084728318308,
-            90.86166006774785,
-            "m-zoEkzbHvoTT5LT_k-ObA"
+            22.23659130178674,
+            91.14217381543168,
+            "CAoSLEFGMVFpcFBHMGtFc2hqY1BmNjBPWFI5V0lMYU13aDdpX000Z3o2bWFVemhj"
+        ],
+        [
+            24.38674842046478,
+            90.43255134061523,
+            "JHXD_fDM66BKcXd55rZ8rg"
+        ],
+        [
+            23.25544259481928,
+            91.14289462874464,
+            "GfSFPqTnqizQn5tqQdeq8A"
+        ],
+        [
+            22.13176924955571,
+            90.2239533314324,
+            "vheM5UK6VLkJdNNKRM5Vlg"
+        ],
+        [
+            23.85304751351975,
+            89.59944496728257,
+            "HLxneTmjPkANfd_f3mzPXw"
         ]
     ],
     "Kazakhstan": [
         [
-            42.39259141321481,
-            69.34803488796017,
-            "CAoSLEFGMVFpcFBVSElYeTlHSFVZemNlTUszZWhrdFcwY2MyOFhVQUNlb2FQQlls"
+            48.00546015842276,
+            59.28809185054513,
+            "WXc_p8VGnXbH5j4kwg_1Qw"
         ],
         [
             50.25640465979526,
@@ -2595,13 +4895,23 @@
             53.14467548226312,
             66.76017569147643,
             "CAoSLEFGMVFpcE5FWmM2VFhoZEx5TW5pYzJyWHdqMENxbmhnQUdhMHZ4QnhBUmFq"
+        ],
+        [
+            49.67725657066203,
+            83.17506889307047,
+            "CAoSLEFGMVFpcE1BME1yMTlmMGRHZE96TXNBTkxwQUhueWxVM2hVQjBqUnVHZnB3"
+        ],
+        [
+            42.39259141321481,
+            69.34803488796017,
+            "CAoSLEFGMVFpcFBVSElYeTlHSFVZemNlTUszZWhrdFcwY2MyOFhVQUNlb2FQQlls"
         ]
     ],
     "Tunisia": [
         [
-            34.7107897959066,
-            11.15276462222306,
-            "CAoSLEFGMVFpcE5NUGhIaW9SRFVLdThPbFItS0JrdFd3ZUJHdEZUeEdVOHFzXzA2"
+            32.80432963856994,
+            9.087629514549246,
+            "CAoSLEFGMVFpcFBOOWdhNDVTQlMxWktKNDlaQmRaTlktUWRSaEJUMkE2YlJ4WTlx"
         ],
         [
             35.56581287620273,
@@ -2609,16 +4919,51 @@
             "CAoSLEFGMVFpcE9OZGZLY2ExUHBOMldvNkNISHpmTFFRT1c1NjlUc2RaU0VCbTFE"
         ],
         [
+            37.02689731221771,
+            8.912194683250712,
+            "CAoSLEFGMVFpcE8ySTJxdnZWQjNOU0V5Q3BZRTJlM055SWpYZlplR0ZCaERtdkNX"
+        ],
+        [
+            35.74202090773092,
+            8.376666477555432,
+            "CAoSLEFGMVFpcE1ZT1lvbmtLdF9tRC1TeUdpWlNpYm1HZDdnWnNka3ZfOVVGUnR6"
+        ],
+        [
+            36.22987746646362,
+            9.84360310292518,
+            "CAoSLEFGMVFpcE8tb1BseldwMGpEMFIzRVFNTS1aMnJIYWxwRTdpdHlJOGtFb2Rw"
+        ],
+        [
             33.87422474263076,
             10.92556351975667,
             "_F4gwBijfM_iSiMdf-tF_g"
+        ],
+        [
+            36.13036199441486,
+            10.46666000436729,
+            "CAoSLEFGMVFpcE1QZ3FzWGI1eGtXejBtVmxaaFdjWnlNSzRFUVdPQS1DOU9IU1Ix"
+        ],
+        [
+            34.7107897959066,
+            11.15276462222306,
+            "CAoSLEFGMVFpcE5NUGhIaW9SRFVLdThPbFItS0JrdFd3ZUJHdEZUeEdVOHFzXzA2"
         ]
     ],
     "Belgium - Belgique - Belgien": [
         [
+            49.57089339623418,
+            5.580160128867616,
+            "qQgfiSKgLuMfTIUiTiWQNg"
+        ],
+        [
             51.35441652920176,
             4.647143163149821,
             "XpN7AUHLekcbbKzgLh7dsg"
+        ],
+        [
+            51.18170395509506,
+            5.738491032291292,
+            "3dOpI-LT3foblt0h5Qew_A"
         ],
         [
             51.18431650007009,
@@ -2631,6 +4976,26 @@
             42.5066778837778,
             1.513849214525132,
             "CAoSLEFGMVFpcE9YdzREeEtqc3h1WU1mSHQ1U0Z0WlZaOHZDSlFuMVFDSW1tdEgw"
+        ],
+        [
+            42.56922842828671,
+            1.597240457289265,
+            "VsY6qKlQwzesxgql99aAcg"
+        ],
+        [
+            42.55630503287032,
+            1.614953300129642,
+            "CAoSLEFGMVFpcE0wVmlkalVNTnQ0NThvZk4tVTVheDZtb0dvUnhyVnpJNzQyTHVj"
+        ],
+        [
+            42.59944327818653,
+            1.540232722616805,
+            "CAoSLEFGMVFpcE5iRnVQejg3LVkwWlljLXN3NHNQNDFfQ3lkQmZ0cmtjUmU3Zm1k"
+        ],
+        [
+            42.60196300418163,
+            1.721605476733896,
+            "CAoSLEFGMVFpcE1pek4yWDdxWFhHSGJSWlNOYWtEZDlPaEVMbzk2WmQxUUwyMTZK"
         ]
     ],
     "Nepal": [
@@ -2656,12 +5021,22 @@
     ],
     "Maroc \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 Morocco": [
         [
+            31.38527869174308,
+            -4.154083307191244,
+            "CAoSLEFGMVFpcE9kNFZ4bWo0S1JOcngtWHQtalF6TjFrYi14QTgyaG40dFA2cUVU"
+        ],
+        [
             29.99156572930784,
             -9.17408078220354,
             "CAoSLEFGMVFpcE1BcHExaXVFdmgtQ0paaE5KU0VLUVpYUXg2LThHMEdMSElQNGp1"
         ]
     ],
     "Schweiz-Suisse-Switzerland-Swiss": [
+        [
+            47.23250773724089,
+            7.865301811274704,
+            "TqJf4X6B7pRQiBxnUbOS1g"
+        ],
         [
             47.22984053018003,
             7.260049017730288,
@@ -2670,6 +5045,11 @@
     ],
     "Kosovo - Kosovo": [
         [
+            42.16845381410261,
+            20.61548850062922,
+            "CAoSK0FGMVFpcE5adi1HMHdNZmJUN1VfLXRyZmx1MmZ5MTVuRTNQZmEwdHNKM1U."
+        ],
+        [
             42.58249788823947,
             20.08572357624593,
             "CAoSLEFGMVFpcE9TejZjRG5RdU5MMGF4UXN1RktRWVlhTkprTGRqdGlQZklFWWx4"
@@ -2677,24 +5057,39 @@
     ],
     "Mexico": [
         [
-            29.09951467414231,
-            -110.7973951135822,
-            "CAoSLEFGMVFpcFB3ckphN2VFWDlNWGVEU1ZEdzBQdjA4THQwY3RYN3pvZnl4a0Fw"
-        ],
-        [
             16.31800452710631,
             -92.18294201463263,
             "vN5TfsfJTU36n9zO4xUmGQ"
         ],
         [
-            17.09871001872707,
-            -92.00537856249288,
-            "LbH8BKyW4luAmnyKPSCRYw"
+            22.47460059539772,
+            -103.7290295888861,
+            "sKcAZniqXH9RYcET0x6Tbg"
+        ],
+        [
+            29.09951467414231,
+            -110.7973951135822,
+            "CAoSLEFGMVFpcFB3ckphN2VFWDlNWGVEU1ZEdzBQdjA4THQwY3RYN3pvZnl4a0Fw"
+        ],
+        [
+            31.04841983449054,
+            -115.3525789093946,
+            "CAoSLEFGMVFpcE9KbFJJVUg2TGpMWTRJZjJ4eFRWOFJjeXRURUdqUGFneV93a3FC"
+        ],
+        [
+            17.40957495853909,
+            -92.16593491121127,
+            "Hv1xysvWku_bU4an-Xgiaw"
         ],
         [
             16.61850622745038,
             -93.34869398743595,
             "fKchuF632ni0b51462i5Jg"
+        ],
+        [
+            17.09871001872707,
+            -92.00537856249288,
+            "LbH8BKyW4luAmnyKPSCRYw"
         ]
     ],
     "Uzbekistan": [
@@ -2706,16 +5101,76 @@
     ],
     "Jordan": [
         [
+            29.56479708977049,
+            35.41254006263105,
+            "CAoSLEFGMVFpcFBaZHRyb3g2ZGtKcDhXZ081bjFwLVJPWFJjYzVVYVoyVF9Kalo4"
+        ],
+        [
             30.39425590656898,
             35.64019293919414,
             "CAoSLEFGMVFpcE9XOGpkQlFiV0V0dkxUb1ZqeDItUDNmNTlxZ1JKckF3cndaWVN0"
+        ],
+        [
+            31.21710971668466,
+            35.99838224520732,
+            "CAoSLEFGMVFpcE9NX2EwUmhWZ3AxTGhNckU2OWE5Z1VkOEc3dEVUa1dHMkNBVUc4"
         ]
     ],
     "British Virgin Islands": [
         [
+            18.42292041606668,
+            -64.5563734673881,
+            "CAoSLEFGMVFpcE9zbDdEV2ZqU19TbzNuMlBWWFltZDRSaHdZaDRPZjN6ZnA3cFh6"
+        ],
+        [
             18.35925287210442,
             -64.57572167577707,
             "CAoSLEFGMVFpcE1wNkZkQ0lYMEdXOGpvNnJuUUZKRDN2WHp3dDZnTWVkLTlNNEdk"
+        ]
+    ],
+    "Tajikistan": [
+        [
+            39.31348877003713,
+            73.33407650135564,
+            "CAoSLEFGMVFpcFByamlwZ1VCNHBaQk0zbEhyNU5OalhjbEhXRG5TTjRWY1FjMlNU"
+        ]
+    ],
+    "Laos": [
+        [
+            18.2037857598047,
+            102.9177538139318,
+            "CAoSLEFGMVFpcE9zX09Qa2p2cld6U3hBdk9VeXVfY1RYMXZoWVU0cFBtLWItQVl6"
+        ],
+        [
+            17.1344095389171,
+            105.2935306051801,
+            "CAoSLEFGMVFpcE5ibk1SWjdFWi1PSTJUaEpHUkR2MlhZRWZGZWFqcVIzeUl2ZXRz"
+        ],
+        [
+            19.84257608093871,
+            101.0396758819856,
+            "CAoSLEFGMVFpcE1RZnRBeTFVR3hya0ZvdUZaVTh4bkx4N3hXVGlXejl1aGdaMlNI"
+        ]
+    ],
+    "Myanmar": [
+        [
+            11.38834077639494,
+            97.66445140042312,
+            "CAoSLEFGMVFpcE4yNkZmZkRjYUhBd2FLLVdwanR5NHhUeFJzSXZqSFd2M2Z3bVpZ"
+        ]
+    ],
+    "Venezuela": [
+        [
+            8.005922166893546,
+            -71.73032542385826,
+            "CAoSK0FGMVFpcFBpbGRjYUVQbHJoenRiMmxxbFBRa0FWYzl6bTZ6eFkyZmpYZEk."
+        ]
+    ],
+    "Togo": [
+        [
+            10.66470404055666,
+            0.1924221152809586,
+            "CAoSLEFGMVFpcE5lOFpXemljNmdLSWw5UElPNTF5bkNOYkFtaG5XdWVlNFdWeU15"
         ]
     ]
 }
