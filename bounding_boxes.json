@@ -1,0 +1,688 @@
+{
+    "Japan": {
+        "min_lat": 24.396308,
+        "max_lat": 45.551483,
+        "min_lng": 122.93457,
+        "max_lng": 153.986672,
+        "density": "high"
+    },
+    "South Korea": {
+        "min_lat": 33.068574,
+        "max_lat": 38.623478,
+        "min_lng": 125.887139,
+        "max_lng": 129.584671,
+        "density": "high"
+    },
+    "Thailand": {
+        "min_lat": 5.610819,
+        "max_lat": 20.464833,
+        "min_lng": 97.343396,
+        "max_lng": 105.637214,
+        "density": "medium"
+    },
+    "Indonesia": {
+        "min_lat": -10.0,
+        "max_lat": 6.077427,
+        "min_lng": 95.009331,
+        "max_lng": 141.021805,
+        "density": "medium"
+    },
+    "Malaysia": {
+        "min_lat": 0.851165,
+        "max_lat": 7.35578,
+        "min_lng": 99.640679,
+        "max_lng": 119.278888,
+        "density": "medium"
+    },
+    "Philippines": {
+        "min_lat": 5.581003,
+        "max_lat": 18.505227,
+        "min_lng": 117.174274,
+        "max_lng": 126.807256,
+        "density": "medium"
+    },
+    "Singapore": {
+        "min_lat": 1.130475,
+        "max_lat": 1.450475,
+        "min_lng": 103.619949,
+        "max_lng": 104.019949,
+        "density": "high"
+    },
+    "Cambodia": {
+        "min_lat": 10.486544,
+        "max_lat": 14.570583,
+        "min_lng": 102.333122,
+        "max_lng": 107.627678,
+        "density": "medium"
+    },
+    "Laos": {
+        "min_lat": 14.697186,
+        "max_lat": 22.490865,
+        "min_lng": 100.092045,
+        "max_lng": 107.634998,
+        "density": "low"
+    },
+    "India": {
+        "min_lat": 6.554607,
+        "max_lat": 35.674545,
+        "min_lng": 68.111378,
+        "max_lng": 97.395555,
+        "density": "high"
+    },
+    "Bangladesh": {
+        "min_lat": 20.743083,
+        "max_lat": 26.623544,
+        "min_lng": 88.00753,
+        "max_lng": 92.680497,
+        "density": "high"
+    },
+    "Sri Lanka": {
+        "min_lat": 5.870042,
+        "max_lat": 9.830284,
+        "min_lng": 79.649893,
+        "max_lng": 81.882553,
+        "density": "medium"
+    },
+    "Bhutan": {
+        "min_lat": 26.702016,
+        "max_lat": 28.246987,
+        "min_lng": 88.746472,
+        "max_lng": 92.125232,
+        "density": "low"
+    },
+    "Kyrgyzstan": {
+        "min_lat": 39.172843,
+        "max_lat": 43.231249,
+        "min_lng": 69.225836,
+        "max_lng": 80.269603,
+        "density": "low"
+    },
+    "Mongolia": {
+        "min_lat": 41.598564,
+        "max_lat": 52.149569,
+        "min_lng": 87.749594,
+        "max_lng": 119.772008,
+        "density": "low"
+    },
+    "Kazakhstan": {
+        "min_lat": 40.585338,
+        "max_lat": 55.441478,
+        "min_lng": 46.491859,
+        "max_lng": 87.315564,
+        "density": "low"
+    },
+    "Turkey": {
+        "min_lat": 35.813357,
+        "max_lat": 42.107613,
+        "min_lng": 25.665545,
+        "max_lng": 44.817663,
+        "density": "medium"
+    },
+    "United Arab Emirates": {
+        "min_lat": 22.631512,
+        "max_lat": 26.084159,
+        "min_lng": 51.583851,
+        "max_lng": 56.381451,
+        "density": "medium"
+    },
+    "Jordan": {
+        "min_lat": 29.183401,
+        "max_lat": 33.37362,
+        "min_lng": 34.888113,
+        "max_lng": 39.301154,
+        "density": "medium"
+    },
+    "Israel": {
+        "min_lat": 29.501326,
+        "max_lat": 33.281682,
+        "min_lng": 34.267387,
+        "max_lng": 35.895023,
+        "density": "high"
+    },
+    "Palestine": {
+        "min_lat": 31.352436,
+        "max_lat": 32.550882,
+        "min_lng": 34.21555,
+        "max_lng": 35.573923,
+        "density": "high"
+    },
+    "Qatar": {
+        "min_lat": 24.482148,
+        "max_lat": 26.154655,
+        "min_lng": 50.759056,
+        "max_lng": 51.686924,
+        "density": "high"
+    },
+    "Lebanon": {
+        "min_lat": 33.04811,
+        "max_lat": 34.693145,
+        "min_lng": 35.099815,
+        "max_lng": 36.623622,
+        "density": "high"
+    },
+    "Oman": {
+        "min_lat": 16.651051,
+        "max_lat": 26.395934,
+        "min_lng": 52.000733,
+        "max_lng": 59.842835,
+        "density": "low"
+    },
+    "Tunisia": {
+        "min_lat": 30.230727,
+        "max_lat": 37.346259,
+        "min_lng": 7.52198,
+        "max_lng": 11.482048,
+        "density": "medium"
+    },
+    "Nigeria": {
+        "min_lat": 4.272974,
+        "max_lat": 13.892007,
+        "min_lng": 2.691702,
+        "max_lng": 14.577177,
+        "density": "medium"
+    },
+    "Senegal": {
+        "min_lat": 12.305234,
+        "max_lat": 16.598264,
+        "min_lng": -17.686444,
+        "max_lng": -11.384878,
+        "density": "medium"
+    },
+    "Ghana": {
+        "min_lat": 4.737808,
+        "max_lat": 11.174856,
+        "min_lng": -3.25542,
+        "max_lng": 1.199378,
+        "density": "medium"
+    },
+    "Kenya": {
+        "min_lat": -4.676925,
+        "max_lat": 5.031155,
+        "min_lng": 33.909821,
+        "max_lng": 41.899078,
+        "density": "medium"
+    },
+    "Uganda": {
+        "min_lat": -1.478086,
+        "max_lat": 4.234449,
+        "min_lng": 29.573433,
+        "max_lng": 35.000308,
+        "density": "medium"
+    },
+    "Rwanda": {
+        "min_lat": -2.839258,
+        "max_lat": -1.047408,
+        "min_lng": 28.861754,
+        "max_lng": 30.899073,
+        "density": "high"
+    },
+    "South Africa": {
+        "min_lat": -34.819166,
+        "max_lat": -22.125424,
+        "min_lng": 16.4513,
+        "max_lng": 32.895973,
+        "density": "medium"
+    },
+    "Lesotho": {
+        "min_lat": -30.675799,
+        "max_lat": -28.570799,
+        "min_lng": 27.00489,
+        "max_lng": 29.435533,
+        "density": "low"
+    },
+    "Eswatini": {
+        "min_lat": -27.317401,
+        "max_lat": -25.718502,
+        "min_lng": 30.794512,
+        "max_lng": 32.139931,
+        "density": "low"
+    },
+    "Botswana": {
+        "min_lat": -26.889939,
+        "max_lat": -17.778137,
+        "min_lng": 19.998903,
+        "max_lng": 29.375304,
+        "density": "low"
+    },
+    "United Kingdom": {
+        "min_lat": 49.892485,
+        "max_lat": 60.847859,
+        "min_lng": -8.649357,
+        "max_lng": 1.762709,
+        "density": "high"
+    },
+    "France": {
+        "min_lat": 41.3337,
+        "max_lat": 51.124199,
+        "min_lng": -5.142222,
+        "max_lng": 9.561556,
+        "density": "medium"
+    },
+    "Germany": {
+        "min_lat": 47.270111,
+        "max_lat": 55.058347,
+        "min_lng": 5.866342,
+        "max_lng": 15.041896,
+        "density": "high"
+    },
+    "Netherlands": {
+        "min_lat": 50.750383,
+        "max_lat": 53.557079,
+        "min_lng": 3.314971,
+        "max_lng": 7.092053,
+        "density": "high"
+    },
+    "Belgium": {
+        "min_lat": 49.496981,
+        "max_lat": 51.505208,
+        "min_lng": 2.513573,
+        "max_lng": 6.156658,
+        "density": "high"
+    },
+    "Italy": {
+        "min_lat": 35.491237,
+        "max_lat": 47.092146,
+        "min_lng": 6.627265,
+        "max_lng": 18.784475,
+        "density": "high"
+    },
+    "Spain": {
+        "min_lat": 27.642217,
+        "max_lat": 43.791356,
+        "min_lng": -18.160447,
+        "max_lng": 4.327784,
+        "density": "medium"
+    },
+    "Portugal": {
+        "min_lat": 32.289457,
+        "max_lat": 42.154311,
+        "min_lng": -9.52657,
+        "max_lng": -6.189159,
+        "density": "medium"
+    },
+    "Austria": {
+        "min_lat": 46.372276,
+        "max_lat": 49.02053,
+        "min_lng": 9.530952,
+        "max_lng": 17.160776,
+        "density": "medium"
+    },
+    "Switzerland": {
+        "min_lat": 45.817995,
+        "max_lat": 47.808454,
+        "min_lng": 5.95608,
+        "max_lng": 10.49205,
+        "density": "medium"
+    },
+    "Ireland": {
+        "min_lat": 51.386087,
+        "max_lat": 55.378051,
+        "min_lng": -10.47897,
+        "max_lng": -5.634722,
+        "density": "medium"
+    },
+    "Malta": {
+        "min_lat": 35.799994,
+        "max_lat": 36.076168,
+        "min_lng": 14.180644,
+        "max_lng": 14.576491,
+        "density": "high"
+    },
+    "Luxembourg": {
+        "min_lat": 49.446773,
+        "max_lat": 50.182044,
+        "min_lng": 5.734946,
+        "max_lng": 6.528526,
+        "density": "high"
+    },
+    "Andorra": {
+        "min_lat": 42.428492,
+        "max_lat": 42.655356,
+        "min_lng": 1.413579,
+        "max_lng": 1.786542,
+        "density": "high"
+    },
+    "San Marino": {
+        "min_lat": 43.8937,
+        "max_lat": 43.993473,
+        "min_lng": 12.403104,
+        "max_lng": 12.516479,
+        "density": "high"
+    },
+    "Monaco": {
+        "min_lat": 43.720586,
+        "max_lat": 43.75,
+        "min_lng": 7.4,
+        "max_lng": 7.45,
+        "density": "high"
+    },
+    "Isle of Man": {
+        "min_lat": 54.054979,
+        "max_lat": 54.417974,
+        "min_lng": -4.794684,
+        "max_lng": -4.307685,
+        "density": "low"
+    },
+    "Norway": {
+        "min_lat": 58.078884,
+        "max_lat": 71.188112,
+        "min_lng": 4.087527,
+        "max_lng": 31.06616,
+        "density": "low"
+    },
+    "Denmark": {
+        "min_lat": 54.559322,
+        "max_lat": 57.751919,
+        "min_lng": 8.07561,
+        "max_lng": 12.690007,
+        "density": "medium"
+    },
+    "Sweden": {
+        "min_lat": 55.133119,
+        "max_lat": 69.059969,
+        "min_lng": 11.027368,
+        "max_lng": 24.163818,
+        "density": "low"
+    },
+    "Finland": {
+        "min_lat": 59.454157,
+        "max_lat": 70.092293,
+        "min_lng": 19.084314,
+        "max_lng": 31.586707,
+        "density": "low"
+    },
+    "Iceland": {
+        "min_lat": 63.396291,
+        "max_lat": 66.536389,
+        "min_lng": -24.326184,
+        "max_lng": -13.495815,
+        "density": "low"
+    },
+    "Estonia": {
+        "min_lat": 57.509319,
+        "max_lat": 59.675508,
+        "min_lng": 21.83252,
+        "max_lng": 28.210134,
+        "density": "low"
+    },
+    "Latvia": {
+        "min_lat": 55.674854,
+        "max_lat": 58.085568,
+        "min_lng": 20.974217,
+        "max_lng": 28.24189,
+        "density": "low"
+    },
+    "Lithuania": {
+        "min_lat": 53.896789,
+        "max_lat": 56.449437,
+        "min_lng": 20.91499,
+        "max_lng": 26.836519,
+        "density": "low"
+    },
+    "Poland": {
+        "min_lat": 49.002046,
+        "max_lat": 54.839138,
+        "min_lng": 14.123922,
+        "max_lng": 24.145893,
+        "density": "medium"
+    },
+    "Hungary": {
+        "min_lat": 45.743479,
+        "max_lat": 48.585257,
+        "min_lng": 16.113886,
+        "max_lng": 22.898759,
+        "density": "medium"
+    },
+    "Czechia": {
+        "min_lat": 48.551808,
+        "max_lat": 51.055703,
+        "min_lng": 12.09059,
+        "max_lng": 18.867744,
+        "density": "medium"
+    },
+    "Slovakia": {
+        "min_lat": 47.738573,
+        "max_lat": 49.611676,
+        "min_lng": 16.83332,
+        "max_lng": 22.565724,
+        "density": "medium"
+    },
+    "Greece": {
+        "min_lat": 34.802065,
+        "max_lat": 41.748878,
+        "min_lng": 19.627841,
+        "max_lng": 28.247304,
+        "density": "medium"
+    },
+    "Serbia": {
+        "min_lat": 42.245224,
+        "max_lat": 46.190052,
+        "min_lng": 18.814138,
+        "max_lng": 23.006308,
+        "density": "medium"
+    },
+    "Croatia": {
+        "min_lat": 42.336528,
+        "max_lat": 46.555253,
+        "min_lng": 13.493222,
+        "max_lng": 19.390476,
+        "density": "medium"
+    },
+    "Slovenia": {
+        "min_lat": 45.421348,
+        "max_lat": 46.876529,
+        "min_lng": 13.375469,
+        "max_lng": 16.59677,
+        "density": "medium"
+    },
+    "Albania": {
+        "min_lat": 39.644862,
+        "max_lat": 42.661166,
+        "min_lng": 19.281312,
+        "max_lng": 21.036944,
+        "density": "medium"
+    },
+    "Montenegro": {
+        "min_lat": 41.848944,
+        "max_lat": 43.570137,
+        "min_lng": 18.433825,
+        "max_lng": 20.358413,
+        "density": "low"
+    },
+    "North Macedonia": {
+        "min_lat": 40.853659,
+        "max_lat": 42.373516,
+        "min_lng": 20.452142,
+        "max_lng": 23.034092,
+        "density": "low"
+    },
+    "Romania": {
+        "min_lat": 43.618682,
+        "max_lat": 48.265396,
+        "min_lng": 20.261977,
+        "max_lng": 29.679759,
+        "density": "medium"
+    },
+    "Bulgaria": {
+        "min_lat": 41.235709,
+        "max_lat": 44.217638,
+        "min_lng": 22.357396,
+        "max_lng": 28.603638,
+        "density": "medium"
+    },
+    "Russia": {
+        "min_lat": 41.185096,
+        "max_lat": 81.85646,
+        "min_lng": 19.638907,
+        "max_lng": 180.0,
+        "density": "low"
+    },
+    "Ukraine": {
+        "min_lat": 44.184598,
+        "max_lat": 52.379147,
+        "min_lng": 22.085608,
+        "max_lng": 40.222379,
+        "density": "medium"
+    },
+    "United States": {
+        "min_lat": 24.396308,
+        "max_lat": 49.384358,
+        "min_lng": -125.0,
+        "max_lng": -66.93457,
+        "density": "medium"
+    },
+    "Canada": {
+        "min_lat": 41.676555,
+        "max_lat": 83.23324,
+        "min_lng": -141.003108,
+        "max_lng": -52.648099,
+        "density": "low"
+    },
+    "Mexico": {
+        "min_lat": 14.538829,
+        "max_lat": 32.718655,
+        "min_lng": -118.455501,
+        "max_lng": -86.703392,
+        "density": "medium"
+    },
+    "Greenland": {
+        "min_lat": 59.777403,
+        "max_lat": 83.67554,
+        "min_lng": -73.036804,
+        "max_lng": -11.312576,
+        "density": "low"
+    },
+    "Bermuda": {
+        "min_lat": 32.246513,
+        "max_lat": 32.391204,
+        "min_lng": -64.88657,
+        "max_lng": -64.638138,
+        "density": "low"
+    },
+    "Guatemala": {
+        "min_lat": 13.735337,
+        "max_lat": 17.815093,
+        "min_lng": -92.246255,
+        "max_lng": -88.225021,
+        "density": "medium"
+    },
+    "Dominican Republic": {
+        "min_lat": 17.470582,
+        "max_lat": 19.932046,
+        "min_lng": -72.009645,
+        "max_lng": -68.322457,
+        "density": "medium"
+    },
+    "Puerto Rico": {
+        "min_lat": 17.831509,
+        "max_lat": 18.514341,
+        "min_lng": -67.271893,
+        "max_lng": -65.58975,
+        "density": "medium"
+    },
+    "US Virgin Islands": {
+        "min_lat": 17.623469,
+        "max_lat": 18.411106,
+        "min_lng": -65.15915,
+        "max_lng": -64.512674,
+        "density": "low"
+    },
+    "Panama": {
+        "min_lat": 7.198377,
+        "max_lat": 9.616148,
+        "min_lng": -83.051724,
+        "max_lng": -77.163594,
+        "density": "medium"
+    },
+    "Brazil": {
+        "min_lat": -33.751748,
+        "max_lat": 5.271787,
+        "min_lng": -73.985535,
+        "max_lng": -34.793129,
+        "density": "medium"
+    },
+    "Argentina": {
+        "min_lat": -55.027901,
+        "max_lat": -21.786944,
+        "min_lng": -73.56036,
+        "max_lng": -53.63636,
+        "density": "medium"
+    },
+    "Chile": {
+        "min_lat": -56.725,
+        "max_lat": -17.506,
+        "min_lng": -75.644,
+        "max_lng": -66.076,
+        "density": "medium"
+    },
+    "Peru": {
+        "min_lat": -18.346,
+        "max_lat": -0.039,
+        "min_lng": -81.329,
+        "max_lng": -68.681,
+        "density": "medium"
+    },
+    "Colombia": {
+        "min_lat": -4.228083,
+        "max_lat": 13.3895,
+        "min_lng": -79.009,
+        "max_lng": -66.872,
+        "density": "medium"
+    },
+    "Ecuador": {
+        "min_lat": -5.015,
+        "max_lat": 1.467,
+        "min_lng": -81.079,
+        "max_lng": -75.2,
+        "density": "medium"
+    },
+    "Bolivia": {
+        "min_lat": -22.898,
+        "max_lat": -9.679,
+        "min_lng": -69.64,
+        "max_lng": -57.535,
+        "density": "low"
+    },
+    "Uruguay": {
+        "min_lat": -35.1,
+        "max_lat": -30.08,
+        "min_lng": -58.494,
+        "max_lng": -53.134,
+        "density": "medium"
+    },
+    "Australia": {
+        "min_lat": -43.740509,
+        "max_lat": -10.051835,
+        "min_lng": 113.338953,
+        "max_lng": 153.569469,
+        "density": "low"
+    },
+    "New Zealand": {
+        "min_lat": -47.286,
+        "max_lat": -34.392,
+        "min_lng": 166.426,
+        "max_lng": 178.55,
+        "density": "low"
+    },
+    "Guam": {
+        "min_lat": 13.182335,
+        "max_lat": 13.652434,
+        "min_lng": 144.618203,
+        "max_lng": 144.956217,
+        "density": "low"
+    },
+    "American Samoa": {
+        "min_lat": -14.393625,
+        "max_lat": -11.0456,
+        "min_lng": -171.090042,
+        "max_lng": -169.416667,
+        "density": "low"
+    },
+    "Christmas Island": {
+        "min_lat": -10.57,
+        "max_lat": -10.412,
+        "min_lng": 105.533,
+        "max_lng": 105.713,
+        "density": "low"
+    }
+}

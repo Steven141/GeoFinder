@@ -1,8 +1,19 @@
 import requests
 import random
+import os
+import json
 from geopy.geocoders import Nominatim
+from googletrans import Translator
 from PIL import Image
 from io import BytesIO
+
+
+NUM_IMAGES = 2
+DENSITY_RADIUS = {
+    "high": 1000,  # Urban areas
+    "medium": 5000,  # Rural areas
+    "low": 10000,  # Remote areas
+}
 
 
 def main():
@@ -17,36 +28,79 @@ def main():
         print(f"An error occurred: {e}")
         return None
 
-    # lat, lng = 48.858844, 2.294351
-    # lat, lng = 48.0, 2.0
-    lat, lng = 33.976621, -118.218250
-    valid_coverage, data = check_street_view_coverage(lat, lng, api_key)
-    if not valid_coverage:
+    json_path = "bounding_boxes.json"
+    try:
+        with open(json_path, "r") as json_file:
+            country_bounding_boxes = json.load(json_file)
+    except FileNotFoundError:
+        print(f"Error: {file_path} not found.")
         return None
-    pano_id = data['pano_id']
-    print(pano_id)
-    print(data)
-    geolocator = Nominatim(user_agent="my-app")
-    location = geolocator.reverse(f"{lat},{lng}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
 
-    print(location.address)
-    print(location.address.split(", ")[-1])
+    image_id_to_cord = {}
+    country_to_cords = {}
 
-    lat = data['location']['lat']
-    lng = data['location']['lng']
+    for k, v in country_bounding_boxes.items():
+        lat = random.uniform(v['min_lat'], v['max_lat'])
+        lng = random.uniform(v['min_lng'], v['max_lng'])
+        radius = DENSITY_RADIUS[v['density']]
 
-    tiles = []
-    for heading in range(0, 360, 90):
-        row_tiles = []
-        for pitch in [0]:  # Adjust pitch for 3 rows
-            tile = fetch_streetview_tile(api_key, lat, lng, heading, pitch)
-            row_tiles.append(tile)
-        tiles.append(row_tiles)
-    stitched_image = stitch_tiles(tiles)
-    stitched_image.save(f"data/{lat}_{lng}_.jpg")
+        valid_coverage, data = check_street_view_coverage(lat, lng, radius, api_key)
+        while not valid_coverage:
+            print(f'invalid for: {k}, {lat}, {lng}\n')
+            lat = random.uniform(v['min_lat'], v['max_lat'])
+            lng = random.uniform(v['min_lng'], v['max_lng'])
+            valid_coverage, data = check_street_view_coverage(lat, lng, radius, api_key)
+        print(f'Expected = {k}, {lat}, {lng}')
+        pano_id = data['pano_id']
+        lat = data['location']['lat']
+        lng = data['location']['lng']
+        geolocator = Nominatim(user_agent="my-app")
+        location = geolocator.reverse(f"{lat},{lng}")
+        country = location.address.split(", ")[-1]
+        translator = Translator()
+        country = translator.translate(country, src='auto', dest='en').text
+
+        print(f'Got Country = {country}, lat = {lat}, lng = {lng}, pano_id = {pano_id}')
+    return
+
+    while len(image_id_to_cord) < NUM_IMAGES:
+
+        lat = random.uniform(-60, 70)
+        lng = random.uniform(-180, 180)
+        valid_coverage, data = check_street_view_coverage(lat, lng, api_key)
+        if not valid_coverage:
+            continue
+
+        pano_id = data['pano_id']
+        lat = data['location']['lat']
+        lng = data['location']['lng']
+
+        if pano_id in image_id_to_cord:
+            continue
+
+        geolocator = Nominatim(user_agent="my-app")
+        location = geolocator.reverse(f"{lat},{lng}")
+        country = location.address.split(", ")[-1]
+
+        print(f'Country = {country}, lat = {lat}, lng = {lng}, pano_id = {pano_id}')
+
+        image_id_to_cord[pano_id] = (lat, lng, country)
+
+        tiles = []
+        for heading in range(0, 360, 90):
+            row_tiles = []
+            for pitch in [0]:  # Adjust pitch for 3 rows
+                tile = fetch_streetview_tile(api_key, lat, lng, heading, pitch)
+                row_tiles.append(tile)
+            tiles.append(row_tiles)
+        stitched_image = stitch_tiles(tiles)
+        stitched_image.save(f"data/{pano_id}.jpg")
 
 
-def check_street_view_coverage(lat, lng, api_key):
+def check_street_view_coverage(lat, lng, radius, api_key):
     """
     Check if Google Street View imagery exists for the given latitude and longitude.
     :param lat: Latitude.
@@ -56,7 +110,7 @@ def check_street_view_coverage(lat, lng, api_key):
     metadata_url = "https://maps.googleapis.com/maps/api/streetview/metadata"
     params = {
         "location": f"{lat},{lng}",
-        'radius': 10000,  # search radius in meters
+        'radius': radius,  # search radius in meters
         "key": api_key,
     }
     response = requests.get(metadata_url, params=params)
