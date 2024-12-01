@@ -7,6 +7,7 @@ from googletrans import Translator
 from PIL import Image
 from io import BytesIO
 from collections import defaultdict
+from tqdm import tqdm
 
 
 NUM_IMAGES = 20
@@ -18,16 +19,7 @@ DENSITY_RADIUS = {
 
 
 def main():
-    file_path = "API.txt"
-    try:
-        with open(file_path, "r") as file:
-            api_key = file.read().strip()  # Strip removes extra whitespace or newlines
-    except FileNotFoundError:
-        print(f"Error: {file_path} not found.")
-        return None
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return None
+    api_key = get_api_key()
 
     json_bb_path = "bounding_boxes.json"
     try:
@@ -51,9 +43,7 @@ def main():
         print(f"An error occurred: {e}")
         return None
 
-    image_id_to_cord = {}
     country_to_cords = defaultdict(set, {k: set(tuple(v) for v in v_list) for k, v_list in country_to_cords.items()})
-    # count = 0
 
     for k, v in country_bounding_boxes.items():
         lat = random.uniform(v['min_lat'], v['max_lat'])
@@ -62,11 +52,10 @@ def main():
 
         valid_coverage, data = check_street_view_coverage(lat, lng, radius, api_key)
         while not valid_coverage:
-            # print(f'invalid for: {k}, {lat}, {lng}\n')
             lat = random.uniform(v['min_lat'], v['max_lat'])
             lng = random.uniform(v['min_lng'], v['max_lng'])
             valid_coverage, data = check_street_view_coverage(lat, lng, radius, api_key)
-        # print(f'Expected = {k}, {lat}, {lng}')
+
         pano_id = data['pano_id']
         lat = data['location']['lat']
         lng = data['location']['lng']
@@ -75,52 +64,87 @@ def main():
         country = location.address.split(", ")[-1]
         translator = Translator()
         country = translator.translate(country, src='auto', dest='en').text
+        country = country.replace("/", "-")
 
         print(f'Searched for {k} ---> Country = {country}, lat = {lat}, lng = {lng}, pano_id = {pano_id}')
         country_to_cords[country].add((lat, lng, pano_id))
-        # if count == 5:
-        #     break
-        # count += 1
 
     file_path = "country_cords.json"
 
     country_to_cords = {k: list(v) for k, v in country_to_cords.items()}
     with open(file_path, "w") as json_file:
         json.dump(country_to_cords, json_file, indent=4)
-    return
 
-    while len(image_id_to_cord) < NUM_IMAGES:
 
-        lat = random.uniform(-60, 70)
-        lng = random.uniform(-180, 180)
-        valid_coverage, data = check_street_view_coverage(lat, lng, api_key)
-        if not valid_coverage:
-            continue
+def generate_images(api_key):
+    json_cords_path = "country_cords.json"
+    try:
+        with open(json_cords_path, "r") as json_file:
+            country_to_cords = json.load(json_file)
+    except FileNotFoundError:
+        print(f"Error: {json_cords_path} not found.")
+        return None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
 
-        pano_id = data['pano_id']
-        lat = data['location']['lat']
-        lng = data['location']['lng']
+    json_pano_path = "pano_ids.json"
+    try:
+        with open(json_pano_path, "r") as json_file:
+            used_pano_ids = json.load(json_file)
+    except FileNotFoundError:
+        print(f"Error: {json_pano_path} not found.")
+        return None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
 
-        if pano_id in image_id_to_cord:
-            continue
+    country_to_cords = defaultdict(set, {k: set(tuple(v) for v in v_list) for k, v_list in country_to_cords.items()})
+    used_pano_ids = set(used_pano_ids)
 
-        geolocator = Nominatim(user_agent="my-app")
-        location = geolocator.reverse(f"{lat},{lng}")
-        country = location.address.split(", ")[-1]
+    for country, cords in tqdm(country_to_cords.items(), desc="Processing Countries", unit="country"):
+        try:
+            os.makedirs(f'data/{country}', exist_ok=True)
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            file_path = "pano_ids.json"
+            used_pano_ids = list(used_pano_ids)
+            with open(file_path, "w") as json_file:
+                json.dump(used_pano_ids, json_file, indent=4)
+            return None
 
-        print(f'Country = {country}, lat = {lat}, lng = {lng}, pano_id = {pano_id}')
+        for lat, lng, pano_id in cords:
+            if pano_id in used_pano_ids:
+                continue
+            used_pano_ids.add(pano_id)
+            tiles = []
+            for heading in range(0, 360, 90):
+                row_tiles = []
+                for pitch in [0]:  # Adjust pitch for 3 rows
+                    tile = fetch_streetview_tile(api_key, lat, lng, heading, pitch)
+                    row_tiles.append(tile)
+                tiles.append(row_tiles)
+            stitched_image = stitch_tiles(tiles)
+            stitched_image.save(f"data/{country}/{pano_id}.jpg")
 
-        image_id_to_cord[pano_id] = (lat, lng, country)
+    file_path = "pano_ids.json"
+    used_pano_ids = list(used_pano_ids)
+    with open(file_path, "w") as json_file:
+        json.dump(used_pano_ids, json_file, indent=4)
 
-        tiles = []
-        for heading in range(0, 360, 90):
-            row_tiles = []
-            for pitch in [0]:  # Adjust pitch for 3 rows
-                tile = fetch_streetview_tile(api_key, lat, lng, heading, pitch)
-                row_tiles.append(tile)
-            tiles.append(row_tiles)
-        stitched_image = stitch_tiles(tiles)
-        stitched_image.save(f"data/{pano_id}.jpg")
+
+def get_api_key():
+    file_path = "API.txt"
+    try:
+        with open(file_path, "r") as file:
+            api_key = file.read().strip()  # Strip removes extra whitespace or newlines
+    except FileNotFoundError:
+        print(f"Error: {file_path} not found.")
+        return None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
+    return api_key
 
 
 def check_street_view_coverage(lat, lng, radius, api_key):
@@ -176,7 +200,6 @@ def fetch_streetview_tile(api_key, lat, lng, heading=0, pitch=0, fov=90):
     }
     response = requests.get(base_url, params=params)
     if response.status_code == 200:
-        print("Tile saved successfully!")
         return Image.open(BytesIO(response.content))
     else:
         print(f"Error fetching tile: {response.status_code} - {response.text}")
@@ -184,4 +207,5 @@ def fetch_streetview_tile(api_key, lat, lng, heading=0, pitch=0, fov=90):
 
 
 if __name__ == "__main__":
-    main()
+    # main()
+    generate_images(get_api_key())
