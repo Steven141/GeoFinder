@@ -266,8 +266,8 @@ def update_used_pano_ids():
 
 
 if __name__ == "__main__":
-    for _ in range(6):
-        print("\n\n\n\n")
-        main()
+    # for _ in range(4):
+    #     print("\n\n\n\n")
+    #     main()
     # generate_images(get_api_key())
-    # update_used_pano_ids()
+    update_used_pano_ids()
