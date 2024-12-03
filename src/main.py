@@ -8,6 +8,7 @@ from PIL import Image
 from io import BytesIO
 from collections import defaultdict
 from tqdm import tqdm
+from pathlib import Path
 
 
 NUM_IMAGES = 20
@@ -60,12 +61,25 @@ def main():
         lat = data['location']['lat']
         lng = data['location']['lng']
         geolocator = Nominatim(user_agent="my-app")
-        location = geolocator.reverse(f"{lat},{lng}")
+        try:
+            location = geolocator.reverse(f"{lat},{lng}")
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            print(f'lat = {lat}, lng = {lng}')
+            file_path = "country_cords.json"
+            country_to_cords = {k: list(v) for k, v in country_to_cords.items()}
+            with open(file_path, "w") as json_file:
+                json.dump(country_to_cords, json_file, indent=4)
+            return None
         try:
             country = location.address.split(", ")[-1]
         except Exception as e:
             print(f"An error occurred: {e}")
             print(f'Address = {location.address}')
+            file_path = "country_cords.json"
+            country_to_cords = {k: list(v) for k, v in country_to_cords.items()}
+            with open(file_path, "w") as json_file:
+                json.dump(country_to_cords, json_file, indent=4)
             return None
         translator = Translator()
         country = translator.translate(country, src='auto', dest='en').text
@@ -75,7 +89,6 @@ def main():
         country_to_cords[country].add((lat, lng, pano_id))
 
     file_path = "country_cords.json"
-
     country_to_cords = {k: list(v) for k, v in country_to_cords.items()}
     with open(file_path, "w") as json_file:
         json.dump(country_to_cords, json_file, indent=4)
@@ -211,8 +224,50 @@ def fetch_streetview_tile(api_key, lat, lng, heading=0, pitch=0, fov=90):
         return None
 
 
+def update_used_pano_ids():
+    num_images = sum([len(files) for _, _, files in os.walk("data")])
+    json_pano_path = "pano_ids.json"
+    try:
+        with open(json_pano_path, "r") as json_file:
+            used_pano_ids = json.load(json_file)
+    except FileNotFoundError:
+        print(f"Error: {json_pano_path} not found.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    used_pano_ids = set(used_pano_ids)
+    if len(used_pano_ids) == num_images:
+        print('Images and Pano IDs Synced')
+    else:
+        print(f'Images and Pano IDs Not Synced: Images = {num_images}, Pano Ids = {len(used_pano_ids)}')
+        root_path = Path("data")
+        images = [file.name.replace(".jpg", "") for file in root_path.rglob("*") if file.is_file()]
+        for img in images:
+            if img not in used_pano_ids:
+                used_pano_ids.add(img)
+        assert(len(used_pano_ids) == num_images)
+        file_path = "pano_ids.json"
+        used_pano_ids = list(used_pano_ids)
+        with open(file_path, "w") as json_file:
+            json.dump(used_pano_ids, json_file, indent=4)
+
+    json_cords_path = "country_cords.json"
+    try:
+        with open(json_cords_path, "r") as json_file:
+            country_to_cords = json.load(json_file)
+    except FileNotFoundError:
+        print(f"Error: {json_cords_path} not found.")
+        return None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
+    country_to_cords = defaultdict(set, {k: set(tuple(v) for v in v_list) for k, v_list in country_to_cords.items()})
+    num_cords = sum([1 for country_cords in country_to_cords.values() for cord in country_cords])
+    print(f"Cords = {num_cords}, Pano Ids = {len(used_pano_ids)}")
+
+
 if __name__ == "__main__":
-    # for _ in range(4):
-    #     print("\n\n\n\n")
-    #     main()
-    generate_images(get_api_key())
+    for _ in range(6):
+        print("\n\n\n\n")
+        main()
+    # generate_images(get_api_key())
+    # update_used_pano_ids()
