@@ -207,7 +207,7 @@ def fetch_streetview_tile(api_key, lat, lng, heading=0, pitch=0, fov=90):
 
 
 if __name__ == "__main__":
-    # for _ in range(4):
+    # for _ in range(8):
     #     print("\n\n\n\n")
     #     main()
     generate_images(get_api_key())
