@@ -61,7 +61,12 @@ def main():
         lng = data['location']['lng']
         geolocator = Nominatim(user_agent="my-app")
         location = geolocator.reverse(f"{lat},{lng}")
-        country = location.address.split(", ")[-1]
+        try:
+            country = location.address.split(", ")[-1]
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            print(f'Address = {location.address}')
+            return None
         translator = Translator()
         country = translator.translate(country, src='auto', dest='en').text
         country = country.replace("/", "-")
@@ -207,7 +212,7 @@ def fetch_streetview_tile(api_key, lat, lng, heading=0, pitch=0, fov=90):
 
 
 if __name__ == "__main__":
-    # for _ in range(8):
+    # for _ in range(4):
     #     print("\n\n\n\n")
     #     main()
     generate_images(get_api_key())
