@@ -2,6 +2,7 @@ import requests
 import random
 import os
 import json
+import imagehash
 from geopy.geocoders import Nominatim
 from googletrans import Translator
 from PIL import Image
@@ -244,7 +245,9 @@ def update_used_pano_ids():
         for img in images:
             if img not in used_pano_ids:
                 used_pano_ids.add(img)
-        assert(len(used_pano_ids) == num_images)
+        if len(used_pano_ids) != num_images:
+            print(f'Images and Pano IDs Not Synced: Images = {num_images}, Pano Ids = {len(used_pano_ids)}')
+            assert(len(used_pano_ids) == num_images)
         file_path = "pano_ids.json"
         used_pano_ids = list(used_pano_ids)
         with open(file_path, "w") as json_file:
@@ -265,9 +268,90 @@ def update_used_pano_ids():
     print(f"Cords = {num_cords}, Pano Ids = {len(used_pano_ids)}")
 
 
+def get_center_crop(image, crop_fraction=0.5):
+    """Crop the center of an image based on a given fraction."""
+    width, height = image.size
+    crop_width = int(width * crop_fraction)
+    crop_height = int(height * crop_fraction)
+    left = (width - crop_width) // 2
+    top = (height - crop_height) // 2
+    right = left + crop_width
+    bottom = top + crop_height
+    return image.crop((left, top, right, bottom))
+
+
+def remove_duplicate_center_crops(template_path, folder_path, crop_fraction=0.5):
+    """Remove images from folder whose center crops match the template."""
+    # Load the template and compute its center crop hash
+    template_image = Image.open(template_path)
+    template_crop = get_center_crop(template_image, crop_fraction)
+    template_hash = imagehash.average_hash(template_crop)
+
+    json_pano_path = "pano_ids.json"
+    try:
+        with open(json_pano_path, "r") as json_file:
+            used_pano_ids = json.load(json_file)
+    except FileNotFoundError:
+        print(f"Error: {json_pano_path} not found.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    used_pano_ids = set(used_pano_ids)
+
+    json_cords_path = "country_cords.json"
+    try:
+        with open(json_cords_path, "r") as json_file:
+            country_to_cords = json.load(json_file)
+    except FileNotFoundError:
+        print(f"Error: {json_cords_path} not found.")
+        return None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
+
+    # Iterate through images in the folder
+    for root, _, files in os.walk(folder_path):
+        print(f"Looking at {root}")
+        for file in files:
+            if file.endswith(('.png', '.jpg', '.jpeg', '.bmp', '.tiff')):
+                image_path = os.path.join(root, file)
+                try:
+                    # Open the image and compute its center crop hash
+                    image = Image.open(image_path)
+                    image_crop = get_center_crop(image, crop_fraction)
+                    image_hash = imagehash.average_hash(image_crop)
+
+                    # Compare hashes
+                    if image_hash == template_hash:
+                        print(f"Removing duplicate: {image_path}")
+                        pano_id = file.replace(".jpg", "")
+                        used_pano_ids.remove(pano_id)
+                        for country, coords in country_to_cords.items():
+                            country_to_cords[country] = [coord for coord in coords if coord[2] != pano_id]
+                        os.remove(image_path)
+
+                except Exception as e:
+                    print(f"Error processing {image_path}: {e}")
+    file_path = "pano_ids.json"
+    used_pano_ids = list(used_pano_ids)
+    with open(file_path, "w") as json_file:
+        json.dump(used_pano_ids, json_file, indent=4)
+
+    file_path = "country_cords.json"
+    country_to_cords = {k: list(v) for k, v in country_to_cords.items()}
+    with open(file_path, "w") as json_file:
+        json.dump(country_to_cords, json_file, indent=4)
+
+
+def remove_error_images():
+    template_image_path = "error.jpg"
+    folder_to_check = "data"
+    remove_duplicate_center_crops(template_image_path, folder_to_check)
+
+
 if __name__ == "__main__":
-    # for _ in range(4):
+    # for _ in range(2):
     #     print("\n\n\n\n")
     #     main()
     # generate_images(get_api_key())
     update_used_pano_ids()
+    # remove_error_images()
