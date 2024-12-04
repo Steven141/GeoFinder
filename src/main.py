@@ -3,6 +3,7 @@ import random
 import os
 import json
 import imagehash
+import argparse
 from geopy.geocoders import Nominatim
 from googletrans import Translator
 from PIL import Image
@@ -67,6 +68,7 @@ def main():
         except Exception as e:
             print(f"An error occurred: {e}")
             print(f'lat = {lat}, lng = {lng}')
+            continue # continue with next country
             file_path = "country_cords.json"
             country_to_cords = {k: list(v) for k, v in country_to_cords.items()}
             with open(file_path, "w") as json_file:
@@ -75,8 +77,9 @@ def main():
         try:
             country = location.address.split(", ")[-1]
         except Exception as e:
-            print(f"An error occurred: {e}")
+            print(f"An error occurred: {e} for {lat}, {lng}")
             print(f'Address = {location.address}')
+            continue # continue with next country
             file_path = "country_cords.json"
             country_to_cords = {k: list(v) for k, v in country_to_cords.items()}
             with open(file_path, "w") as json_file:
@@ -349,9 +352,19 @@ def remove_error_images():
 
 
 if __name__ == "__main__":
-    # for _ in range(2):
-    #     print("\n\n\n\n")
-    #     main()
-    # generate_images(get_api_key())
-    update_used_pano_ids()
-    # remove_error_images()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--cords", action="store_true", help="gets cords")
+    parser.add_argument("--imgs", action="store_true", help="gets images")
+    parser.add_argument("--sync", action="store_true", help="sync data")
+    parser.add_argument("--err", action="store_true", help="check for errors")
+    args = parser.parse_args()
+    if args.cords:
+        for _ in range(6):
+            print("\n\n\n\n")
+            main()
+    if args.imgs:
+        generate_images(get_api_key())
+    if args.sync:
+        update_used_pano_ids()
+    if args.err:
+        remove_error_images()
