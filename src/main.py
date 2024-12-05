@@ -78,7 +78,6 @@ def main():
             country = location.address.split(", ")[-1]
         except Exception as e:
             print(f"An error occurred: {e} for {lat}, {lng}")
-            print(f'Address = {location.address}')
             continue # continue with next country
             file_path = "country_cords.json"
             country_to_cords = {k: list(v) for k, v in country_to_cords.items()}
