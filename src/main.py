@@ -358,7 +358,7 @@ if __name__ == "__main__":
     parser.add_argument("--err", action="store_true", help="check for errors")
     args = parser.parse_args()
     if args.cords:
-        for _ in range(6):
+        for _ in range(20):
             print("\n\n\n\n")
             main()
     if args.imgs:
